@@ -1,5 +1,5 @@
-site_name: Unreal Engine 렌더링 시스템 분석
-site_description: UE 렌더링 아키텍처 심층 분석 문서
+site_name: 나태한진태
+site_description: 게임 개발과 그래픽스에 대한 기록
 site_author: JinNate
 site_url: https://onethingchanged.github.io/JinNate/
 
@@ -75,15 +75,22 @@ markdown_extensions:
 
 nav:
   - 홈: index.md
-  - 시작하기:
-    - 소개: index.md
-  - 기초:
-    - Ch.01 개요 및 기초: UE_Rendering_01_Overview.md
-    - Ch.02 멀티스레드 렌더링: UE_Rendering_02_MultiThreading.md
-  - 렌더링 파이프라인:
-    - Ch.03 렌더링 메커니즘: UE_Rendering_03_RenderingMechanism.md
-    - Ch.04 디퍼드 렌더링: UE_Rendering_04_DeferredRendering.md
-    - Ch.05 광원과 그림자: UE_Rendering_05_LightAndShadow.md
+  - 게임개발:
+    - game-dev/index.md
+  - 언리얼:
+    - unreal/index.md
+    - 렌더링 시스템 분석:
+      - unreal/rendering/index.md
+      - Ch.01 개요 및 기초: unreal/rendering/01-overview.md
+      - Ch.02 멀티스레드 렌더링: unreal/rendering/02-multithreading.md
+      - Ch.03 렌더링 메커니즘: unreal/rendering/03-rendering-mechanism.md
+      - Ch.04 디퍼드 렌더링: unreal/rendering/04-deferred-rendering.md
+      - Ch.05 광원과 그림자: unreal/rendering/05-light-and-shadow.md
+  - 그래픽스:
+    - graphics/index.md
+  - 프로그래밍:
+    - programming/index.md
+  - About: about.md
 
 extra:
   social:

@@ -1,116 +1,53 @@
-# Unreal Engine 렌더링 시스템 분석
+# 나태한진태
 
-![UE5 Banner](https://img2020.cnblogs.com/blog/1617944/202010/1617944-20201026110532663-1976776185.png)
-
----
-
-## 소개
-
-이 문서는 **Unreal Engine의 렌더링 시스템**을 심층 분석한 기술 문서입니다.
-
-원문 시리즈 [剖析虚幻渲染体系](https://www.cnblogs.com/timlly/p/13512787.html)를 기반으로 핵심 내용을 정리하였습니다.
+개발과 그래픽스에 대한 기록을 남기는 블로그입니다.
 
 ---
 
-## 문서 구성
-
-### 기초
-
-| 챕터 | 주제 | 핵심 내용 |
-|------|------|-----------|
-| [Ch.01](UE_Rendering_01_Overview.md) | **개요 및 기초** | 엔진 역사, C++ 기능, 메모리 관리, GC |
-| [Ch.02](UE_Rendering_02_MultiThreading.md) | **멀티스레드 렌더링** | 태스크 그래프, D3D12/Vulkan/Metal |
-
-### 렌더링 파이프라인
-
-| 챕터 | 주제 | 핵심 내용 |
-|------|------|-----------|
-| [Ch.03](UE_Rendering_03_RenderingMechanism.md) | **렌더링 메커니즘** | FMeshBatch, FMeshDrawCommand, 파이프라인 |
-| [Ch.04](UE_Rendering_04_DeferredRendering.md) | **디퍼드 렌더링** | G-Buffer, Lighting Pass, TBDR, Clustered |
-| [Ch.05](UE_Rendering_05_LightAndShadow.md) | **광원과 그림자** | CSM, PCF, PCSS, BRDF, 라이트 컬링 |
-
----
-
-## 빠른 참조
-
-### UE 렌더링 파이프라인 개요
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    UE Rendering Pipeline                     │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│   Game Thread          Render Thread           GPU          │
-│   ───────────          ─────────────           ───          │
-│                                                             │
-│   UPrimitiveComponent                                       │
-│         │                                                   │
-│         ▼                                                   │
-│   FPrimitiveSceneProxy ──→ FMeshBatch                      │
-│                                   │                         │
-│                                   ▼                         │
-│                            FMeshDrawCommand                 │
-│                                   │                         │
-│                                   ▼                         │
-│                              RHI Commands ──→ GPU Execute   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-### 핵심 클래스
-
-| 클래스 | 역할 |
-|--------|------|
-| `UPrimitiveComponent` | CPU 측 렌더링 가능 객체 |
-| `FPrimitiveSceneProxy` | 렌더링 스레드 미러 |
-| `FScene` | 월드의 렌더러 표현 |
-| `FMeshBatch` | 메시 요소 컬렉션 |
-| `FMeshDrawCommand` | 드로우 콜 상태 설명 |
-| `FDeferredShadingSceneRenderer` | 디퍼드 렌더링 구현 |
-
----
-
-## 기술 스택
+## 카테고리
 
 <div class="grid cards" markdown>
 
--   :material-unreal:{ .lg .middle } **Unreal Engine**
+-   :video_game: **게임개발**
 
     ---
 
-    게임 및 실시간 렌더링을 위한 상용 엔진
+    게임 개발 관련 글
 
--   :material-language-cpp:{ .lg .middle } **C++**
+    [:octicons-arrow-right-24: 바로가기](game-dev/index.md)
 
-    ---
-
-    Lambda, 스마트 포인터, 템플릿 활용
-
--   :material-gpu:{ .lg .middle } **Graphics API**
+-   :simple-unrealengine: **언리얼**
 
     ---
 
-    DirectX 12, Vulkan, Metal 지원
+    Unreal Engine 관련 글
 
--   :material-shader:{ .lg .middle } **HLSL/GLSL**
+    [:octicons-arrow-right-24: 바로가기](unreal/index.md)
+
+-   :material-cube-outline: **그래픽스**
 
     ---
 
-    셰이더 프로그래밍
+    컴퓨터 그래픽스 관련 글
+
+    [:octicons-arrow-right-24: 바로가기](graphics/index.md)
+
+-   :material-code-braces: **프로그래밍**
+
+    ---
+
+    프로그래밍 관련 글
+
+    [:octicons-arrow-right-24: 바로가기](programming/index.md)
 
 </div>
 
 ---
 
-## 참고 자료
+## 최근 글
 
-- [원문 시리즈 (중국어)](https://www.cnblogs.com/timlly/p/13512787.html)
-- [Unreal Engine 공식 문서](https://docs.unrealengine.com/)
-- [Epic Games GitHub](https://github.com/EpicGames/UnrealEngine)
-
----
-
-!!! tip "문서 활용"
-
-    각 챕터는 독립적으로 읽을 수 있지만, 순서대로 읽으면 UE 렌더링 시스템을
-    체계적으로 이해할 수 있습니다.
+- [Ch.05 광원과 그림자](unreal/rendering/05-light-and-shadow.md)
+- [Ch.04 디퍼드 렌더링](unreal/rendering/04-deferred-rendering.md)
+- [Ch.03 렌더링 메커니즘](unreal/rendering/03-rendering-mechanism.md)
+- [Ch.02 멀티스레드 렌더링](unreal/rendering/02-multithreading.md)
+- [Ch.01 개요 및 기초](unreal/rendering/01-overview.md)
