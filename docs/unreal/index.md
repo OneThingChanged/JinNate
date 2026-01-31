@@ -14,4 +14,4 @@ UE 렌더링 아키텍처 심층 분석 시리즈
 - [Ch.02 멀티스레드 렌더링](rendering/02-multithreading.md)
 - [Ch.03 렌더링 메커니즘](rendering/03-rendering-mechanism.md)
 - [Ch.04 디퍼드 렌더링](rendering/04-deferred-rendering.md)
-- [Ch.05 광원과 그림자](rendering/05-light-and-shadow.md)
+- [Ch.05 광원과 그림자](rendering/05-light-and-shadow/index.md) (5개 문서)

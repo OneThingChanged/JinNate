@@ -85,7 +85,13 @@ nav:
       - Ch.02 멀티스레드 렌더링: unreal/rendering/02-multithreading.md
       - Ch.03 렌더링 메커니즘: unreal/rendering/03-rendering-mechanism.md
       - Ch.04 디퍼드 렌더링: unreal/rendering/04-deferred-rendering.md
-      - Ch.05 광원과 그림자: unreal/rendering/05-light-and-shadow.md
+      - Ch.05 광원과 그림자:
+        - unreal/rendering/05-light-and-shadow/index.md
+        - 셰이더 시스템: unreal/rendering/05-light-and-shadow/01-shader-system.md
+        - BasePass: unreal/rendering/05-light-and-shadow/02-basepass.md
+        - 광원: unreal/rendering/05-light-and-shadow/03-light-sources.md
+        - LightingPass: unreal/rendering/05-light-and-shadow/04-lightingpass.md
+        - 그림자: unreal/rendering/05-light-and-shadow/05-shadows.md
   - 그래픽스:
     - graphics/index.md
   - 프로그래밍:

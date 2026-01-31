@@ -14,7 +14,7 @@ Unreal Engine의 렌더링 아키텍처를 심층 분석하는 시리즈입니�
 | [Ch.02](02-multithreading.md) | 멀티스레드 렌더링 | Game/Render/RHI 스레드, Task Graph |
 | [Ch.03](03-rendering-mechanism.md) | 렌더링 메커니즘 | FMeshBatch, FMeshDrawCommand, Mesh Pass |
 | [Ch.04](04-deferred-rendering.md) | 디퍼드 렌더링 | G-Buffer, Lighting Pass, TBDR |
-| [Ch.05](05-light-and-shadow.md) | 광원과 그림자 | Light Types, Shadow Mapping, BRDF |
+| [Ch.05](05-light-and-shadow/index.md) | 광원과 그림자 | Light Types, Shadow Mapping, BRDF (5개 문서) |
 
 ---
 
