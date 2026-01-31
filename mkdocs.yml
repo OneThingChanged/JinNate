@@ -1,0 +1,94 @@
+site_name: Unreal Engine 렌더링 시스템 분석
+site_description: UE 렌더링 아키텍처 심층 분석 문서
+site_author: JinNate
+site_url: https://onethingchanged.github.io/JinNate/
+
+repo_name: OneThingChanged/JinNate
+repo_url: https://github.com/OneThingChanged/JinNate
+
+theme:
+  name: material
+  language: ko
+  palette:
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 다크 모드로 전환
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 라이트 모드로 전환
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.code.annotate
+
+  icon:
+    repo: fontawesome/brands/github
+
+plugins:
+  - search:
+      lang:
+        - en
+        - ko
+  - glightbox  # 이미지 라이트박스
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - 홈: index.md
+  - 시작하기:
+    - 소개: index.md
+  - 기초:
+    - Ch.01 개요 및 기초: UE_Rendering_01_Overview.md
+    - Ch.02 멀티스레드 렌더링: UE_Rendering_02_MultiThreading.md
+  - 렌더링 파이프라인:
+    - Ch.03 렌더링 메커니즘: UE_Rendering_03_RenderingMechanism.md
+    - Ch.04 디퍼드 렌더링: UE_Rendering_04_DeferredRendering.md
+    - Ch.05 광원과 그림자: UE_Rendering_05_LightAndShadow.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/OneThingChanged
+  generator: false
+
+copyright: Copyright &copy; 2024 JinNate
