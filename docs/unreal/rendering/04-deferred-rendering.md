@@ -18,7 +18,7 @@
 
 ---
 
-## 1. 디퍼드 렌더링 개요
+## 1. 디퍼드 렌더링 개요 {#1-디퍼드-렌더링-개요}
 
 ### 핵심 개념
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 2. G-Buffer 구조
+## 2. G-Buffer 구조 {#2-g-buffer-구조}
 
 ### 2.1 저장 데이터
 
@@ -63,7 +63,7 @@ G-Buffer는 Base Pass에서 기록되는 기하학적 데이터를 저장합니�
 
 ---
 
-## 3. 렌더링 파이프라인 순서
+## 3. 렌더링 파이프라인 순서 {#3-렌더링-파이프라인-순서}
 
 ### 3.1 UpdateAllPrimitiveSceneInfos
 
@@ -136,7 +136,7 @@ for each pixel in RenderTarget:
 
 ---
 
-## 4. Forward vs Deferred 비교
+## 4. Forward vs Deferred 비교 {#4-forward-vs-deferred-비교}
 
 | 측면 | Deferred | Forward |
 |------|----------|---------|
@@ -150,7 +150,7 @@ for each pixel in RenderTarget:
 
 ---
 
-## 5. 디퍼드 렌더링 변형
+## 5. 디퍼드 렌더링 변형 {#5-디퍼드-렌더링-변형}
 
 ### 5.1 Tiled Deferred Rendering (TBDR)
 
@@ -233,7 +233,7 @@ GBuffer를 삼각형 ID + 인스턴스 ID (4 bytes)로 대체하고, 속성 보�
 
 ---
 
-## 6. UE 핵심 클래스
+## 6. UE 핵심 클래스 {#6-ue-핵심-클래스}
 
 ### 6.1 FSceneRenderer
 
@@ -268,7 +268,7 @@ scatter-upload 패턴으로 GPU 측 프리미티브 데이터 관리, 텍스처�
 
 ---
 
-## 7. 스크린 스페이스 기법
+## 7. 스크린 스페이스 기법 {#7-스크린-스페이스-기법}
 
 GBuffer 데이터를 필요로 하는 포스트 프로세스 효과:
 
@@ -282,7 +282,7 @@ GBuffer 데이터를 필요로 하는 포스트 프로세스 효과:
 
 ---
 
-## 8. UE 프레임 분석
+## 8. UE 프레임 분석 {#8-ue-프레임-분석}
 
 ### 8.1 GPU Visualizer
 
