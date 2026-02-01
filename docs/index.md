@@ -46,8 +46,8 @@
 
 ## 최근 글
 
+- [Ch.19 애니메이션 렌더링](unreal/rendering/19-animation-rendering/index.md)
+- [Ch.18 시네마틱 렌더링](unreal/rendering/18-cinematic-rendering/index.md)
+- [Ch.17 VR/XR 렌더링](unreal/rendering/17-vr-xr-rendering/index.md)
+- [Ch.16 모바일 렌더링](unreal/rendering/16-mobile-rendering/index.md)
 - [Ch.15 월드 렌더링](unreal/rendering/15-world-rendering/index.md)
-- [Ch.14 특수 렌더링 기법](unreal/rendering/14-special-techniques/index.md)
-- [Ch.13 렌더링 확장](unreal/rendering/13-rendering-extensions/index.md)
-- [Ch.12 최적화 및 디버깅](unreal/rendering/12-optimization-debugging/index.md)
-- [Ch.11 GPU 파티클](unreal/rendering/11-gpu-particles/index.md)
