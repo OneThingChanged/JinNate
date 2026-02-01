@@ -8,7 +8,7 @@ Unreal Engine 관련 글을 정리합니다.
 
 ### [렌더링 시스템 분석](rendering/index.md)
 
-UE 렌더링 아키텍처 심층 분석 시리즈 (총 97개 문서)
+UE 렌더링 아키텍처 심층 분석 시리즈 (총 112개 문서)
 
 | 챕터 | 주제 | 문서 수 |
 |------|------|--------|
@@ -31,3 +31,6 @@ UE 렌더링 아키텍처 심층 분석 시리즈 (총 97개 문서)
 | [Ch.17](rendering/17-vr-xr-rendering/index.md) | VR/XR 렌더링 | 5개 |
 | [Ch.18](rendering/18-cinematic-rendering/index.md) | 시네마틱 렌더링 | 5개 |
 | [Ch.19](rendering/19-animation-rendering/index.md) | 애니메이션 렌더링 | 5개 |
+| [Ch.20](rendering/20-ui-rendering/index.md) | UI 렌더링 | 5개 |
+| [Ch.21](rendering/21-optimization-techniques/index.md) | 최적화 기법 종합 | 5개 |
+| [Ch.22](rendering/22-practical-tools/index.md) | 실용 도구 모음 | 5개 |

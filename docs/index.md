@@ -46,8 +46,8 @@
 
 ## 최근 글
 
+- [Ch.22 실용 도구 모음](unreal/rendering/22-practical-tools/index.md)
+- [Ch.21 최적화 기법 종합](unreal/rendering/21-optimization-techniques/index.md)
+- [Ch.20 UI 렌더링](unreal/rendering/20-ui-rendering/index.md)
 - [Ch.19 애니메이션 렌더링](unreal/rendering/19-animation-rendering/index.md)
 - [Ch.18 시네마틱 렌더링](unreal/rendering/18-cinematic-rendering/index.md)
-- [Ch.17 VR/XR 렌더링](unreal/rendering/17-vr-xr-rendering/index.md)
-- [Ch.16 모바일 렌더링](unreal/rendering/16-mobile-rendering/index.md)
-- [Ch.15 월드 렌더링](unreal/rendering/15-world-rendering/index.md)
