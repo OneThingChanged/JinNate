@@ -69,3 +69,9 @@ UE의 디퍼드 셰이딩 아키텍처와 G-Buffer 시스템을 분석합니다.
 - [원문 시리즈 (중국어)](https://www.cnblogs.com/timlly/p/14732412.html)
 - [NVIDIA GPU Gems - Deferred Rendering](https://developer.nvidia.com/gpugems/)
 - [AMD GPUOpen](https://gpuopen.com/)
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../03-rendering-mechanism/05-draw-commands-optimization/" style="text-decoration: none;">← 이전: Ch.03 05. 렌더링 메커니즘</a>
+  <a href="01-deferred-overview/" style="text-decoration: none;">다음: 01. 디퍼드 렌더링 개요 →</a>
+</div>

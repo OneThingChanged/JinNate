@@ -4,6 +4,22 @@
 
 ---
 
+## 플랫폼별 좌표계 차이
+
+![UV 좌표계 차이](../images/ch08/1617944-20210802224442188-2004952367.png)
+
+*Direct3D와 OpenGL의 UV 좌표계 차이 - 셰이더에서 플랫폼별 좌표 처리 필요*
+
+---
+
+## Feature Level Switch
+
+![Feature Level Switch 노드](../images/ch08/1617944-20210802224658662-464301440.jpg)
+
+*머티리얼 에디터의 Quality Switch, Feature Level Switch 노드 - ES2, ES3_1, SM5 등 플랫폼별 셰이더 분기*
+
+---
+
 ## 그래픽스 파이프라인 스테이지
 
 ```
@@ -605,3 +621,9 @@ void MissShader(inout FRayPayload Payload)
 | Ray Tracing | 광선 추적 | 광선 | 교차 결과 |
 
 각 셰이더 타입은 그래픽스 파이프라인에서 고유한 역할을 담당합니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../02-shader-compilation/" style="text-decoration: none;">← 이전: 02. 셰이더 컴파일</a>
+  <a href="../04-shader-binding/" style="text-decoration: none;">다음: 04. 파라미터 바인딩 →</a>
+</div>

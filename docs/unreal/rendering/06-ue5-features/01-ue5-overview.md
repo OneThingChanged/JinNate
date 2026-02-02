@@ -15,6 +15,9 @@ Epic Games가 UE5에서 설정한 목표:
 3. **대규모 오픈 월드** - 스트리밍과 LOD의 자동화
 4. **크로스 플랫폼 확장성** - PC부터 모바일까지
 
+![UE5 차세대 그래픽 비전](../images/ch06/1617944-20210624165051533-10948778.jpg)
+*UE5의 차세대 그래픽 비전*
+
 ```cpp
 // UE5의 렌더링 철학
 // "아티스트가 기술적 제약 없이 창작에 집중할 수 있도록"
@@ -45,6 +48,9 @@ class UE5_Workflow
 
 ### RDG (Render Dependency Graph) 강화
 
+![RDG 시스템](../images/ch06/1617944-20210624165100294-2019055079.jpg)
+*UE5 Render Dependency Graph 구조*
+
 ```cpp
 // UE5에서 강화된 RDG 시스템
 class FRDGBuilder
@@ -74,6 +80,9 @@ private:
 ```
 
 ### 새로운 렌더링 경로
+
+![UE5 렌더링 파이프라인](../images/ch06/1617944-20210624165119237-194961148.jpg)
+*UE5 렌더링 파이프라인 개요*
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -131,6 +140,9 @@ private:
 
 ### 패러다임 전환
 
+![GPU-Driven 렌더링](../images/ch06/1617944-20210624165126512-727175563.jpg)
+*CPU-Driven에서 GPU-Driven으로의 전환*
+
 ```cpp
 // UE4: CPU-Driven 렌더링
 class FCPUDrivenRenderer
@@ -186,6 +198,9 @@ class FGPUDrivenRenderer
 
 ### Indirect Draw 활용
 
+![Indirect Draw 구조](../images/ch06/1617944-20210624165134010-1081960118.jpg)
+*GPU-Driven Indirect Draw 구조*
+
 ```cpp
 // GPU-Driven을 위한 Indirect Draw
 struct FDrawIndirectArgs
@@ -222,6 +237,9 @@ RHICmdList.DrawIndexedIndirect(DrawArgsBuffer, 0);
 
 ### 1. Nanite (가상화 지오메트리)
 
+![Nanite 개요](../images/ch06/1617944-20210624165141972-1621035580.jpg)
+*Nanite 가상화 지오메트리 개요*
+
 ```cpp
 // Nanite의 핵심 데이터 구조
 struct FNaniteCluster
@@ -243,6 +261,9 @@ struct FNaniteClusterGroup
 ```
 
 ### 2. Lumen (글로벌 일루미네이션)
+
+![Lumen 개요](../images/ch06/1617944-20210624165155030-1193253669.jpg)
+*Lumen 글로벌 일루미네이션 시스템*
 
 ```cpp
 // Lumen의 씬 표현
@@ -272,6 +293,9 @@ enum class ELumenTracingMethod
 
 ### 3. Virtual Shadow Maps
 
+![VSM 개요](../images/ch06/1617944-20210624165246289-612389265.jpg)
+*Virtual Shadow Maps 구조*
+
 ```cpp
 // 가상 섀도우 맵 구조
 class FVirtualShadowMap
@@ -291,6 +315,9 @@ class FVirtualShadowMap
 ```
 
 ### 4. TSR (Temporal Super Resolution)
+
+![TSR 개요](../images/ch06/1617944-20210624165305887-2106608146.jpg)
+*Temporal Super Resolution 파이프라인*
 
 ```cpp
 // TSR 파이프라인
@@ -327,6 +354,9 @@ class FTemporalSuperResolution
 ## 기존 시스템과의 통합
 
 ### 폴백 경로
+
+![폴백 시스템](../images/ch06/1617944-20210624165325590-362635880.webp)
+*Nanite 폴백 시스템*
 
 ```cpp
 // Nanite 미지원 시 폴백
@@ -369,9 +399,9 @@ void FSceneRenderer::RenderOpaque()
 │                                                                 │
 │  Scene Objects                                                  │
 │       │                                                         │
-│       ├─────────────────────────────────────────┐               │
-│       │                                         │               │
-│       ▼                                         ▼               │
+│       ├─────────────────────────────────────┐                   │
+│       │                                     │                   │
+│       ▼                                     ▼                   │
 │  ┌──────────────────┐               ┌──────────────────┐       │
 │  │  Nanite Meshes   │               │ Traditional Mesh │       │
 │  │                  │               │                  │       │
@@ -434,6 +464,9 @@ r.Shadow.Virtual.ResolutionLodBiasDirectional=0
 
 ### 시각화 명령어
 
+![디버그 시각화](../images/ch06/1617944-20210624165453106-1831643608.webp)
+*Nanite 디버그 시각화*
+
 ```cpp
 // Nanite 시각화
 r.Nanite.Visualize.Overview        // 전체 개요
@@ -470,3 +503,9 @@ stat ShadowRendering // 그림자 렌더링 통계
 | TSR | 성능 확보 | 템포럴 업스케일링 |
 
 다음 문서에서 각 시스템을 상세히 분석합니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../" style="text-decoration: none;">← 이전: Ch.06 개요</a>
+  <a href="../02-nanite/" style="text-decoration: none;">다음: 02. Nanite 가상화 지오메트리 →</a>
+</div>

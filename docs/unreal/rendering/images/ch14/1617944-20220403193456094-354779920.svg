@@ -1,0 +1,3986 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="3600"
+   height="1200"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path6788"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path6794"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+  </defs>
+  <g
+     transform="translate(1404.4727,-125.1647)"
+     id="layer1">
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g4721">
+      <rect
+         width="112.56801"
+         height="55.891781"
+         x="-1403.4727"
+         y="565.32098"
+         id="rect2170"
+         style="fill:#00ff7f;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-1347.4095"
+         y="583.85822"
+         id="text3143"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-1347.4095"
+           y="583.85822"
+           id="tspan3145">Freescape Engine</tspan></text>
+      <text
+         x="-1347.3448"
+         y="593.09064"
+         id="text3147"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-1347.3448"
+           y="593.09064"
+           id="tspan3149">Incentive Software, 1986</tspan></text>
+      <text
+         x="-1347.1317"
+         y="600.93512"
+         id="text3151"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-1347.1317"
+           y="600.93512"
+           id="tspan3153"
+           style="font-style:italic">(Driller, Castle Master, Dark Side,</tspan></text>
+      <text
+         x="-1347.4082"
+         y="609.17181"
+         id="text3155"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-1347.4082"
+           y="609.17181"
+           id="tspan3157"
+           style="font-style:italic">Total Eclipse)</tspan></text>
+    </g>
+    <g
+       transform="translate(25.756441,3.1321194)"
+       id="g4750">
+      <rect
+         width="112.56801"
+         height="51.562424"
+         x="-1202.6666"
+         y="263.59436"
+         id="rect3159"
+         style="fill:#00ff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-1146.5765"
+         y="280.22571"
+         id="text3161"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-1146.5765"
+           y="280.22571"
+           id="tspan3163">Doom Engine</tspan></text>
+      <text
+         x="-1146.5404"
+         y="288.42307"
+         id="text3165"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-1146.5404"
+           y="288.42307"
+           id="tspan3167">Id Software, 1993</tspan></text>
+      <text
+         x="-1146.1923"
+         y="296.78506"
+         id="text3169"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-1146.1923"
+           y="296.78506"
+           id="tspan3171"
+           style="font-style:italic">Doom, Doom II, HeXen, Heretic,</tspan></text>
+      <text
+         x="-1146.4216"
+         y="305.02176"
+         id="text3173"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-1146.4216"
+           y="305.02176"
+           id="tspan3175"
+           style="font-style:italic">Strife, HacX)</tspan></text>
+    </g>
+    <g
+       transform="translate(21.184222,3.5231983)"
+       id="g4801">
+      <rect
+         width="112.56801"
+         height="50.663353"
+         x="-582.13452"
+         y="504.76865"
+         id="rect3177"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-525.8559"
+         y="521.02045"
+         id="text3179"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-525.8559"
+           y="521.02045"
+           id="tspan3181">Quake Engine</tspan></text>
+      <text
+         x="-526.00671"
+         y="529.21783"
+         id="text3183"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-526.00671"
+           y="529.21783"
+           id="tspan3185">Id Software, 1996</tspan></text>
+      <text
+         x="-525.86029"
+         y="537.57983"
+         id="text3187"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-525.86029"
+           y="537.57983"
+           id="tspan3189"
+           style="font-style:normal">QuakeC</tspan></text>
+      <text
+         x="-525.93671"
+         y="545.81653"
+         id="text3191"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-525.93671"
+           y="545.81653"
+           id="tspan3193"
+           style="font-style:italic">(Quake, HeXen II, Laser Arena)</tspan></text>
+    </g>
+    <g
+       transform="translate(16.899902,4.4123394)"
+       id="g5030">
+      <rect
+         width="112.3286"
+         height="60.031555"
+         x="-372.41052"
+         y="499.1954"
+         id="rect3195"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-316.25162"
+         y="512.46503"
+         id="text3197"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-316.25162"
+           y="512.46503"
+           id="tspan3199">Quake II Engine</tspan></text>
+      <text
+         x="-316.40402"
+         y="520.66241"
+         id="text3201"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-316.40402"
+           y="520.66241"
+           id="tspan3203">Id Software, 1997</tspan></text>
+      <text
+         x="-316.27875"
+         y="529.02441"
+         id="text3205"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-316.27875"
+           y="529.02441"
+           id="tspan3207"
+           style="font-style:normal">C, C++, QuakeC</tspan></text>
+      <text
+         x="-316.48697"
+         y="537.26111"
+         id="text3209"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-316.48697"
+           y="537.26111"
+           id="tspan3211"
+           style="font-style:italic">(Quake II, Heretic II, Sin, Kingpin:</tspan></text>
+      <text
+         x="-316.04126"
+         y="544.92743"
+         id="text3213"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-316.04126"
+           y="544.92743"
+           id="tspan3215"
+           style="font-style:italic">Life of Crime, Soldier of Fortune,</tspan></text>
+      <text
+         x="-316.19904"
+         y="552.59375"
+         id="text3217"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-316.19904"
+           y="552.59375"
+           id="tspan3219"
+           style="font-style:italic">Daikatana Anachronox)</tspan></text>
+    </g>
+    <g
+       transform="translate(9.640617,8.9550431)"
+       id="g4991">
+      <rect
+         width="134.26376"
+         height="54.434376"
+         x="-170.79886"
+         y="612.74445"
+         id="rect3263"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-103.72894"
+         y="627.27161"
+         id="text3265"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-103.72894"
+           y="627.27161"
+           id="tspan3267">GoldSrc Engine</tspan></text>
+      <text
+         x="-103.53358"
+         y="635.46899"
+         id="text3269"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-103.53358"
+           y="635.46899"
+           id="tspan3271">Valve, 1998</tspan></text>
+      <text
+         x="-103.95004"
+         y="643.95007"
+         id="text3277"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-103.95004"
+           y="643.95007"
+           id="tspan3279"
+           style="font-style:italic">(Half-Life, Half-Life: Opposing Force, Half-</tspan></text>
+      <text
+         x="-103.70439"
+         y="651.61639"
+         id="text3281"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-103.70439"
+           y="651.61639"
+           id="tspan3283"
+           style="font-style:italic">Life: Blue Shift, Counter-Strike, Gunman</tspan></text>
+      <text
+         x="-103.77435"
+         y="659.28271"
+         id="text3285"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-103.77435"
+           y="659.28271"
+           id="tspan3287"
+           style="font-style:italic">Chronicles, Nightfire, Day of Defeat)</tspan></text>
+    </g>
+    <g
+       transform="translate(17.741077,6.0954983)"
+       id="g5071">
+      <rect
+         width="167.62378"
+         height="68.953079"
+         x="9.7406349"
+         y="493.05148"
+         id="rect3289"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="93.547134"
+         y="510.79163"
+         id="text3291"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="93.547134"
+           y="510.79163"
+           id="tspan3293">Quake III Arena Engine</tspan></text>
+      <text
+         x="93.389847"
+         y="518.98901"
+         id="text3295"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="93.389847"
+           y="518.98901"
+           id="tspan3297">Id Software, 1999</tspan></text>
+      <text
+         x="93.519989"
+         y="527.35101"
+         id="text3299"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="93.519989"
+           y="527.35101"
+           id="tspan3301"
+           style="font-style:normal">C++, QuakeC</tspan></text>
+      <text
+         x="93.31176"
+         y="535.58771"
+         id="text3303"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="93.31176"
+           y="535.58771"
+           id="tspan3305"
+           style="font-style:italic">(Quake III: Arena, Heavy Metal: F.A.K.K. 2, Star Trek:</tspan></text>
+      <text
+         x="93.139328"
+         y="543.25403"
+         id="text3307"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="94.063332"
+           y="543.25403"
+           id="tspan3309"
+           style="font-style:italic">Voyager Elite Force, America McGee's Alice, The </tspan></text>
+      <text
+         x="92.989662"
+         y="550.92035"
+         id="text3311"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="92.989662"
+           y="550.92035"
+           id="tspan3313"
+           style="font-style:italic">World Is Not Enough, Medal of Honor: Allied Assault</tspan></text>
+    </g>
+    <g
+       transform="translate(17.741081,6.0954983)"
+       id="g5112">
+      <rect
+         width="143.1976"
+         height="62.141342"
+         x="21.953728"
+         y="411.69427"
+         id="rect3315"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="93.547142"
+         y="426.01877"
+         id="text3317"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="93.547142"
+           y="426.01877"
+           id="tspan3319">Quake-derivative Engine</tspan></text>
+      <text
+         x="93.389854"
+         y="434.21616"
+         id="text3321"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="93.389854"
+           y="434.21616"
+           id="tspan3323">Id Software, 1999</tspan></text>
+      <text
+         x="93.49559"
+         y="442.57816"
+         id="text3325"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="93.49559"
+           y="442.57816"
+           id="tspan3327"
+           style="font-style:normal">GPL</tspan></text>
+      <text
+         x="93.609467"
+         y="450.81485"
+         id="text3329"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="93.609467"
+           y="450.81485"
+           id="tspan3331"
+           style="font-style:italic">(DarkPlaces, Tenebrae, Telejano,</tspan></text>
+      <text
+         x="93.476074"
+         y="458.48117"
+         id="text3333"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="93.476074"
+           y="458.48117"
+           id="tspan3335"
+           style="font-style:italic">Tomez, Twilight, QuakeBUP, FTE,</tspan></text>
+      <text
+         x="93.440285"
+         y="466.14749"
+         id="text3337"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="93.440285"
+           y="466.14749"
+           id="tspan3339"
+           style="font-style:italic">QuakeForge, Zquake)</tspan></text>
+    </g>
+    <g
+       transform="translate(45.593459,3.7981016)"
+       id="g5145">
+      <rect
+         width="102.2382"
+         height="51.080399"
+         x="14.581037"
+         y="341.427"
+         id="rect3341"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="65.506172"
+         y="357.72849"
+         id="text3343"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="65.506172"
+           y="357.72849"
+           id="tspan3345">DarkPlaces Engine</tspan></text>
+      <text
+         x="65.757072"
+         y="367.3696"
+         id="text3347"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="65.757072"
+           y="367.3696"
+           id="tspan3349"
+           style="font-style:italic">(Nexulz, The Ascension of Vigil,</tspan></text>
+      <text
+         x="65.957161"
+         y="375.03592"
+         id="text3351"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="65.957161"
+           y="375.03592"
+           id="tspan3353"
+           style="font-style:italic">Zymotic, Netherworld,</tspan></text>
+      <text
+         x="65.747307"
+         y="382.70224"
+         id="text3355"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="65.747307"
+           y="382.70224"
+           id="tspan3357"
+           style="font-style:italic">DarkMaster)</tspan></text>
+    </g>
+    <g
+       transform="translate(24.408004,6.0954983)"
+       id="g5231">
+      <rect
+         width="178.07259"
+         height="78.582703"
+         x="203.1693"
+         y="373.95996"
+         id="rect3359"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="292.2002"
+         y="388.10846"
+         id="text3361"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="292.2002"
+           y="388.10846"
+           id="tspan3363">Quake III Team Arena Engine</tspan></text>
+      <text
+         x="292.05594"
+         y="396.30585"
+         id="text3365"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="292.05594"
+           y="396.30585"
+           id="tspan3367">Id Software, 2000</tspan></text>
+      <text
+         x="292.17307"
+         y="405.48703"
+         id="text3369"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="292.17307"
+           y="405.48703"
+           id="tspan3371"
+           style="font-style:normal">C++, QuakeC</tspan></text>
+      <text
+         x="292.26251"
+         y="413.31415"
+         id="text3373"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="292.26251"
+           y="413.31415"
+           id="tspan3375"
+           style="font-style:italic">(Quake III: Team Arena, Return to Castle Wolfenstein,</tspan></text>
+      <text
+         x="291.82169"
+         y="420.98047"
+         id="text3377"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="291.82169"
+           y="420.98047"
+           id="tspan3379"
+           style="font-style:italic">Star Wars Jedi Knight: Jedi Outcast, Star Wars Jedi</tspan></text>
+      <text
+         x="291.6232"
+         y="428.64679"
+         id="text3381"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="291.6232"
+           y="428.64679"
+           id="tspan3383"
+           style="font-style:italic">Knight: Jedi Academy, Star Trek: Elite Force II, Call of</tspan></text>
+      <text
+         x="292.09824"
+         y="437.36423"
+         id="text3385"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="292.09824"
+           y="437.36423"
+           id="tspan3387"
+           style="font-style:italic">Duty, Call of Duty: United Offensive, Soldier of Fortune II:</tspan></text>
+      <text
+         x="292.25278"
+         y="445.03055"
+         id="text3389"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="292.25278"
+           y="445.03055"
+           id="tspan3391"
+           style="font-style:italic">Double Helix)</tspan></text>
+    </g>
+    <g
+       transform="translate(14.325828,6.8448727)"
+       id="g6186">
+      <rect
+         width="112.47296"
+         height="55.990433"
+         x="1272.6514"
+         y="257.6676"
+         id="rect3393"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1328.6938"
+         y="272.69592"
+         id="text3395"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1328.6938"
+           y="272.69592"
+           id="tspan3397">Doom3 Engine</tspan></text>
+      <text
+         x="1328.7122"
+         y="280.89331"
+         id="text3399"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1328.7122"
+           y="280.89331"
+           id="tspan3401">Id Software, 2005</tspan></text>
+      <text
+         x="1328.9073"
+         y="289.25531"
+         id="text3403"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1328.9073"
+           y="289.25531"
+           id="tspan3405"
+           style="font-style:normal">C++</tspan></text>
+      <text
+         x="1328.4031"
+         y="297.492"
+         id="text3407"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1328.4031"
+           y="297.492"
+           id="tspan3409"
+           style="font-style:italic">(Doom 3, Quake 4, Prey, Enemy</tspan></text>
+      <text
+         x="1328.6682"
+         y="305.15833"
+         id="text3411"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1328.6682"
+           y="305.15833"
+           id="tspan3413"
+           style="font-style:italic">Territory, Quake Wars)</tspan></text>
+    </g>
+    <g
+       transform="translate(21.472674,5.8338406)"
+       id="g4826">
+      <rect
+         width="112.56801"
+         height="43.470787"
+         x="-582.42297"
+         y="729.96857"
+         id="rect3437"
+         style="fill:#00ff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-526.05548"
+         y="746.67242"
+         id="text3439"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-526.05548"
+           y="746.67242"
+           id="tspan3441">Jedi Engine</tspan></text>
+      <text
+         x="-526.22845"
+         y="754.86981"
+         id="text3443"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-526.22845"
+           y="754.86981"
+           id="tspan3445">LucasArts, 1996</tspan></text>
+      <text
+         x="-526.22516"
+         y="763.23181"
+         id="text3447"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-526.22516"
+           y="763.23181"
+           id="tspan3449"
+           style="font-style:italic">(Star Wars:Dark Forces, Outlaws)</tspan></text>
+    </g>
+    <g
+       transform="translate(21.472674,6.0954983)"
+       id="g4857">
+      <rect
+         width="112.56801"
+         height="55.045036"
+         x="-582.42297"
+         y="845.71106"
+         id="rect3455"
+         style="fill:#00ff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-526.3114"
+         y="860.37238"
+         id="text3457"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-526.3114"
+           y="860.37238"
+           id="tspan3459">Build Engine</tspan></text>
+      <text
+         x="-526.12433"
+         y="868.56976"
+         id="text3461"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-526.12433"
+           y="868.56976"
+           id="tspan3463">3D Realms, 1996</tspan></text>
+      <text
+         x="-526.17151"
+         y="876.93176"
+         id="text3465"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-526.17151"
+           y="876.93176"
+           id="tspan3467"
+           style="font-style:normal">C</tspan></text>
+      <text
+         x="-526.08203"
+         y="884.22906"
+         id="text3473"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-526.08203"
+           y="884.22906"
+           id="tspan3475"
+           style="font-style:italic">(Duke Nukem 3D, Blood,</tspan></text>
+      <text
+         x="-526.36023"
+         y="892.59106"
+         id="text3477"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-526.36023"
+           y="892.59106"
+           id="tspan3479"
+           style="font-style:italic">Witchaven, Shadow Warrior)</tspan></text>
+    </g>
+    <g
+       transform="translate(21.500811,6.357156)"
+       id="g6611">
+      <rect
+         width="112.56801"
+         height="43.470787"
+         x="-376.52136"
+         y="729.44525"
+         id="rect3481"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-320.25351"
+         y="742.09808"
+         id="text3483"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-320.25351"
+           y="742.09808"
+           id="tspan3485">Sith Engine</tspan></text>
+      <text
+         x="-320.32846"
+         y="750.29547"
+         id="text3487"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-320.32846"
+           y="750.29547"
+           id="tspan3489">LucasArts, 1997</tspan></text>
+      <text
+         x="-320.66846"
+         y="758.65747"
+         id="text3491"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-320.66846"
+           y="758.65747"
+           id="tspan3493"
+           style="font-style:italic">(Jedi Knight: Dark Forces II, Jedi</tspan></text>
+      <text
+         x="-320.19019"
+         y="766.89417"
+         id="text3495"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-320.19019"
+           y="766.89417"
+           id="tspan3497"
+           style="font-style:italic">Knight: Mysteries of the Sith)</tspan></text>
+    </g>
+    <g
+       transform="translate(24.776812,2.6573422)"
+       id="g4954">
+      <rect
+         width="112.3286"
+         height="60.910782"
+         x="-174.96744"
+         y="715.70197"
+         id="rect3533"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-119.00518"
+         y="729.3573"
+         id="text3535"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-119.00518"
+           y="729.3573"
+           id="tspan3537">Unreal 1.0 Engine</tspan></text>
+      <text
+         x="-118.91864"
+         y="737.55469"
+         id="text3539"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-118.91864"
+           y="737.55469"
+           id="tspan3541">Epic, 1998</tspan></text>
+      <text
+         x="-118.9463"
+         y="745.91669"
+         id="text3543"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-118.9463"
+           y="745.91669"
+           id="tspan3545"
+           style="font-style:normal">C++, UnrealScript</tspan></text>
+      <text
+         x="-119.23098"
+         y="754.15338"
+         id="text3547"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-119.23098"
+           y="754.15338"
+           id="tspan3549"
+           style="font-style:italic">(Unreal, Star Trek: Next</tspan></text>
+      <text
+         x="-119.24074"
+         y="761.8197"
+         id="text3551"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-119.24074"
+           y="761.8197"
+           id="tspan3553"
+           style="font-style:italic">Generation: Klingon Guard, TNN</tspan></text>
+      <text
+         x="-118.91213"
+         y="769.48602"
+         id="text3555"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-118.91213"
+           y="769.48602"
+           id="tspan3557"
+           style="font-style:italic">Outdoors Pro Hunter)</tspan></text>
+    </g>
+    <g
+       transform="translate(24.776812,6.0954983)"
+       id="g4917">
+      <rect
+         width="112.3286"
+         height="54.617287"
+         x="-174.96744"
+         y="785.14746"
+         id="rect3559"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-118.9971"
+         y="803.21765"
+         id="text3561"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-118.9971"
+           y="803.21765"
+           id="tspan3563">Dark Engine</tspan></text>
+      <text
+         x="-118.89912"
+         y="811.41504"
+         id="text3565"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-118.89912"
+           y="811.41504"
+           id="tspan3567">Looking Glass Studio(?), 1998</tspan></text>
+      <text
+         x="-118.7462"
+         y="820.52448"
+         id="text3573"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-118.7462"
+           y="820.52448"
+           id="tspan3575"
+           style="font-style:italic">(Thief: The Dark Project, Thief II,</tspan></text>
+      <text
+         x="-119.02275"
+         y="828.1908"
+         id="text3577"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-119.02275"
+           y="828.1908"
+           id="tspan3579"
+           style="font-style:italic">The Metal Age, System Shock 2)</tspan></text>
+    </g>
+    <g
+       transform="translate(24.776812,6.2645046)"
+       id="g4888">
+      <rect
+         width="112.3286"
+         height="54.617287"
+         x="-174.96744"
+         y="858.67798"
+         id="rect3581"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-118.97555"
+         y="876.76434"
+         id="text3583"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-118.97555"
+           y="876.76434"
+           id="tspan3585">LithTech 1.0 Engine</tspan></text>
+      <text
+         x="-118.89261"
+         y="884.96173"
+         id="text3587"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-118.89261"
+           y="884.96173"
+           id="tspan3589">LithTech, 1996</tspan></text>
+      <text
+         x="-118.7462"
+         y="894.07117"
+         id="text3591"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-118.7462"
+           y="894.07117"
+           id="tspan3593"
+           style="font-style:italic">(ShogoL Mobile Armor Division,</tspan></text>
+      <text
+         x="-118.75271"
+         y="901.73749"
+         id="text3595"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-118.75271"
+           y="901.73749"
+           id="tspan3597"
+           style="font-style:italic">Blood II: The Chosen)</tspan></text>
+    </g>
+    <g
+       transform="translate(23.121888,4.2571556)"
+       id="g5182">
+      <rect
+         width="127.30704"
+         height="57.711155"
+         x="24.518164"
+         y="715.70197"
+         id="rect3599"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="87.969643"
+         y="727.75751"
+         id="text3601"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="87.969643"
+           y="727.75751"
+           id="tspan3603">Unreal 1.5 Engine</tspan></text>
+      <text
+         x="88.056183"
+         y="735.9549"
+         id="text3605"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="88.056183"
+           y="735.9549"
+           id="tspan3607">Epic, 1999</tspan></text>
+      <text
+         x="88.028526"
+         y="744.31689"
+         id="text3609"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="88.028526"
+           y="744.31689"
+           id="tspan3611"
+           style="font-style:normal">C++, UnrealScript</tspan></text>
+      <text
+         x="88.228622"
+         y="752.55359"
+         id="text3613"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="88.228622"
+           y="752.55359"
+           id="tspan3615"
+           style="font-style:italic">(Unreal Tournament, Deus Ex, Rune,</tspan></text>
+      <text
+         x="87.839821"
+         y="760.21991"
+         id="text3617"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="87.839821"
+           y="760.21991"
+           id="tspan3619"
+           style="font-style:italic">Tactical Ops: Assault on Terror, The</tspan></text>
+      <text
+         x="87.950439"
+         y="767.88623"
+         id="text3621"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="87.950439"
+           y="767.88623"
+           id="tspan3623"
+           style="font-style:italic">Wheel of Time, Clive Banker's Undying)</tspan></text>
+    </g>
+    <g
+       transform="translate(25.892509,6.0954983)"
+       id="g5272">
+      <rect
+         width="132.07291"
+         height="54.617287"
+         x="224.6846"
+         y="781.06244"
+         id="rect3649"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="290.28464"
+         y="793.50818"
+         id="text3651"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="290.28464"
+           y="793.50818"
+           id="tspan3653">RealArcade LithTech /</tspan></text>
+      <text
+         x="291.09033"
+         y="814.53229"
+         id="text3663"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="291.09033"
+           y="814.53229"
+           id="tspan3665"
+           style="font-style:normal">LithTech &amp; RealNetworks, 2001</tspan></text>
+      <text
+         x="290.15494"
+         y="822.19861"
+         id="text3667"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="290.15494"
+           y="822.19861"
+           id="tspan3669"
+           style="font-style:italic">(Tex Atomic's Big Bots Battle, Super</tspan></text>
+      <text
+         x="290.77148"
+         y="829.86493"
+         id="text3671"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="290.77148"
+           y="829.86493"
+           id="tspan3673"
+           style="font-style:italic">Bubble Pop)</tspan></text>
+      <text
+         x="290.54865"
+         y="805.66223"
+         id="text3675"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="290.54865"
+           y="805.66223"
+           id="tspan3677">LithTech ESD Engine</tspan></text>
+    </g>
+    <g
+       transform="translate(25.892532,5.926492)"
+       id="g5303">
+      <rect
+         width="132.07291"
+         height="54.617287"
+         x="224.6846"
+         y="859.01599"
+         id="rect3679"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="290.63809"
+         y="886.40881"
+         id="text3681"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="290.63809"
+           y="886.40881"
+           id="tspan3683"
+           style="font-style:normal">LithTech 2000</tspan></text>
+      <text
+         x="290.29321"
+         y="894.07513"
+         id="text3685"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="290.29321"
+           y="894.07513"
+           id="tspan3687"
+           style="font-style:italic">(No One Lives Forever, Legends of Might</tspan></text>
+      <text
+         x="290.76987"
+         y="901.74146"
+         id="text3689"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="290.76987"
+           y="901.74146"
+           id="tspan3691"
+           style="font-style:italic">and Magic, KISS: Psycho Circus)</tspan></text>
+      <text
+         x="290.54865"
+         y="877.53876"
+         id="text3693"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="290.54865"
+           y="877.53876"
+           id="tspan3695">LithTech 2.0/2.2 Engine</tspan></text>
+    </g>
+    <g
+       transform="translate(20.612182,5.926492)"
+       id="g5354">
+      <rect
+         width="132.07291"
+         height="54.617287"
+         x="408.67172"
+         y="859.01599"
+         id="rect3697"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="475.07745"
+         y="886.35767"
+         id="text3699"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="475.07745"
+           y="886.35767"
+           id="tspan3701"
+           style="font-style:normal">LithTech, 2001</tspan></text>
+      <text
+         x="474.76511"
+         y="894.02399"
+         id="text3703"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="474.76511"
+           y="894.02399"
+           id="tspan3705"
+           style="font-style:italic">(MTH Railking Model Railroad Simulator,</tspan></text>
+      <text
+         x="474.57965"
+         y="901.69031"
+         id="text3707"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="474.57965"
+           y="901.69031"
+           id="tspan3709"
+           style="font-style:italic">Global Operations)</tspan></text>
+      <text
+         x="474.53577"
+         y="877.48761"
+         id="text3711"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="474.53577"
+           y="877.48761"
+           id="tspan3713">LithTech 2.4 Engine</tspan></text>
+    </g>
+    <g
+       transform="translate(20.612182,6.0954983)"
+       id="g5387">
+      <rect
+         width="132.07291"
+         height="54.617287"
+         x="461.89807"
+         y="781.48157"
+         id="rect3715"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="528.30377"
+         y="804.82556"
+         id="text3717"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="528.30377"
+           y="804.82556"
+           id="tspan3719"
+           style="font-style:normal">LithTech, 2001</tspan></text>
+      <text
+         x="527.51483"
+         y="812.91101"
+         id="text3721"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="527.51483"
+           y="812.91101"
+           id="tspan3723"
+           style="font-style:italic">(Alien versus Predator 2, Purge, Might and</tspan></text>
+      <text
+         x="527.64984"
+         y="820.57733"
+         id="text3725"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="527.64984"
+           y="820.57733"
+           id="tspan3727"
+           style="font-style:italic">Magic IX, Western Outlaw: Wanted Dead</tspan></text>
+      <text
+         x="527.76208"
+         y="795.95551"
+         id="text3729"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="527.76208"
+           y="795.95551"
+           id="tspan3731">LithTech Talon Engine</tspan></text>
+      <text
+         x="527.96704"
+         y="828.12122"
+         id="text3733"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="527.96704"
+           y="828.12122"
+           id="tspan3735"
+           style="font-style:italic">or Alive)</tspan></text>
+    </g>
+    <g
+       transform="translate(23.274055,6.0954983)"
+       id="g5464">
+      <rect
+         width="126.41505"
+         height="46.319157"
+         x="435.45197"
+         y="929.5498"
+         id="rect3737"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="499.02878"
+         y="952.72626"
+         id="text3739"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="499.02878"
+           y="952.72626"
+           id="tspan3741"
+           style="font-style:normal">Bermedy Entertainment, 2001</tspan></text>
+      <text
+         x="497.94373"
+         y="960.39258"
+         id="text3743"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="497.94373"
+           y="960.39258"
+           id="tspan3745"
+           style="font-style:italic">(Max Payne, Max Payne 2, The Fall of</tspan></text>
+      <text
+         x="498.70828"
+         y="968.0589"
+         id="text3747"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.70828"
+           y="968.0589"
+           id="tspan3749"
+           style="font-style:italic">Max Payne)</tspan></text>
+      <text
+         x="498.45746"
+         y="943.8562"
+         id="text3751"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.45746"
+           y="943.8562"
+           id="tspan3753">Remedy MaxFX Engine</tspan></text>
+    </g>
+    <g
+       transform="translate(23.27407,6.0954983)"
+       id="g5520">
+      <rect
+         width="126.41505"
+         height="46.319157"
+         x="435.45197"
+         y="985.75055"
+         id="rect3755"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="499.10684"
+         y="1012.7662"
+         id="text3757"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="499.10684"
+           y="1012.7662"
+           id="tspan3759"
+           style="font-style:normal">Croteam, 2001</tspan></text>
+      <text
+         x="498.71643"
+         y="1020.4326"
+         id="text3761"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.71643"
+           y="1020.4326"
+           id="tspan3763"
+           style="font-style:italic">(Serious Sam: The First Encounter,</tspan></text>
+      <text
+         x="498.62045"
+         y="1028.0989"
+         id="text3765"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.62045"
+           y="1028.0989"
+           id="tspan3767"
+           style="font-style:italic">Serious Sam: The Second Encounter)</tspan></text>
+      <text
+         x="498.64334"
+         y="996.35242"
+         id="text3769"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.64334"
+           y="996.35242"
+           id="tspan3771">Serious Engine</tspan></text>
+      <text
+         x="498.67902"
+         y="1004.4681"
+         id="text3773"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.67902"
+           y="1004.4681"
+           id="tspan3775"
+           style="font-style:normal">C++</tspan></text>
+    </g>
+    <g
+       transform="translate(23.8978,6.0954983)"
+       id="g5489">
+      <rect
+         width="112.94372"
+         height="46.426533"
+         x="236.24391"
+         y="1027.5646"
+         id="rect3777"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="292.6149"
+         y="1054.8838"
+         id="text3779"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="292.6149"
+           y="1054.8838"
+           id="tspan3781"
+           style="font-style:normal">Refractor Games, 2000</tspan></text>
+      <text
+         x="292.62955"
+         y="1062.5502"
+         id="text3783"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="292.62955"
+           y="1062.5502"
+           id="tspan3785"
+           style="font-style:italic">(Codename Eagle)</tspan></text>
+      <text
+         x="292.51373"
+         y="1045.6365"
+         id="text3787"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="292.51373"
+           y="1045.6365"
+           id="tspan3789">Refractor Engine</tspan></text>
+    </g>
+    <g
+       transform="translate(23.839828,6.0954983)"
+       id="g5610">
+      <rect
+         width="186.38766"
+         height="70.081894"
+         x="404.89987"
+         y="1102.3011"
+         id="rect3791"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="497.72931"
+         y="1133.0214"
+         id="text3793"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="497.72931"
+           y="1133.0214"
+           id="tspan3795"
+           style="font-style:italic">(The Elder Scrolls III: Morrowind, The Elder Scrolls III</tspan></text>
+      <text
+         x="497.67401"
+         y="1140.6877"
+         id="text3797"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="497.67401"
+           y="1140.6877"
+           id="tspan3799"
+           style="font-style:italic">Tribunal, The Elder Scrolls III: Bloodmoon,  The Elder Scrolls</tspan></text>
+      <text
+         x="497.76511"
+         y="1148.354"
+         id="text3801"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="497.76511"
+           y="1148.354"
+           id="tspan3803"
+           style="font-style:italic">IV: Oblivion, Dark Age of Camelot, Sid Meier's Pirates!, Sid</tspan></text>
+      <text
+         x="497.90512"
+         y="1116.6075"
+         id="text3805"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="497.90512"
+           y="1116.6075"
+           id="tspan3807">NetImmerse Engine</tspan></text>
+      <text
+         x="498.52966"
+         y="1124.7233"
+         id="text3809"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.52966"
+           y="1124.7233"
+           id="tspan3811"
+           style="font-style:normal">Gamebryo Software, 2001</tspan></text>
+      <text
+         x="497.86432"
+         y="1156.9067"
+         id="text3813"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="497.86432"
+           y="1156.9067"
+           id="tspan3815"
+           style="font-style:italic">Meier's Civilization IV, Freedom Force, Empire Earth II</tspan></text>
+      <text
+         x="498.14087"
+         y="1164.573"
+         id="text3817"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.14087"
+           y="1164.573"
+           id="tspan3819"
+           style="font-style:italic">Kohan II, Axis &amp; Allies, Project Entropia)</tspan></text>
+    </g>
+    <g
+       transform="translate(23.839835,6.0954983)"
+       id="g5563">
+      <rect
+         width="186.38766"
+         height="70.081894"
+         x="404.89987"
+         y="1183.7734"
+         id="rect3821"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="497.67401"
+         y="1214.4937"
+         id="text3823"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="497.67401"
+           y="1214.4937"
+           id="tspan3825"
+           style="font-style:italic">(Grand Theft Auto III, Grand Theft Auto: Vice City, Grand</tspan></text>
+      <text
+         x="498.01724"
+         y="1222.16"
+         id="text3827"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.01724"
+           y="1222.16"
+           id="tspan3829"
+           style="font-style:italic">Theft Auto San Andreas, Battlefield 2: Modern Combat,</tspan></text>
+      <text
+         x="497.80252"
+         y="1229.8263"
+         id="text3831"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="497.80252"
+           y="1229.8263"
+           id="tspan3833"
+           style="font-style:italic">Broken Sword: The Sleeping Dragon, Call of Duty: Finest</tspan></text>
+      <text
+         x="497.89166"
+         y="1198.0798"
+         id="text3835"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="497.89166"
+           y="1198.0798"
+           id="tspan3837">RenderWare Engine</tspan></text>
+      <text
+         x="498.54108"
+         y="1206.1956"
+         id="text3839"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.54108"
+           y="1206.1956"
+           id="tspan3841"
+           style="font-style:normal">Criterion Software, 2001</tspan></text>
+      <text
+         x="498.03677"
+         y="1238.379"
+         id="text3843"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.03677"
+           y="1238.379"
+           id="tspan3845"
+           style="font-style:italic">Hour, DarkWatch, Manhunt, Moral Kombat: Deception, The</tspan></text>
+      <text
+         x="498.14252"
+         y="1246.0453"
+         id="text3847"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="498.14252"
+           y="1246.0453"
+           id="tspan3849"
+           style="font-style:italic">Movies, Tony Hawk's Pro Skater 4, Pro Evolution Soccer 2)</tspan></text>
+    </g>
+    <g
+       transform="translate(23.404678,6.3925793)"
+       id="g5853">
+      <rect
+         width="126.41491"
+         height="51.599823"
+         x="640.6413"
+         y="1211.3081"
+         id="rect3851"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="703.86829"
+         y="1240.9641"
+         id="text3853"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.86829"
+           y="1240.9641"
+           id="tspan3855"
+           style="font-style:normal">C++</tspan></text>
+      <text
+         x="703.92358"
+         y="1248.6305"
+         id="text3857"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.92358"
+           y="1248.6305"
+           id="tspan3859"
+           style="font-style:normal">zlib License</tspan></text>
+      <text
+         x="703.76251"
+         y="1256.2968"
+         id="text3861"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.76251"
+           y="1256.2968"
+           id="tspan3863"
+           style="font-style:italic">(Cube)</tspan></text>
+      <text
+         x="703.80566"
+         y="1224.5503"
+         id="text3865"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.80566"
+           y="1224.5503"
+           id="tspan3867">Cube Engine</tspan></text>
+      <text
+         x="703.98541"
+         y="1232.666"
+         id="text3869"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.98541"
+           y="1232.666"
+           id="tspan3871"
+           style="font-style:normal">Wouter van Oortmenssen, 2002</tspan></text>
+    </g>
+    <g
+       transform="translate(23.404708,6.0954983)"
+       id="g5822">
+      <rect
+         width="126.41491"
+         height="45.942028"
+         x="640.6413"
+         y="1144.1689"
+         id="rect3873"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="703.76251"
+         y="1178.6624"
+         id="text3875"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.76251"
+           y="1178.6624"
+           id="tspan3877"
+           style="font-style:italic">(Mafia, Hidden and Dangerous 2)</tspan></text>
+      <text
+         x="703.67633"
+         y="1162.2485"
+         id="text3879"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.67633"
+           y="1162.2485"
+           id="tspan3881">LS3D Engine</tspan></text>
+      <text
+         x="703.71533"
+         y="1170.3643"
+         id="text3883"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.71533"
+           y="1170.3643"
+           id="tspan3885"
+           style="font-style:normal">Illusion Softworks, 2002</tspan></text>
+    </g>
+    <g
+       transform="translate(23.404762,6.0954983)"
+       id="g5797">
+      <rect
+         width="126.41491"
+         height="46.6964"
+         x="640.6413"
+         y="1088.3453"
+         id="rect3887"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="703.60797"
+         y="1119.3828"
+         id="text3889"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.60797"
+           y="1119.3828"
+           id="tspan3891"
+           style="font-style:italic">(Hitman 2: Silent Assassain, Hitman:</tspan></text>
+      <text
+         x="703.74139"
+         y="1127.0492"
+         id="text3893"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.74139"
+           y="1127.0492"
+           id="tspan3895"
+           style="font-style:italic">Contracts)</tspan></text>
+      <text
+         x="703.7868"
+         y="1102.969"
+         id="text3897"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.7868"
+           y="1102.969"
+           id="tspan3899">Glacier Engine</tspan></text>
+      <text
+         x="703.71533"
+         y="1111.0847"
+         id="text3901"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.71533"
+           y="1111.0847"
+           id="tspan3903"
+           style="font-style:normal">IO Interactive, 2002</tspan></text>
+    </g>
+    <g
+       transform="translate(23.404754,6.0954983)"
+       id="g5768">
+      <rect
+         width="109.95085"
+         height="46.828541"
+         x="648.87335"
+         y="1027.1752"
+         id="rect3905"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="703.42908"
+         y="1058.2787"
+         id="text3907"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.42908"
+           y="1058.2787"
+           id="tspan3909"
+           style="font-style:italic">(Battlefield 1942, Battlefield</tspan></text>
+      <text
+         x="703.6308"
+         y="1065.9451"
+         id="text3911"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.6308"
+           y="1065.9451"
+           id="tspan3913"
+           style="font-style:italic">Vietnam)</tspan></text>
+      <text
+         x="703.64673"
+         y="1041.8649"
+         id="text3915"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.64673"
+           y="1041.8649"
+           id="tspan3917">Refractor 2 Engine</tspan></text>
+      <text
+         x="703.76904"
+         y="1049.9806"
+         id="text3919"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="703.76904"
+           y="1049.9806"
+           id="tspan3921"
+           style="font-style:normal">Digital Illusion CE, 2002</tspan></text>
+    </g>
+    <g
+       transform="translate(24.913436,6.0954983)"
+       id="g5741">
+      <rect
+         width="132.39186"
+         height="46.638371"
+         x="636.1441"
+         y="957.49078"
+         id="rect3923"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2.19016933;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="702.25385"
+         y="992.26501"
+         id="text3925"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="702.25385"
+           y="992.26501"
+           id="tspan3927"
+           style="font-style:italic">(Tron 2.0)</tspan></text>
+      <text
+         x="702.1676"
+         y="975.8512"
+         id="text3929"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="702.1676"
+           y="975.8512"
+           id="tspan3931">LithTech Triton Engine</tspan></text>
+      <text
+         x="702.27332"
+         y="983.96692"
+         id="text3933"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="702.27332"
+           y="983.96692"
+           id="tspan3935"
+           style="font-style:normal">LithTech, 2002</tspan></text>
+    </g>
+    <g
+       transform="translate(24.913452,6.0954983)"
+       id="g5714">
+      <rect
+         width="132.21848"
+         height="54.385902"
+         x="636.23077"
+         y="884.02612"
+         id="rect3937"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="701.62427"
+         y="914.94183"
+         id="text3939"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="701.62427"
+           y="914.94183"
+           id="tspan3941"
+           style="font-style:italic">(No One Lives Forever 2, Face of</tspan></text>
+      <text
+         x="702.1676"
+         y="898.52802"
+         id="text3943"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="702.1676"
+           y="898.52802"
+           id="tspan3945">LithTech Jupiter Engine</tspan></text>
+      <text
+         x="702.27332"
+         y="906.64374"
+         id="text3947"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="702.27332"
+           y="906.64374"
+           id="tspan3949"
+           style="font-style:normal">LithTech, 2002</tspan></text>
+      <text
+         x="702.23425"
+         y="922.86273"
+         id="text3951"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="702.23425"
+           y="922.86273"
+           id="tspan3953"
+           style="font-style:italic">Mankind, Tron 2.0, Medal of Honor:</tspan></text>
+      <text
+         x="702.39209"
+         y="930.40643"
+         id="text3955"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="702.39209"
+           y="930.40643"
+           id="tspan3957"
+           style="font-style:italic">Pacific Assault)</tspan></text>
+    </g>
+    <g
+       transform="translate(22.10118,5.7108853)"
+       id="g5669">
+      <rect
+         width="146.59264"
+         height="86.884018"
+         x="631.85602"
+         y="699.6618"
+         id="rect4423"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="705.00916"
+         y="726.42987"
+         id="text3961"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="705.00916"
+           y="726.42987"
+           id="tspan3963"
+           style="font-style:normal">C++, UnrealScript</tspan></text>
+      <text
+         x="704.86603"
+         y="734.42859"
+         id="text3965"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="704.86603"
+           y="734.42859"
+           id="tspan3967"
+           style="font-style:italic">(Unreal II, Unreal Tournament 2003, America's</tspan></text>
+      <text
+         x="705.302"
+         y="742.42731"
+         id="text3969"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="705.302"
+           y="742.42731"
+           id="tspan3971"
+           style="font-style:italic">Army,, Brothers in Arms, Deus Ex: Invisible</tspan></text>
+      <text
+         x="704.95032"
+         y="710.31543"
+         id="text3973"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="704.95032"
+           y="710.31543"
+           id="tspan3975">Unreal 2.0 Engine</tspan></text>
+      <text
+         x="705.0661"
+         y="718.43115"
+         id="text3977"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="705.0661"
+           y="718.43115"
+           id="tspan3979"
+           style="font-style:normal">Epic, 2002</tspan></text>
+      <text
+         x="704.70007"
+         y="750.42596"
+         id="text3981"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="704.70007"
+           y="750.42596"
+           id="tspan3983"
+           style="font-style:italic">War, Lineage II, Star Wars: Republic</tspan></text>
+      <text
+         x="705.18811"
+         y="758.42468"
+         id="text3985"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="705.18811"
+           y="758.42468"
+           id="tspan3987"
+           style="font-style:italic">Commando, SWAT 4, Thief: Deadly Shadows,</tspan></text>
+      <text
+         x="704.7326"
+         y="766.4234"
+         id="text3993"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="704.7326"
+           y="766.4234"
+           id="tspan3995"
+           style="font-style:italic">Tom Clancy's Rainbow Six 3, Tom Clancy's</tspan></text>
+      <text
+         x="705.25647"
+         y="774.42212"
+         id="text3997"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="705.25647"
+           y="774.42212"
+           id="tspan3999"
+           style="font-style:italic">Splinter Cell, Tom Clancy's Ghost Recon 2,</tspan></text>
+      <text
+         x="705.45331"
+         y="782.42084"
+         id="text4001"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="705.45331"
+           y="782.42084"
+           id="tspan4003"
+           style="font-style:italic">XW)</tspan></text>
+    </g>
+    <g
+       transform="translate(18.091621,6.0954983)"
+       id="g5880">
+      <rect
+         width="126.41491"
+         height="45.942028"
+         x="851.27448"
+         y="1144.1689"
+         id="rect4005"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="914.39569"
+         y="1178.595"
+         id="text4007"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="914.39569"
+           y="1178.595"
+           id="tspan4009"
+           style="font-style:italic">(Mafia, Hidden and Dangerous 2)</tspan></text>
+      <text
+         x="914.28796"
+         y="1162.1812"
+         id="text4011"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="914.28796"
+           y="1162.1812"
+           id="tspan4013">Ptero II Engine</tspan></text>
+      <text
+         x="914.32416"
+         y="1170.2969"
+         id="text4015"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="914.32416"
+           y="1170.2969"
+           id="tspan4017"
+           style="font-style:normal">Illusion Software &amp; Pterodon, 2003</tspan></text>
+    </g>
+    <g
+       transform="translate(20.913833,6.0954983)"
+       id="g5903">
+      <rect
+         width="111.8578"
+         height="45.942028"
+         x="855.73077"
+         y="1055.9347"
+         id="rect4019"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="911.57349"
+         y="1090.4281"
+         id="text4021"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="911.57349"
+           y="1090.4281"
+           id="tspan4023"
+           style="font-style:italic">(AMP2 Tech Demo)</tspan></text>
+      <text
+         x="911.89941"
+         y="1074.0143"
+         id="text4025"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="911.89941"
+           y="1074.0143"
+           id="tspan4027">AMP2 Game Engine</tspan></text>
+      <text
+         x="911.77032"
+         y="1082.13"
+         id="text4029"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="911.77032"
+           y="1082.13"
+           id="tspan4031"
+           style="font-style:normal">4D Rulers, 2003</tspan></text>
+    </g>
+    <g
+       transform="translate(22.879463,6.0954983)"
+       id="g5938">
+      <rect
+         width="126.41491"
+         height="65.265762"
+         x="1051.8068"
+         y="1204.7722"
+         id="rect4033"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1115.0337"
+         y="1248.2427"
+         id="text4035"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1115.0337"
+           y="1248.2427"
+           id="tspan4037"
+           style="font-style:normal">C++</tspan></text>
+      <text
+         x="1115.089"
+         y="1255.9091"
+         id="text4039"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1115.089"
+           y="1255.9091"
+           id="tspan4041"
+           style="font-style:normal">zlib License</tspan></text>
+      <text
+         x="1114.928"
+         y="1263.5753"
+         id="text4043"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1114.928"
+           y="1263.5753"
+           id="tspan4045"
+           style="font-style:italic">(Sauerbraten)</tspan></text>
+      <text
+         x="1114.9711"
+         y="1217.8658"
+         id="text4047"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1114.9711"
+           y="1217.8658"
+           id="tspan4049">Sauerbraten (Cube 2)</tspan></text>
+      <text
+         x="1115.1362"
+         y="1239.9446"
+         id="text4051"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1115.1362"
+           y="1239.9446"
+           id="tspan4053"
+           style="font-style:normal">Wouter van Oortmenssen, 2004</tspan></text>
+      <text
+         x="1114.8094"
+         y="1231.2346"
+         id="text4055"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1114.8094"
+           y="1231.2346"
+           id="tspan4057">Engine</tspan></text>
+    </g>
+    <g
+       transform="translate(21.542571,6.0954983)"
+       id="g6026">
+      <rect
+         width="111.8578"
+         height="45.942028"
+         x="1060.4222"
+         y="1013.4515"
+         id="rect4059"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1116.2649"
+         y="1047.8776"
+         id="text4061"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1116.2649"
+           y="1047.8776"
+           id="tspan4063"
+           style="font-style:italic">(Painkiller)</tspan></text>
+      <text
+         x="1116.1572"
+         y="1031.4637"
+         id="text4065"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1116.1572"
+           y="1031.4637"
+           id="tspan4067">PAIN Engine</tspan></text>
+      <text
+         x="1116.2568"
+         y="1039.5795"
+         id="text4069"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1116.2568"
+           y="1039.5795"
+           id="tspan4071"
+           style="font-style:normal">People Can Fly, 2004</tspan></text>
+    </g>
+    <rect
+       width="0"
+       height="1.4854246"
+       x="1164.0565"
+       y="1036.5215"
+       id="rect4073"
+       style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <g
+       transform="translate(24.364898,6.0954983)"
+       id="g5999">
+      <rect
+         width="138.29836"
+         height="56.93417"
+         x="1044.3796"
+         y="1088.3169"
+         id="rect4075"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1113.5483"
+         y="1120.5822"
+         id="text4077"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.5483"
+           y="1120.5822"
+           id="tspan4079"
+           style="font-style:normal">C++</tspan></text>
+      <text
+         x="1113.4857"
+         y="1104.1683"
+         id="text4081"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.4857"
+           y="1104.1683"
+           id="tspan4083">CryENGINE Engine</tspan></text>
+      <text
+         x="1113.5255"
+         y="1112.2841"
+         id="text4085"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.5255"
+           y="1112.2841"
+           id="tspan4087"
+           style="font-style:normal">Crytek, 2004</tspan></text>
+      <text
+         x="1113.0441"
+         y="1128.3064"
+         id="text4089"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.0441"
+           y="1128.3064"
+           id="tspan4091"
+           style="font-style:italic">(Far Cry, Far Cry Instincts, Far Cry</tspan></text>
+      <text
+         x="1113.454"
+         y="1136.0306"
+         id="text4093"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.454"
+           y="1136.0306"
+           id="tspan4095"
+           style="font-style:italic">Vengeance, Aton: The Tower of Eternity),</tspan></text>
+    </g>
+    <g
+       transform="translate(17.560546,6.0954983)"
+       id="g6143">
+      <rect
+         width="154.9868"
+         height="84.483421"
+         x="1042.8398"
+         y="600.57947"
+         id="rect3959"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1120.3528"
+         y="630.33093"
+         id="text4097"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.3528"
+           y="630.33093"
+           id="tspan4099"
+           style="font-style:normal">C, C++</tspan></text>
+      <text
+         x="1120.3901"
+         y="637.99731"
+         id="text4101"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.3901"
+           y="637.99731"
+           id="tspan4103"
+           style="font-style:italic">(Half-Life 2, Half-Life: Source, Half-Life Episodes,</tspan></text>
+      <text
+         x="1120.369"
+         y="645.66357"
+         id="text4105"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.369"
+           y="645.66357"
+           id="tspan4107"
+           style="font-style:italic">Counter Strike: Source,Day of Defeat: Source,</tspan></text>
+      <text
+         x="1120.3171"
+         y="613.91711"
+         id="text4109"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.3171"
+           y="613.91711"
+           id="tspan4111">Source Engine</tspan></text>
+      <text
+         x="1120.4813"
+         y="622.03284"
+         id="text4113"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.4813"
+           y="622.03284"
+           id="tspan4115"
+           style="font-style:normal">Valve, 2004</tspan></text>
+      <text
+         x="1120.1641"
+         y="654.21631"
+         id="text4117"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.1641"
+           y="654.21631"
+           id="tspan4119"
+           style="font-style:italic">Portal, Team Fortress 2, Dark Messiah of Might</tspan></text>
+      <text
+         x="1120.2698"
+         y="661.88257"
+         id="text4121"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.2698"
+           y="661.88257"
+           id="tspan4123"
+           style="font-style:italic">and Magic, SIN Episodes, Vampire: The</tspan></text>
+      <text
+         x="1120.5251"
+         y="669.80353"
+         id="text4125"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.5251"
+           y="669.80353"
+           id="tspan4127"
+           style="font-style:italic">Masquerade - Bloodlines, Natural Selection 2,</tspan></text>
+      <text
+         x="1120.1136"
+         y="678.35626"
+         id="text4129"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.1136"
+           y="678.35626"
+           id="tspan4131"
+           style="font-style:italic">They Hunger, Lost Souls, Postal 4)</tspan></text>
+    </g>
+    <g
+       transform="translate(24.072662,6.4295819)"
+       id="g6090">
+      <rect
+         width="145.32355"
+         height="73.540497"
+         x="1041.1593"
+         y="705.61487"
+         id="rect4133"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1113.678"
+         y="741.91364"
+         id="text4135"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.678"
+           y="741.91364"
+           id="tspan4137"
+           style="font-style:normal">C++, UnrealScript</tspan></text>
+      <text
+         x="1113.8781"
+         y="749.58002"
+         id="text4139"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.8781"
+           y="749.58002"
+           id="tspan4141"
+           style="font-style:italic">(Duke Nukem Forever, Ragravok Online 2,</tspan></text>
+      <text
+         x="1113.7462"
+         y="757.24628"
+         id="text4143"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.7462"
+           y="757.24628"
+           id="tspan4145"
+           style="font-style:italic">Vanguard: Saga of Heroes, WarPath,</tspan></text>
+      <text
+         x="1113.619"
+         y="725.49982"
+         id="text4147"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.619"
+           y="725.49982"
+           id="tspan4149">Unreal 2.5 Engine</tspan></text>
+      <text
+         x="1113.7202"
+         y="733.61554"
+         id="text4151"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.7202"
+           y="733.61554"
+           id="tspan4153"
+           style="font-style:normal">Epic, 2004</tspan></text>
+      <text
+         x="1113.7137"
+         y="765.79901"
+         id="text4155"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.7137"
+           y="765.79901"
+           id="tspan4157"
+           style="font-style:italic">Chronicles of Spellborn, Red Steel)</tspan></text>
+    </g>
+    <g
+       transform="translate(23.862621,6.0954983)"
+       id="g6053">
+      <rect
+         width="112.97265"
+         height="52.533421"
+         x="1057.5448"
+         y="806.86896"
+         id="rect4159"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1113.8326"
+         y="840.75751"
+         id="text4161"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.8326"
+           y="840.75751"
+           id="tspan4163"
+           style="font-style:italic">(Tribes: Vengeance, SWAT 4: The</tspan></text>
+      <text
+         x="1113.9921"
+         y="848.42389"
+         id="text4165"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.9921"
+           y="848.42389"
+           id="tspan4167"
+           style="font-style:italic">Stetchkov Syndicate, Inferno)</tspan></text>
+      <text
+         x="1114.2385"
+         y="824.34369"
+         id="text4169"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1114.2385"
+           y="824.34369"
+           id="tspan4171">Vengeance Engine</tspan></text>
+      <text
+         x="1113.9303"
+         y="832.45941"
+         id="text4173"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1113.9303"
+           y="832.45941"
+           id="tspan4175"
+           style="font-style:normal">Errational Games, 2004</tspan></text>
+    </g>
+    <g
+       transform="translate(19.952079,4.7290737)"
+       id="g6367">
+      <rect
+         width="143.22284"
+         height="50.938942"
+         x="1251.6501"
+         y="887.11603"
+         id="rect4177"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1323.1526"
+         y="923.14832"
+         id="text4179"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1323.1526"
+           y="923.14832"
+           id="tspan4181"
+           style="font-style:normal">Lithtech, 2005</tspan></text>
+      <text
+         x="1323.1753"
+         y="930.8147"
+         id="text4183"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1323.1753"
+           y="930.8147"
+           id="tspan4185"
+           style="font-style:italic">(F.E.A.R., Condemned: Criminal Origins)</tspan></text>
+      <text
+         x="1323.2589"
+         y="900.85254"
+         id="text4187"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1323.2589"
+           y="900.85254"
+           id="tspan4189">LithTech Jupiter Extended</tspan></text>
+      <text
+         x="1323.1592"
+         y="913.87695"
+         id="text4191"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1323.1592"
+           y="913.87695"
+           id="tspan4193">(EX) Engine</tspan></text>
+    </g>
+    <g
+       transform="translate(19.952026,6.0954983)"
+       id="g6340">
+      <rect
+         width="143.22284"
+         height="47.071609"
+         x="1251.6501"
+         y="958.11993"
+         id="rect4195"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1323.1526"
+         y="985.70642"
+         id="text4197"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1323.1526"
+           y="985.70642"
+           id="tspan4199"
+           style="font-style:normal">Lithtech, 2005</tspan></text>
+      <text
+         x="1323.1753"
+         y="993.3728"
+         id="text4201"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1323.1753"
+           y="993.3728"
+           id="tspan4203"
+           style="font-style:italic">(The Matrix Online)</tspan></text>
+      <text
+         x="1323.0891"
+         y="976.435"
+         id="text4205"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1323.0891"
+           y="976.435"
+           id="tspan4207">LithTech Discovery Engine</tspan></text>
+    </g>
+    <g
+       transform="translate(20.1529,6.0954983)"
+       id="g6317">
+      <rect
+         width="111.8578"
+         height="45.942028"
+         x="1267.1318"
+         y="1037.3995"
+         id="rect4209"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1322.9745"
+         y="1071.8929"
+         id="text4211"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1322.9745"
+           y="1071.8929"
+           id="tspan4213"
+           style="font-style:italic">(Battlefield 2)</tspan></text>
+      <text
+         x="1322.8883"
+         y="1055.4791"
+         id="text4215"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1322.8883"
+           y="1055.4791"
+           id="tspan4217">Battlefield 2 Engine</tspan></text>
+      <text
+         x="1322.9387"
+         y="1063.5948"
+         id="text4219"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1322.9387"
+           y="1063.5948"
+           id="tspan4221"
+           style="font-style:normal">Digital Illusion CE, 2005</tspan></text>
+    </g>
+    <g
+       transform="translate(20.152931,6.5156643)"
+       id="g6294">
+      <rect
+         width="111.8578"
+         height="45.942028"
+         x="1267.1318"
+         y="1144.1155"
+         id="rect4223"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1322.9745"
+         y="1178.6089"
+         id="text4225"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1322.9745"
+           y="1178.6089"
+           id="tspan4227"
+           style="font-style:italic">(Call of Duty 2)</tspan></text>
+      <text
+         x="1323.0176"
+         y="1162.1951"
+         id="text4229"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1323.0176"
+           y="1162.1951"
+           id="tspan4231">Call of Duty 2 Engine</tspan></text>
+      <text
+         x="1322.885"
+         y="1170.3108"
+         id="text4233"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1322.885"
+           y="1170.3108"
+           id="tspan4235"
+           style="font-style:normal">Infinity Word, 2005</tspan></text>
+    </g>
+    <g
+       transform="translate(14.351661,6.6301434)"
+       id="g6246">
+      <rect
+         width="117.31964"
+         height="45.942028"
+         x="1475.522"
+         y="1093.2783"
+         id="rect4237"
+         style="fill:#800080;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1534.0956"
+         y="1131.553"
+         id="text4239"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1534.0956"
+           y="1131.553"
+           id="tspan4241"
+           style="font-style:italic">(Crysis)</tspan></text>
+      <text
+         x="1534.1387"
+         y="1107.5767"
+         id="text4243"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1534.1387"
+           y="1107.5767"
+           id="tspan4245">CryENGINE 2 Engine</tspan></text>
+      <text
+         x="1534.1704"
+         y="1115.6924"
+         id="text4247"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1534.1704"
+           y="1115.6924"
+           id="tspan4249"
+           style="font-style:normal">Crytek, 2006</tspan></text>
+      <text
+         x="1534.2013"
+         y="1123.2549"
+         id="text4251"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1534.2013"
+           y="1123.2549"
+           id="tspan4253"
+           style="font-style:normal">C++</tspan></text>
+    </g>
+    <g
+       transform="translate(14.351653,6.0954983)"
+       id="g6217">
+      <rect
+         width="117.31964"
+         height="45.942028"
+         x="1475.522"
+         y="1186.1296"
+         id="rect4255"
+         style="fill:#800080;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1533.9622"
+         y="1224.4043"
+         id="text4257"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1533.9622"
+           y="1224.4043"
+           id="tspan4259"
+           style="font-style:italic">Tennis, Grand Theft Auto IV)</tspan></text>
+      <text
+         x="1533.9797"
+         y="1200.428"
+         id="text4261"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1533.9797"
+           y="1200.428"
+           id="tspan4263">RAGE Engine</tspan></text>
+      <text
+         x="1534.0745"
+         y="1208.5437"
+         id="text4265"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1534.0745"
+           y="1208.5437"
+           id="tspan4267"
+           style="font-style:normal">Rockstar Games, 2006</tspan></text>
+      <text
+         x="1534.12"
+         y="1216.1062"
+         id="text4269"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1534.12"
+           y="1216.1062"
+           id="tspan4271"
+           style="font-style:normal">(Rockstar Games Presents Tackle</tspan></text>
+    </g>
+    <g
+       transform="translate(17.502631,6.0954983)"
+       id="g6271">
+      <rect
+         width="111.8578"
+         height="45.942028"
+         x="1475.1019"
+         y="976.479"
+         id="rect4273"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1530.9446"
+         y="1010.9213"
+         id="text4275"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1530.9446"
+           y="1010.9213"
+           id="tspan4277"
+           style="font-style:italic">(Paragraph 78)</tspan></text>
+      <text
+         x="1530.8369"
+         y="994.50745"
+         id="text4279"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1530.8369"
+           y="994.50745"
+           id="tspan4281">Dagor 3.0 Engine</tspan></text>
+      <text
+         x="1531.0081"
+         y="1002.6232"
+         id="text4283"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1531.0081"
+           y="1002.6232"
+           id="tspan4285"
+           style="font-style:normal">Gaijin, 2006</tspan></text>
+    </g>
+    <g
+       transform="translate(23.465419,6.0954983)"
+       id="g6478">
+      <rect
+         width="112.27795"
+         height="45.942028"
+         x="1674.2489"
+         y="1000.0069"
+         id="rect4287"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1730.2805"
+         y="1038.2142"
+         id="text4289"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.2805"
+           y="1038.2142"
+           id="tspan4291"
+           style="font-style:italic">Chernobyl)</tspan></text>
+      <text
+         x="1730.5953"
+         y="1014.2379"
+         id="text4293"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.5953"
+           y="1014.2379"
+           id="tspan4295">X-Ray Engine</tspan></text>
+      <text
+         x="1730.3635"
+         y="1022.3538"
+         id="text4297"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.3635"
+           y="1022.3538"
+           id="tspan4299"
+           style="font-style:normal">GSC Game World, 2007</tspan></text>
+      <text
+         x="1729.6721"
+         y="1029.9161"
+         id="text4301"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1729.6721"
+           y="1029.9161"
+           id="tspan4303"
+           style="font-style:italic">(S.T.A.L.K.E.R.: Shadow of</tspan></text>
+    </g>
+    <g
+       transform="translate(23.255241,5.6753323)"
+       id="g6451">
+      <rect
+         width="111.8578"
+         height="45.942028"
+         x="1674.6692"
+         y="1144.9558"
+         id="rect4305"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1730.5118"
+         y="1179.4492"
+         id="text4307"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.5118"
+           y="1179.4492"
+           id="tspan4309"
+           style="font-style:italic">(Call of Duty 3)</tspan></text>
+      <text
+         x="1730.4095"
+         y="1163.0354"
+         id="text4311"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.4095"
+           y="1163.0354"
+           id="tspan4313">NGL Engine</tspan></text>
+      <text
+         x="1730.673"
+         y="1171.1511"
+         id="text4315"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.673"
+           y="1171.1511"
+           id="tspan4317"
+           style="font-style:normal">Treyarch, 2007</tspan></text>
+    </g>
+    <g
+       transform="translate(23.045253,6.0954983)"
+       id="g6538">
+      <rect
+         width="112.27795"
+         height="45.942028"
+         x="1674.6691"
+         y="852.53723"
+         id="rect4319"
+         style="fill:#800080;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1730.676"
+         y="870.98462"
+         id="text4321"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.676"
+           y="870.98462"
+           id="tspan4323">RelentENGINE</tspan></text>
+      <text
+         x="1730.6503"
+         y="879.10034"
+         id="text4325"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.6503"
+           y="879.10034"
+           id="tspan4327"
+           style="font-style:normal">Itlit Software, 2007</tspan></text>
+      <text
+         x="1730.7218"
+         y="886.66284"
+         id="text4329"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.7218"
+           y="886.66284"
+           id="tspan4331"
+           style="font-style:italic">(Relent: The Fallen)</tspan></text>
+    </g>
+    <g
+       transform="translate(23.255378,6.0954983)"
+       id="g6511">
+      <rect
+         width="111.8578"
+         height="53.084435"
+         x="1674.6691"
+         y="920.17999"
+         id="rect4333"
+         style="fill:#800080;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1730.7899"
+         y="958.24457"
+         id="text4335"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.7899"
+           y="958.24457"
+           id="tspan4337"
+           style="font-style:italic">Metal Assault Online, Clan Arena,</tspan></text>
+      <text
+         x="1730.6249"
+         y="934.26825"
+         id="text4339"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.6249"
+           y="934.26825"
+           id="tspan4341">C4 ENGINE</tspan></text>
+      <text
+         x="1730.6729"
+         y="942.38397"
+         id="text4343"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.6729"
+           y="942.38397"
+           id="tspan4345"
+           style="font-style:normal">Terathon Software LLC, 2007</tspan></text>
+      <text
+         x="1730.6907"
+         y="949.94647"
+         id="text4347"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.6907"
+           y="949.94647"
+           id="tspan4349"
+           style="font-style:normal">(Mangler, Pentapolis, Kronos,</tspan></text>
+      <text
+         x="1730.559"
+         y="965.80713"
+         id="text4351"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1730.559"
+           y="965.80713"
+           id="tspan4353"
+           style="font-style:italic">Sonic Xtreme NeXT Fan Game)</tspan></text>
+    </g>
+    <g
+       transform="translate(21.923316,6.219537)"
+       id="g6416">
+      <rect
+         width="146.58397"
+         height="87.405167"
+         x="1453.3181"
+         y="698.89258"
+         id="rect4355"
+         style="fill:#800080;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1526.4669"
+         y="730.05371"
+         id="text4357"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1526.4669"
+           y="730.05371"
+           id="tspan4359"
+           style="font-style:normal">C++, UnrealScript</tspan></text>
+      <text
+         x="1526.667"
+         y="737.72009"
+         id="text4361"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1526.667"
+           y="737.72009"
+           id="tspan4363"
+           style="font-style:italic">(Unreal Tournament 3, America's Army v 3.0,</tspan></text>
+      <text
+         x="1526.4604"
+         y="745.38635"
+         id="text4365"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1526.4604"
+           y="745.38635"
+           id="tspan4367"
+           style="font-style:italic">Brothers In Arms, Hell's Highway, Endless</tspan></text>
+      <text
+         x="1526.4081"
+         y="713.63989"
+         id="text4369"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1526.4081"
+           y="713.63989"
+           id="tspan4371">Unreal 3.0 Engine</tspan></text>
+      <text
+         x="1526.4702"
+         y="721.75562"
+         id="text4373"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1526.4702"
+           y="721.75562"
+           id="tspan4375"
+           style="font-style:normal">Epic, 2008(7)</tspan></text>
+      <text
+         x="1526.2506"
+         y="753.93909"
+         id="text4377"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1526.2506"
+           y="753.93909"
+           id="tspan4379"
+           style="font-style:italic">Saga, Lineage III, Tom Clancy's Rainbow Six</tspan></text>
+      <text
+         x="1526.4198"
+         y="761.60535"
+         id="text4381"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1526.4198"
+           y="761.60535"
+           id="tspan4383"
+           style="font-style:italic">5, Gears of Wars, BioShock, Medal of Honor:</tspan></text>
+      <text
+         x="1527.0151"
+         y="769.52631"
+         id="text4385"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1527.0151"
+           y="769.52631"
+           id="tspan4387"
+           style="font-style:italic">Airborn, Elveon, Fatal Inirtia, Huxley,</tspan></text>
+      <text
+         x="1526.571"
+         y="778.07904"
+         id="text4389"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1526.571"
+           y="778.07904"
+           id="tspan4391"
+           style="font-style:italic">Stranglehold, Turok, The Wheelman)</tspan></text>
+    </g>
+    <g
+       transform="translate(21.500811,5.6510575)"
+       id="g6561">
+      <rect
+         width="112.27795"
+         height="45.942028"
+         x="1882.6392"
+         y="720.19263"
+         id="rect4393"
+         style="fill:#800080;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1938.576"
+         y="738.62787"
+         id="text4395"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1938.576"
+           y="738.62787"
+           id="tspan4397">Unreal 3.5 Engine</tspan></text>
+      <text
+         x="1938.5455"
+         y="746.74359"
+         id="text4399"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1938.5455"
+           y="746.74359"
+           id="tspan4401"
+           style="font-style:normal">Epic</tspan></text>
+      <text
+         x="1938.635"
+         y="754.30609"
+         id="text4403"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1938.635"
+           y="754.30609"
+           id="tspan4405"
+           style="font-style:normal">C++, UnrealScript</tspan></text>
+    </g>
+    <g
+       transform="translate(21.500811,5.6510575)"
+       id="g6584">
+      <rect
+         width="112.27795"
+         height="45.942028"
+         x="2032.2096"
+         y="720.19263"
+         id="rect4407"
+         style="fill:#800080;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="2088.1465"
+         y="738.62787"
+         id="text4409"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="2088.1465"
+           y="738.62787"
+           id="tspan4411">Unreal 4.0 Engine</tspan></text>
+      <text
+         x="2088.116"
+         y="746.74359"
+         id="text4413"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="2088.116"
+           y="746.74359"
+           id="tspan4415"
+           style="font-style:normal">Epic</tspan></text>
+      <text
+         x="2088.2053"
+         y="754.30609"
+         id="text4417"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="2088.2053"
+           y="754.30609"
+           id="tspan4419"
+           style="font-style:normal">C++, UnrealScript</tspan></text>
+    </g>
+    <g
+       transform="translate(21.500811,5.434663)"
+       id="g6938">
+      <rect
+         width="958.52393"
+         height="28.582575"
+         x="-1281.6887"
+         y="163.57611"
+         id="rect4425"
+         style="fill:#00ff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="-802.5451"
+         y="177.17026"
+         id="text4427"
+         xml:space="preserve"
+         style="font-size:13.10150242px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-802.5451"
+           y="177.17026"
+           id="tspan4429"
+           style="font-style:italic">Planar Worlds Age</tspan></text>
+      <text
+         x="-803.08722"
+         y="186.5601"
+         id="text4431"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="-803.08722"
+           y="186.5601"
+           id="tspan4433"
+           style="font-style:italic">&quot;Planar worlds with sprite objects Average Video Hardware requirements: CPU powered software rendering.&quot;</tspan></text>
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g6921">
+      <rect
+         width="1456.7064"
+         height="28.582575"
+         x="-544.91309"
+         y="126.1647"
+         id="rect4435"
+         style="fill:#00ffff;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="183.29619"
+         y="139.82906"
+         id="text4437"
+         xml:space="preserve"
+         style="font-size:13.10150242px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="183.29619"
+           y="139.82906"
+           id="tspan4439"
+           style="font-style:italic">Rise of 3D Age</tspan></text>
+      <text
+         x="183.61746"
+         y="149.2189"
+         id="text4441"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="183.61746"
+           y="149.2189"
+           id="tspan4443"
+           style="font-style:italic">For the first time, game engines recreated true 3D worlds with arbitrary level geometry. Instead of spritesthe engines used simply textured (single-pass texturing, no lighting details) polygon objects. Average Video Hardware requirements: first 3D-accelerators (Voodoo, Voodoo 2).</tspan></text>
+    </g>
+    <g
+       transform="translate(21.500811,5.8164074)"
+       id="g6904">
+      <rect
+         width="1023.803"
+         height="28.582575"
+         x="296.46182"
+         y="163.19437"
+         id="rect4445"
+         style="fill:#ffff00;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="808.23218"
+         y="176.79794"
+         id="text4447"
+         xml:space="preserve"
+         style="font-size:13.10150242px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="808.23218"
+           y="176.79794"
+           id="tspan4449"
+           style="font-style:italic">Enhanced 3D Age</tspan></text>
+      <text
+         x="808.52924"
+         y="186.18779"
+         id="text4451"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="808.52924"
+           y="186.18779"
+           id="tspan4453"
+           style="font-style:italic">New graphics hardware provided new capabilities, allowing new engines to add various new effects, such as particle effects, fog, coloured lighting, as well as increase texture and polygon detail. Many games featured large outdoor environments, vehicles, rag-doll physics. Average Video Hardware requirements: GeForce 2 (or similar).</tspan></text>
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g6982">
+      <rect
+         width="746.70642"
+         height="28.582575"
+         x="919.08691"
+         y="126.1647"
+         id="rect4455"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1291.7876"
+         y="137.38255"
+         id="text4457"
+         xml:space="preserve"
+         style="font-size:13.10150242px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1291.7876"
+           y="137.38255"
+           id="tspan4459"
+           style="font-style:italic">Towards Photorealism Age</tspan></text>
+      <text
+         x="1292.0074"
+         y="144.9975"
+         id="text4461"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1292.0074"
+           y="144.9975"
+           id="tspan4463"
+           style="font-style:italic">Developers of this era of 3D engines often tout their increasingly photorealistic quality. The maps may feature seamlessly integrated indoor/outdoor environments. Some, or all of the Pixel shader-based textures, bump mapping, vertex shaders used for</tspan></text>
+      <text
+         x="1292.6223"
+         y="151.50548"
+         id="text4465"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1292.6223"
+           y="151.50548"
+           id="tspan4467"
+           style="font-style:italic">animations, lighting and shadowing technologies are common. Average Video Hardware requirements: GeForce 3 (or other cards with shader support).</tspan></text>
+    </g>
+    <g
+       transform="translate(21.500811,6.7563336)"
+       id="g6959">
+      <rect
+         width="614.77185"
+         height="28.582575"
+         x="1536.7538"
+         y="162.25444"
+         id="rect4469"
+         style="fill:#800080;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1844.0054"
+         y="173.47229"
+         id="text4471"
+         xml:space="preserve"
+         style="font-size:13.10150242px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1844.0054"
+           y="173.47229"
+           id="tspan4473"
+           style="font-style:italic">Future Age</tspan></text>
+      <text
+         x="1843.72"
+         y="181.08723"
+         id="text4475"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1843.72"
+           y="181.08723"
+           id="tspan4477"
+           style="font-style:italic">These games are likely to include realistic shader-based materials with predefined physics, environments with procedural and vertex shader-based objects (vegetation, ddebris, human-made objects such as</tspan></text>
+      <text
+         x="1844.0031"
+         y="187.59521"
+         id="text4479"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1844.0031"
+           y="187.59521"
+           id="tspan4481"
+           style="font-style:italic">books or tools) universally destructable and interactive levels, procedural animation, cinematographic effects (depth of field, motion blur, etc.), realistic lighting and shadowing</tspan></text>
+    </g>
+    <path
+       d="m -1223.2862,208.04183 0,1110.52737"
+       id="path4611"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m -1017.9662,208.04183 0,1110.52737"
+       id="path4613"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m -812.64624,208.04183 0,1110.52737"
+       id="path4615"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m -607.32625,208.04183 0,1110.52737"
+       id="path4617"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m -402.0063,208.04183 0,1110.52737"
+       id="path4619"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m -196.68628,208.04183 0,1110.52737"
+       id="path4621"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 8.63359,208.04183 0,1110.52737"
+       id="path4623"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 213.95354,208.04183 0,1110.52737"
+       id="path4625"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 419.2736,208.04183 0,1110.52737"
+       id="path4627"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 624.59343,208.04183 0,1110.52737"
+       id="path4629"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 829.9135,208.04183 0,1110.52737"
+       id="path4631"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 1035.2336,208.04183 0,1110.52737"
+       id="path4633"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 1240.5539,208.04183 0,1110.52737"
+       id="path4635"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 1445.8734,208.04183 0,1110.52737"
+       id="path4637"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 1651.1933,208.04183 0,1110.52737"
+       id="path4639"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       d="m 1856.5134,208.04183 0,1110.52737"
+       id="path4641"
+       style="fill:none;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <text
+       x="-1121.0334"
+       y="225.77284"
+       id="text4643"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="-1121.0334"
+         y="225.77284"
+         id="tspan4645">1993</tspan></text>
+    <text
+       x="-915.69458"
+       y="225.77284"
+       id="text4647"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="-915.69458"
+         y="225.77284"
+         id="tspan4649">1994</tspan></text>
+    <text
+       x="-710.42822"
+       y="225.77284"
+       id="text4651"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="-710.42822"
+         y="225.77284"
+         id="tspan4653">1995</tspan></text>
+    <text
+       x="-505.07034"
+       y="225.77284"
+       id="text4655"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="-505.07034"
+         y="225.77284"
+         id="tspan4657">1996</tspan></text>
+    <text
+       x="-299.75357"
+       y="225.77284"
+       id="text4659"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="-299.75357"
+         y="225.77284"
+         id="tspan4661">1997</tspan></text>
+    <text
+       x="-94.443085"
+       y="225.77284"
+       id="text4663"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="-94.443085"
+         y="225.77284"
+         id="tspan4665">1998</tspan></text>
+    <text
+       x="110.87691"
+       y="225.77284"
+       id="text4667"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="110.87691"
+         y="225.77284"
+         id="tspan4669">1999</tspan></text>
+    <text
+       x="316.73685"
+       y="225.77284"
+       id="text4671"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="316.73685"
+         y="225.77284"
+         id="tspan4673">2000</tspan></text>
+    <text
+       x="522.93439"
+       y="225.77284"
+       id="text4675"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="522.93439"
+         y="225.77284"
+         id="tspan4677">2001</tspan></text>
+    <text
+       x="727.40814"
+       y="225.77284"
+       id="text4679"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="727.40814"
+         y="225.77284"
+         id="tspan4681">2002</tspan></text>
+    <text
+       x="932.68103"
+       y="225.77284"
+       id="text4683"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="932.68103"
+         y="225.77284"
+         id="tspan4685">2003</tspan></text>
+    <text
+       x="1138.02"
+       y="225.77284"
+       id="text4687"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="1138.02"
+         y="225.77284"
+         id="tspan4689">2004</tspan></text>
+    <text
+       x="1343.2863"
+       y="225.77284"
+       id="text4691"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="1343.2863"
+         y="225.77284"
+         id="tspan4693">2005</tspan></text>
+    <text
+       x="1548.644"
+       y="225.77284"
+       id="text4695"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="1548.644"
+         y="225.77284"
+         id="tspan4697">2006</tspan></text>
+    <text
+       x="1753.9609"
+       y="225.77284"
+       id="text4699"
+       xml:space="preserve"
+       style="font-size:12.93122387px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+         x="1753.9609"
+         y="225.77284"
+         id="tspan4701">2007</tspan></text>
+    <g
+       id="g8803"
+       style="fill:#008080">
+      <path
+         d="m -1063.5313,291.53125 0,2 953.9063,0 c 513.6574,0 1100.5802,0 1393.625,0 l 0,-2 c -293.0448,0 -879.9676,0 -1393.625,0 -513.57327,0 -953.762,0 -953.9063,0 z"
+         id="path6622"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1273.5259,287.68643 13.111,4.82126 -13.111,4.82127 c 2.0946,-2.84647 2.0825,-6.74094 0,-9.64253 z"
+         id="path8809"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7105"
+       style="fill:#008080">
+      <path
+         d="m -469.25,526.5625 0,2 89.1875,0 0,-2 -89.1875,0 z"
+         id="path6824"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m -390.51987,522.70676 13.11106,4.82126 -13.11106,4.82127 c 2.0946,-2.84647 2.08253,-6.74094 0,-9.64253 z"
+         id="path7111"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7097"
+       style="fill:#008080">
+      <path
+         d="m -264.96875,526.5625 0,2 268.53125,0 0,-2 -268.53125,0 z"
+         id="path6826"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m -6.8964268,522.70676 13.1110528,4.82126 -13.1110535,4.82127 c 2.0945981,-2.84647 2.082529,-6.74094 7e-7,-9.64253 z"
+         id="path7103"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7089"
+       style="fill:#008080">
+      <path
+         d="m 14.84375,438.65625 -521.125,62.4375 0.21875,2 521.125,-62.46875 -0.21875,-1.96875 z"
+         id="path6828"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 3.9845154,436.07758 13.5915796,3.22696 -12.4442391,6.34707 c 1.7410226,-3.07548 1.2656459,-6.94085 -1.1473405,-9.57403 z"
+         id="path7095"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7113"
+       style="fill:#008080">
+      <path
+         d="m -517.28125,551.5625 -0.53125,1.9375 331.90625,89.84375 0.53125,-1.9375 -331.90625,-89.84375 z"
+         id="path6830"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m -194.46541,634.96609 11.39627,8.07894 -13.91526,1.22875 c 2.76546,-2.20044 3.7712,-5.96283 2.51899,-9.30769 z"
+         id="path7119"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7065"
+       style="fill:#008080">
+      <path
+         d="m -48.40625,641.84375 0,2 1084.40625,0 0,-2 -1084.40625,0 z"
+         id="path6832"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1025.5336,637.99991 13.111,4.82126 -13.111,4.82127 c 2.0946,-2.84647 2.0825,-6.74094 0,-9.64253 z"
+         id="path7071"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7057"
+       style="fill:#008080">
+      <path
+         d="m -59.1875,741.75 0,2 82.75,0 0,-2 -82.75,0 z"
+         id="path6834"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 13.099984,737.89794 13.111052,4.82126 -13.111053,4.82127 c 2.094598,-2.84647 2.082529,-6.74094 10e-7,-9.64253 z"
+         id="path7063"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7121"
+       style="fill:#008080">
+      <path
+         d="m -468.9375,750.46875 0,2 90.71875,0 0,-2 -90.71875,0 z"
+         id="path6836"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m -388.67405,746.62104 13.11106,4.82126 -13.11106,4.82127 c 2.0946,-2.84647 2.08253,-6.74094 0,-9.64253 z"
+         id="path7127"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7049"
+       style="fill:#008080">
+      <path
+         d="m 153.71875,741.75 0,2 476.5,0 0,-2 -476.5,0 z"
+         id="path6838"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 619.7603,737.89794 13.11106,4.82126 -13.11106,4.82127 c 2.0946,-2.84647 2.08253,-6.74094 0,-9.64253 z"
+         id="path7055"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7017"
+       style="fill:#008080">
+      <path
+         d="m 778.53125,741.75 0,2 263.00005,0 0,-2 -263.00005,0 z"
+         id="path6840"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1031.0711,737.89794 13.111,4.82126 -13.111,4.82127 c 2.0946,-2.84647 2.0825,-6.74094 0,-9.64253 z"
+         id="path7023"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7009"
+       style="fill:#008080">
+      <path
+         d="m 1189.5313,741.75 0,2 262.0937,0 0,-2 -262.0937,0 z"
+         id="path6842"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1441.1513,737.89794 13.111,4.82126 -13.111,4.82127 c 2.0946,-2.84647 2.0825,-6.74094 0,-9.64253 z"
+         id="path7015"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7169"
+       style="fill:#008080">
+      <path
+         d="m 1600.8438,741.75 0,2 279.3125,0 0,-2 -279.3125,0 z"
+         id="path6844"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1869.6898,737.89794 13.111,4.82126 -13.111,4.82127 c 2.0946,-2.84647 2.0825,-6.74094 0,-9.64253 z"
+         id="path7175"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7177"
+       style="fill:#008080">
+      <path
+         d="m 1995.2188,741.75 0,2 35.6875,0 0,-2 -35.6875,0 z"
+         id="path6846"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 2020.432,737.89794 13.111,4.82126 -13.111,4.82127 c 2.0946,-2.84647 2.0825,-6.74094 0,-9.64253 z"
+         id="path7183"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7073"
+       style="fill:#008080">
+      <path
+         d="M 286.65625,453.09375 95.625,492.125 96,494.09375 287.03125,455.0625 l -0.375,-1.96875 z"
+         id="path6848"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 275.62331,451.43366 13.81085,2.0987 -11.88034,7.3486 c 1.4823,-3.2082 0.69077,-7.0214 -1.93051,-9.4473 z"
+         id="path7079"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <path
+       d="m 114.715,568.31484 0,17 1026.5,0 0,20.5"
+       id="path6850"
+       style="fill:none;stroke:#008080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:8, 8;stroke-dashoffset:0.8" />
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7041"
+       style="fill:#008080">
+      <path
+         d="m -59.46875,885.1875 0,2 287,0 0,-2 -287,0 z"
+         id="path6852"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 217.07109,881.33436 13.11106,4.82126 -13.11106,4.82127 c 2.0946,-2.84647 2.08253,-6.74094 0,-9.64253 z"
+         id="path7047"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7025"
+       style="fill:#008080">
+      <path
+         d="m 361.53125,885.1875 0,2 44,0 0,-2 -44,0 z"
+         id="path6854"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 395.07109,881.33436 13.11106,4.82126 -13.11106,4.82127 c 2.0946,-2.84647 2.08253,-6.74094 0,-9.64253 z"
+         id="path7031"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7193"
+       style="fill:#008080">
+      <path
+         d="m 524.625,836.25 -48.5,21.5 0.8125,1.8125 48.5,-21.5 -0.8125,-1.8125 z"
+         id="path6856"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 513.50711,836.97514 13.94008,-0.90462 -10.03309,9.72016 c 0.76161,-3.45104 -0.8274,-7.00661 -3.90699,-8.81554 z"
+         id="path7199"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7201"
+       style="fill:#008080">
+      <path
+         d="m 594.59375,807.34375 -1.125,1.65625 108,74.5 1.125,-1.65625 -108,-74.5 z"
+         id="path6858"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 696.16938,872.73643 8.05533,11.41298 -13.53018,-3.47544 c 3.3404,-1.15389 5.54168,-4.36659 5.47485,-7.93754 z"
+         id="path7207"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7001"
+       style="fill:#008080">
+      <path
+         d="m 772.03125,910.25 0,2 476.00005,0 0,-2 -476.00005,0 z"
+         id="path6860"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1237.5711,906.39781 13.111,4.82126 -13.111,4.82127 c 2.0946,-2.84647 2.0825,-6.74094 0,-9.64253 z"
+         id="path7007"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       id="g8811"
+       style="fill:#008080">
+      <path
+         d="m 1136.875,786.40625 0,24.5 2,0 0,-24.5 -2,0 z"
+         id="path6862"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1142.715,800.45669 -4.8213,13.11106 -4.8212,-13.11106 c 2.8464,2.0946 6.7409,2.08253 9.6425,0 z"
+         id="path8817"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g6993"
+       style="fill:#008080">
+      <path
+         d="m 1320.6875,937.3125 0,19 2,0 0,-19 -2,0 z"
+         id="path6864"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1326.5341,945.86119 -4.8213,13.11106 -4.8212,-13.11106 c 2.8464,2.0946 6.7409,2.08253 9.6425,0 z"
+         id="path6999"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7185"
+       style="fill:#008080">
+      <path
+         d="m 704.71875,937.3125 0,19 2,0 0,-19 -2,0 z"
+         id="path6866"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 710.57392,945.86119 -4.82126,13.11106 -4.82127,-13.11106 c 2.84647,2.0946 6.74094,2.08253 9.64253,0 z"
+         id="path7191"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7129"
+       style="fill:#008080">
+      <path
+         d="m 352.03125,1049.5938 0,2 297,0 0,-2 -297,0 z"
+         id="path6868"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 638.57109,1045.7682 13.11106,4.8213 -13.11106,4.8212 c 2.0946,-2.8464 2.08253,-6.7409 0,-9.6425 z"
+         id="path7135"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7153"
+       style="fill:#008080">
+      <path
+         d="m 1186.0313,1115.8125 0,2 281,0 0,-2 -281,0 z"
+         id="path6870"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1456.5711,1111.9627 13.111,4.8213 -13.111,4.8212 c 2.0946,-2.8464 2.0825,-6.7409 0,-9.6425 z"
+         id="path7159"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7161"
+       style="fill:#008080">
+      <path
+         d="m 1377.5313,1166.5313 0,2 295,0 0,-2 -295,0 z"
+         id="path6872"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1662.0711,1162.6854 13.111,4.8213 -13.111,4.8212 c 2.0946,-2.8464 2.0825,-6.7409 0,-9.6425 z"
+         id="path7167"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7145"
+       style="fill:#008080">
+      <path
+         d="m 769.53125,1236.4375 0,2 281.50005,0 0,-2 -281.50005,0 z"
+         id="path6874"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1040.5711,1232.5838 13.111,4.8213 -13.111,4.8212 c 2.0946,-2.8464 2.0825,-6.7409 0,-9.6425 z"
+         id="path7151"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7137"
+       style="fill:#008080">
+      <path
+         d="m 769.53125,1166.1563 0,2 75.5,0 0,-2 -75.5,0 z"
+         id="path6876"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 834.57109,1162.3187 13.11106,4.8213 -13.11106,4.8212 c 2.0946,-2.8464 2.08253,-6.7409 0,-9.6425 z"
+         id="path7143"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7033"
+       style="fill:#008080">
+      <path
+         d="m 294.125,838.28125 0,19.5 2,0 0,-19.5 -2,0 z"
+         id="path6878"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 290.29149,848.73864 4.82126,-13.11106 4.82127,13.11106 c -2.84647,-2.0946 -6.74094,-2.08253 -9.64253,0 z"
+         id="path7039"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(21.500811,6.0954983)"
+       id="g7081"
+       style="fill:#008080">
+      <path
+         d="m 88.8125,392.59375 0,19.5 2,0 0,-19.5 -2,0 z"
+         id="path6991"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 84.971518,403.04368 4.821266,-13.11106 4.821265,13.11106 c -2.846473,-2.0946 -6.740942,-2.08253 -9.642531,0 z"
+         id="path7087"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+    <g
+       transform="translate(428.20021,10.595498)"
+       id="g6143-1">
+      <rect
+         width="154.9868"
+         height="75.483421"
+         x="1042.8398"
+         y="600.57947"
+         id="rect3959-7"
+         style="fill:#ff0000;fill-opacity:0.14473685;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="1120.3528"
+         y="630.33093"
+         id="text4097-4"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.3528"
+           y="630.33093"
+           id="tspan4099-0"
+           style="font-style:normal">C, C++</tspan></text>
+      <text
+         x="1120.3901"
+         y="637.99731"
+         id="text4101-9"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.3901"
+           y="637.99731"
+           id="tspan3690"
+           style="font-style:italic">(Half-Life 2: Episode Two, Portal,</tspan></text>
+      <text
+         x="1120.369"
+         y="645.66357"
+         id="text4105-8"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.369"
+           y="645.66357"
+           id="tspan4107-8"
+           style="font-style:italic">Team Fortress 2, Left 4 Dead, Left 4 Dead 2,</tspan></text>
+      <text
+         x="1120.3171"
+         y="613.91711"
+         id="text4109-2"
+         xml:space="preserve"
+         style="font-size:11.03428364px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.3171"
+           y="613.91711"
+           id="tspan3694">Source Engine</tspan></text>
+      <text
+         x="1120.4813"
+         y="622.03284"
+         id="text4113-5"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.4813"
+           y="622.03284"
+           id="tspan3685"
+           style="font-style:normal">Valve, 2007, The Orange Box</tspan></text>
+      <text
+         x="1120.1641"
+         y="654.21631"
+         id="text4117-1"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.1641"
+           y="654.21631"
+           id="tspan4119-7"
+           style="font-style:italic">Counter Strike: Source, Half-Life 2,</tspan></text>
+      <text
+         x="1120.2698"
+         y="661.88257"
+         id="text4121-1"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.2698"
+           y="661.88257"
+           id="tspan4123-1"
+           style="font-style:italic">Half Life 2: Episode One, Half-Life 2: Deathmatch,</tspan></text>
+      <text
+         x="1120.5251"
+         y="669.80353"
+         id="text4125-5"
+         xml:space="preserve"
+         style="font-size:6.66320515px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"><tspan
+           x="1120.5251"
+           y="669.80353"
+           id="tspan4127-2"
+           style="font-style:italic">Zeno Clash, Portal 2)</tspan></text>
+    </g>
+    <g
+       transform="translate(21.5008,-94.4045)"
+       id="g7009-1"
+       style="fill:#008080">
+      <path
+         d="m 1194.8868,741.75 0,2 250.6275,0 0,-2 -250.6275,0 z"
+         id="path6842-4"
+         style="fill:#008080;fill-opacity:1;fill-rule:evenodd;stroke:none" />
+      <path
+         d="m 1435.4503,737.89794 13.111,4.82126 -13.111,4.82127 c 2.0946,-2.84647 2.0825,-6.74094 0,-9.64253 z"
+         id="path7015-2"
+         style="font-size:12px;fill:#008080;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </g>
+  </g>
+</svg>

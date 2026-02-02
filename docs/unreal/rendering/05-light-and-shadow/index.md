@@ -9,7 +9,7 @@
 
 이 챕터에서는 UE의 광원 시스템과 그림자 렌더링을 심층 분석합니다. 600개 이상의 셰이더 파일로 구성된 복잡한 시스템을 계층별로 살펴봅니다.
 
-![광원 타입](./images/1617944-20210527124933083-399182186.jpg)
+![광원 타입](../images/ch05/1617944-20210527124933083-399182186.jpg)
 *UE의 다양한 광원과 그림자 효과*
 
 ---
@@ -129,3 +129,9 @@ BRDF.ush      ->  DeferredLighting    ->  DeferredLight.usf
 - "Real-Time Shadows" - Eisemann et al.
 - "Physically Based Rendering" - Pharr, Jakob, Humphreys
 - UE Source: `Engine/Shaders/Private/`
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../04-deferred-rendering/05-frame-analysis/" style="text-decoration: none;">← 이전: Ch.04 05. 디퍼드 렌더링</a>
+  <a href="01-shader-system/" style="text-decoration: none;">다음: 01. 셰이더 시스템 아키텍처 →</a>
+</div>

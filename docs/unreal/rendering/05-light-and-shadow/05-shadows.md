@@ -17,7 +17,7 @@
 
 ## 1. 그림자 시스템 개요 {#1-그림자-시스템-개요}
 
-![Shadow 개요](./images/1617944-20210527125147250-1932921585.jpg)
+![Shadow 개요](../images/ch05/1617944-20210527125147250-1932921585.jpg)
 *그림자 시스템 개요*
 
 ### 그림자 렌더링 파이프라인
@@ -51,7 +51,7 @@ InitDynamicShadows()
 
 ## 2. Shadow Mapping 기초 {#2-shadow-mapping-기초}
 
-![Shadow Map 원리](./images/1617944-20210527125258210-1377087590.jpg)
+![Shadow Map 원리](../images/ch05/1617944-20210527125258210-1377087590.jpg)
 *Shadow Mapping 기본 원리*
 
 ### 2단계 알고리즘
@@ -119,10 +119,10 @@ Shadow Acne (자가 그림자):           Peter Panning (그림자 분리):
 
 ## 3. Cascaded Shadow Maps (CSM) {#3-cascaded-shadow-maps-csm}
 
-![CSM 개념](./images/1617944-20210527125219066-1431109239.jpg)
+![CSM 개념](../images/ch05/1617944-20210527125219066-1431109239.jpg)
 *Cascaded Shadow Maps 개념*
 
-![CSM 분할](./images/1617944-20210527125241317-1921288899.jpg)
+![CSM 분할](../images/ch05/1617944-20210527125241317-1921288899.jpg)
 *CSM 캐스케이드 분할*
 
 ### CSM 개념
@@ -194,7 +194,7 @@ float SampleCascadedShadowMap(
 
 ### 4.1 PCF (Percentage Closer Filtering)
 
-![PCF](./images/1617944-20210527125320468-1405692173.jpg)
+![PCF](../images/ch05/1617944-20210527125320468-1405692173.jpg)
 *PCF (Percentage Closer Filtering)*
 
 주변 텍셀을 샘플링하여 소프트 섀도우를 생성합니다.
@@ -229,7 +229,7 @@ float PCF_Shadow(float3 ShadowCoord, float2 ShadowMapSize, uint NumSamples)
 
 ### 4.2 PCSS (Percentage Closer Soft Shadows)
 
-![PCSS](./images/1617944-20210527125349440-1839933829.jpg)
+![PCSS](../images/ch05/1617944-20210527125349440-1839933829.jpg)
 *PCSS - 거리에 따른 소프트 섀도우*
 
 블로커 검색을 통해 반음영 크기를 동적으로 계산합니다.
@@ -281,7 +281,7 @@ float PCSS_Shadow(
 
 ### 4.3 VSM (Variance Shadow Maps)
 
-![VSM](./images/1617944-20210527125433934-1857100229.jpg)
+![VSM](../images/ch05/1617944-20210527125433934-1857100229.jpg)
 *VSM - 분산 섀도우 맵*
 
 뎁스와 뎁스²를 저장하고, 체비셰프 부등식으로 가시성을 계산합니다.
@@ -319,7 +319,7 @@ float VSM_Shadow(float2 Moments, float ReceiverDepth)
 
 ### 4.4 ESM (Exponential Shadow Maps)
 
-![ESM](./images/1617944-20210527125446315-516828752.jpg)
+![ESM](../images/ch05/1617944-20210527125446315-516828752.jpg)
 *ESM - 지수 섀도우 맵*
 
 ```hlsl
@@ -350,7 +350,7 @@ float ESM_Shadow(float OccluderExp, float ReceiverDepth, float C)
 
 ## 5. Contact Shadows {#5-contact-shadows}
 
-![Contact Shadow](./images/1617944-20210527125504321-1034510017.jpg)
+![Contact Shadow](../images/ch05/1617944-20210527125504321-1034510017.jpg)
 *Contact Shadows - 근접 그림자*
 
 스크린 스페이스 레이 마칭으로 작은 디테일의 그림자를 생성합니다.
@@ -514,3 +514,9 @@ bool ShouldRenderPerObjectShadow(const FPrimitiveSceneInfo* Primitive)
 - "Cascaded Shadow Maps" - GPU Gems 3
 - "PCSS" - Fernando, NVIDIA
 - UE Source: `Engine/Shaders/Private/ShadowProjectionPixelShader.usf`
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../04-lightingpass/" style="text-decoration: none;">← 이전: 04. LightingPass</a>
+  <a href="../../06-ue5-features/" style="text-decoration: none;">다음: Ch.06 UE5 신기능 →</a>
+</div>

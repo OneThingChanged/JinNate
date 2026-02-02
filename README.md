@@ -1,38 +1,59 @@
-# 나태한진태
+# 나태한진태 블로그 작업 가이드
 
-[![Deploy](https://github.com/OneThingChanged/JinNate/actions/workflows/deploy.yml/badge.svg)](https://github.com/OneThingChanged/JinNate/actions/workflows/deploy.yml)
+## 개요
 
-> 게임 개발과 그래픽스에 대한 기록
+이 폴더는 Claude를 활용한 블로그 콘텐츠 생성 작업의 지침과 기록을 보관합니다.
 
-## 문서 보기
+## 파일 구조
 
-**[https://onethingchanged.github.io/JinNate/](https://onethingchanged.github.io/JinNate/)**
-
-## 카테고리
-
-| 카테고리 | 설명 |
-|----------|------|
-| 게임개발 | 게임 개발 관련 글 |
-| 언리얼 | Unreal Engine 관련 글 |
-| 그래픽스 | 컴퓨터 그래픽스 관련 글 |
-| 프로그래밍 | 프로그래밍 관련 글 |
-
-## 로컬 실행
-
-```bash
-# 의존성 설치
-pip install -r requirements.txt
-
-# 개발 서버 실행
-mkdocs serve
-
-# 브라우저에서 http://127.0.0.1:8000 접속
+```
+blog/
+├── CLAUDE.md          # Claude 작업 지침서 (핵심)
+├── README.md          # 이 파일
+└── PROGRESS.md        # 진행 상황 기록
 ```
 
-## 배포
+## 빠른 시작
 
-`main` 브랜치에 푸시하면 GitHub Actions가 자동으로 빌드하고 GitHub Pages에 배포합니다.
+### 새 챕터 생성 요청
+```
+Ch.20 진행해줘
+```
 
-## 라이센스
+### 여러 챕터 연속 생성
+```
+20, 21, 22 챕터 진행해줘
+```
 
-이 문서는 교육 목적으로 작성되었습니다.
+### Git 커밋 및 푸시
+```
+커밋하고 푸시해줘
+```
+
+## 주요 명령어
+
+| 요청 | 설명 |
+|------|------|
+| `XX챕터` 또는 `XX ㄱ` | 해당 챕터 생성 |
+| `푸시해줘` | git commit & push |
+| `목차 몇까지?` | 현재 진행 상황 확인 |
+
+## 환경 설정
+
+### 토큰 제한 늘리기 (선택)
+```powershell
+$env:CLAUDE_CODE_MAX_OUTPUT_TOKENS = 64000
+claude
+```
+
+### MkDocs 로컬 서버
+```bash
+mkdocs serve
+```
+
+## 관련 경로
+
+- 블로그 루트: `G:\AI\CLI\Claude\`
+- 문서 폴더: `G:\AI\CLI\Claude\docs\`
+- 렌더링 시리즈: `G:\AI\CLI\Claude\docs\unreal\rendering\`
+- 설정 파일: `G:\AI\CLI\Claude\mkdocs.yml`

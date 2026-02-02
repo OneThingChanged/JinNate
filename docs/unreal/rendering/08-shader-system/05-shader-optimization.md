@@ -4,6 +4,22 @@
 
 ---
 
+## 셰이더 코드 공유 설정
+
+![셰이더 패키징 설정](../images/ch08/1617944-20210802224521843-63939622.jpg)
+
+*Project Settings의 Share Material Shader Code 옵션 - 셰이더 코드 공유로 메모리 절약*
+
+---
+
+## 머티리얼 사용 플래그
+
+![머티리얼 Usage 플래그](../images/ch08/1617944-20210802224650229-993684334.jpg)
+
+*머티리얼의 Usage 설정 - 불필요한 셰이더 순열을 줄여 컴파일 시간과 메모리 최적화*
+
+---
+
 ## 개요
 
 GPU 셰이더 최적화는 렌더링 성능의 핵심입니다. 올바른 최적화 전략은 프레임 레이트를 크게 향상시킬 수 있습니다.
@@ -717,3 +733,9 @@ half Fresnel = exp2((-5.55473h * NdotV - 6.98316h) * NdotV);
 - [AMD GPUOpen](https://gpuopen.com/)
 - [RenderDoc 문서](https://renderdoc.org/docs/)
 - [UE 셰이더 최적화 가이드](https://docs.unrealengine.com/5.0/en-US/shader-optimization-guidelines-for-unreal-engine/)
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../04-shader-binding/" style="text-decoration: none;">← 이전: 04. 파라미터 바인딩</a>
+  <a href="../../09-rhi-system/" style="text-decoration: none;">다음: Ch.09 RHI 시스템 →</a>
+</div>

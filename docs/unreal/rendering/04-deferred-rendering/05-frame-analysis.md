@@ -119,3 +119,9 @@ r.ViewDistanceScale   // 뷰 거리 스케일
 ## 다음 챕터
 
 [Ch.05 광원과 그림자](../05-light-and-shadow/index.md)에서 라이팅 시스템을 살펴봅니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../04-deferred-variants/" style="text-decoration: none;">← 이전: 04. 디퍼드 렌더링 변형</a>
+  <a href="../../05-light-and-shadow/" style="text-decoration: none;">다음: Ch.05 광원과 그림자 →</a>
+</div>

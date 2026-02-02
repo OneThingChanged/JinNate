@@ -40,14 +40,23 @@
 
     [:octicons-arrow-right-24: 바로가기](programming/index.md)
 
+-   :material-robot: **AI**
+
+    ---
+
+    인공지능 관련 글
+
+    [:octicons-arrow-right-24: 바로가기](ai/index.md)
+
 </div>
 
 ---
 
 ## 최근 글
 
-- [Ch.22 실용 도구 모음](unreal/rendering/22-practical-tools/index.md)
-- [Ch.21 최적화 기법 종합](unreal/rendering/21-optimization-techniques/index.md)
-- [Ch.20 UI 렌더링](unreal/rendering/20-ui-rendering/index.md)
-- [Ch.19 애니메이션 렌더링](unreal/rendering/19-animation-rendering/index.md)
-- [Ch.18 시네마틱 렌더링](unreal/rendering/18-cinematic-rendering/index.md)
+- [음성 합성 (TTS)](ai/voice-synthesis/index.md)
+- [Qwen3-TTS](ai/voice-synthesis/01-qwen-tts.md)
+- [GPT-SoVITS](ai/voice-synthesis/02-gpt-sovits.md)
+- [Ch.19 컴퓨터 하드웨어](unreal/rendering/19-computer-hardware/index.md)
+- [Ch.18 운영체제](unreal/rendering/18-operating-system/index.md)
+- [Ch.17 레이 트레이싱](unreal/rendering/17-ray-tracing/index.md)

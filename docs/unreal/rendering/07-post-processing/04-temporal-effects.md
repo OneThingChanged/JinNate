@@ -4,6 +4,16 @@ Motion Blur, Depth of Field, TAA 등 시간 기반 포스트 이펙트를 분석
 
 ---
 
+## 셰이딩 레이트와 템포럴 효과
+
+템포럴 효과는 적응형 셰이딩과 함께 사용되어 품질과 성능을 최적화합니다.
+
+![셰이딩 레이트 시각화](../images/ch07/1617944-20210505184710085-994097301.jpg)
+
+*Shading Rate 시각화 - DOF나 Motion Blur 영역에서 셰이딩 레이트를 낮춰 성능 최적화 (파란색: 낮은 레이트, 녹색-빨간색: 높은 레이트)*
+
+---
+
 ## 모션 블러 (Motion Blur)
 
 ### 개념
@@ -609,3 +619,9 @@ float4 FXAAPS(float2 UV : TEXCOORD0) : SV_Target
 | FXAA | 엣지 검출 블러 | Luminance |
 
 템포럴 효과는 시간 정보를 활용하여 영화적 품질을 제공합니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../03-bloom-effects/" style="text-decoration: none;">← 이전: 03. 블룸과 광원 효과</a>
+  <a href="../05-screen-space-effects/" style="text-decoration: none;">다음: 05. 스크린 스페이스 효과 →</a>
+</div>

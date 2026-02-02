@@ -601,3 +601,9 @@ int32 NumWorkers = FTaskGraphInterface::Get().GetNumWorkerThreads();
 ## 다음 문서
 
 [03. 그래픽 API 멀티스레딩](03-graphics-api-threading.md)에서 DX12, Vulkan, Metal의 병렬화를 살펴봅니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../01-multithreading-basics/" style="text-decoration: none;">← 이전: 01. 멀티스레딩 기초</a>
+  <a href="../03-graphics-api-threading/" style="text-decoration: none;">다음: 03. 그래픽 API 멀티스레딩 →</a>
+</div>

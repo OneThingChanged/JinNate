@@ -510,3 +510,9 @@ stat gpu               // GPU 통계
 ## 다음 문서
 
 [05. 엔진 패턴 및 동기화](05-engine-patterns-sync.md)에서 다른 엔진들의 패턴과 동기화 프리미티브를 살펴봅니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../03-graphics-api-threading/" style="text-decoration: none;">← 이전: 03. 그래픽 API 멀티스레딩</a>
+  <a href="../05-engine-patterns-sync/" style="text-decoration: none;">다음: 05. 엔진 패턴 및 동기화 →</a>
+</div>

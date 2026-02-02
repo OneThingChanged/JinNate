@@ -6,6 +6,10 @@ HDR에서 LDR로의 변환과 컬러 그레이딩 시스템을 분석합니다.
 
 ## 톤 매핑 개요
 
+![HDR 씬 렌더링 예시](../images/ch07/1617944-20210505184616640-853177500.png)
+
+*HDR 렌더링 씬 - 밝은 하늘과 어두운 전경이 동시에 표현되며, 톤 매핑을 통해 디스플레이 가능한 범위로 압축됨*
+
 ### HDR과 LDR
 
 ```
@@ -660,6 +664,16 @@ void SetupCinematicLook(FPostProcessSettings& Settings)
 
 ---
 
+## 모바일 HDR 설정
+
+모바일 플랫폼에서는 HDR 지원 여부에 따라 톤 매핑 방식이 달라집니다.
+
+![Mobile HDR 프로젝트 설정](../images/ch07/1617944-20211105010531026-1050040133.png)
+
+*Project Settings에서 Mobile HDR 옵션 - 모바일에서 HDR 파이프라인 활성화 시 풀 톤 매핑 적용*
+
+---
+
 ## 요약
 
 | 구성 요소 | 역할 |
@@ -671,3 +685,9 @@ void SetupCinematicLook(FPostProcessSettings& Settings)
 | White Balance | 색온도 및 틴트 보정 |
 
 톤 매핑과 컬러 그레이딩은 최종 이미지의 분위기를 결정하는 핵심 요소입니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../01-post-process-overview/" style="text-decoration: none;">← 이전: 01. 포스트 프로세스 개요</a>
+  <a href="../03-bloom-effects/" style="text-decoration: none;">다음: 03. 블룸과 광원 효과 →</a>
+</div>

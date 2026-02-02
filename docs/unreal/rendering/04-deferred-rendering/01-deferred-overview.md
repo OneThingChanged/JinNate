@@ -147,3 +147,9 @@ public:
 ## 다음 문서
 
 [02. G-Buffer 구조](02-gbuffer.md)에서 G-Buffer 레이아웃을 살펴봅니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../" style="text-decoration: none;">← 이전: Ch.04 개요</a>
+  <a href="../02-gbuffer/" style="text-decoration: none;">다음: 02. G-Buffer 구조 →</a>
+</div>

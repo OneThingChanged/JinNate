@@ -8,7 +8,13 @@ UE5의 실시간 글로벌 일루미네이션 시스템 Lumen을 분석합니다
 
 Lumen은 UE5의 **완전 동적 글로벌 일루미네이션 및 반사 시스템**입니다. 베이크 없이 실시간으로 간접광과 반사를 계산합니다.
 
+![Lumen 데모](../images/ch06/1617944-20210713162541059-1203017627.jpg)
+*Lumen 글로벌 일루미네이션 데모*
+
 ### 기존 방식과의 비교
+
+![GI 방식 비교](../images/ch06/1617944-20210713162553672-460088445.jpg)
+*기존 GI 방식과 Lumen 비교*
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -47,6 +53,9 @@ Lumen은 UE5의 **완전 동적 글로벌 일루미네이션 및 반사 시스�
 ## 아키텍처 개요
 
 ### Lumen의 구성 요소
+
+![Lumen 아키텍처](../images/ch06/1617944-20210713162611664-1002985615.webp)
+*Lumen 시스템 아키텍처*
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -97,6 +106,9 @@ Lumen은 UE5의 **완전 동적 글로벌 일루미네이션 및 반사 시스�
 ### 개념
 
 Mesh Cards는 메시 표면의 **간략화된 표현**입니다. 6방향 직교 투영으로 메시를 캡처합니다.
+
+![Mesh Cards 개념](../images/ch06/1617944-20210713162623328-401707442.webp)
+*Mesh Cards 생성 원리*
 
 ```cpp
 // Mesh Card 생성
@@ -149,6 +161,9 @@ class FLumenMeshCards
 
 ### Surface Cache
 
+![Surface Cache](../images/ch06/1617944-20210713162637091-270341681.jpg)
+*Surface Cache 구조*
+
 ```cpp
 // Surface Cache - 표면의 라이팅 정보 캐시
 class FLumenSurfaceCache
@@ -186,6 +201,9 @@ class FLumenSurfaceCache
 ## 소프트웨어 레이트레이싱
 
 ### Signed Distance Fields (SDF)
+
+![SDF 구조](../images/ch06/1617944-20210713162651911-2113666774.jpg)
+*Global Distance Field 구조*
 
 ```cpp
 // Global Distance Field
@@ -258,6 +276,9 @@ FSDFRayResult TraceSDF(FVector Origin, FVector Direction, float MaxDistance)
 
 ### Card Tracing
 
+![Card Tracing](../images/ch06/1617944-20210713162702842-1239358552.jpg)
+*Mesh Card 기반 트레이싱*
+
 ```cpp
 // Mesh Card 기반 트레이싱
 FLumenTraceResult TraceCards(FVector Origin, FVector Direction)
@@ -298,6 +319,9 @@ FLumenTraceResult TraceCards(FVector Origin, FVector Direction)
 ## 하드웨어 레이트레이싱
 
 ### RTX/DXR 통합
+
+![하드웨어 RT](../images/ch06/1617944-20210713162711045-301202629.jpg)
+*RTX 하드웨어 레이트레이싱*
 
 ```cpp
 // 하드웨어 RT 활성화 조건
@@ -378,6 +402,9 @@ void LumenClosestHit(inout FLumenPayload Payload, FHitAttributes Attrs)
 
 ### 프로브 배치
 
+![Screen Probes](../images/ch06/1617944-20210713162718278-2073267264.jpg)
+*화면 공간 프로브 배치*
+
 ```cpp
 // 화면 공간 프로브 시스템
 class FLumenScreenProbes
@@ -415,6 +442,9 @@ class FLumenScreenProbes
 ```
 
 ### 프로브 레이 트레이싱
+
+![프로브 트레이싱](../images/ch06/1617944-20210713162734386-1577498180.webp)
+*프로브당 레이 트레이싱*
 
 ```cpp
 // 프로브당 레이 트레이싱
@@ -458,6 +488,9 @@ void TraceScreenProbeRays(uint2 ProbeCoord : SV_DispatchThreadID)
 
 ### World Space Radiance Cache
 
+![Radiance Cache](../images/ch06/1617944-20210713162741873-1385120186.webp)
+*월드 공간 Radiance 캐시*
+
 ```cpp
 // 월드 공간 Radiance 캐시
 class FLumenRadianceCache
@@ -496,6 +529,9 @@ class FLumenRadianceCache
 ```
 
 ### Final Gathering
+
+![Final Gathering](../images/ch06/1617944-20210713162800284-262075872.jpg)
+*최종 간접광 계산*
 
 ```cpp
 // 최종 간접광 계산
@@ -555,6 +591,9 @@ void LumenFinalGatherCS(uint2 PixelCoord : SV_DispatchThreadID)
 
 ### Temporal Filtering
 
+![Temporal Filtering](../images/ch06/1617944-20210713162819970-602213832.jpg)
+*시간적 필터링으로 노이즈 제거*
+
 ```cpp
 // 시간적 필터링으로 노이즈 제거
 class FLumenTemporalFilter
@@ -606,6 +645,9 @@ class FLumenTemporalFilter
 
 ### 품질 설정
 
+![Lumen 설정](../images/ch06/1617944-20210713162851196-744617193.jpg)
+*Lumen 품질 설정*
+
 ```ini
 ; Project Settings
 [/Script/Engine.RendererSettings]
@@ -624,6 +666,9 @@ r.Lumen.ScreenProbeGather.RadianceCache.Clipmaps=4
 
 ### 성능 팁
 
+![Lumen 최적화](../images/ch06/1617944-20210713162919609-186290775.png)
+*Lumen 최적화 가이드*
+
 ```cpp
 // 1. 메시 카드 품질 조정
 // 프로젝트 세팅 > Rendering > Lumen
@@ -641,6 +686,9 @@ r.Lumen.Reflections.MaxRoughnessToTrace=0.4f  // 거친 표면은 근사
 ```
 
 ### 디버그 시각화
+
+![Lumen 시각화](../images/ch06/1617944-20210713162929864-1725668982.jpg)
+*Lumen 디버그 시각화*
 
 ```cpp
 // Lumen 시각화 명령어
@@ -676,3 +724,9 @@ r.Lumen.Visualize.ScreenProbeGather=1 // Screen Probes
 | Temporal Filter | 시간적 노이즈 제거 |
 
 Lumen은 완전 동적 GI를 제공하여 아티스트의 반복 작업을 크게 단축시킵니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../02-nanite/" style="text-decoration: none;">← 이전: 02. Nanite 가상화 지오메트리</a>
+  <a href="../04-virtual-shadow-maps/" style="text-decoration: none;">다음: 04. Virtual Shadow Maps →</a>
+</div>

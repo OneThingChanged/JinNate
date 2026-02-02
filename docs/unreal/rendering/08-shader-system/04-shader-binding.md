@@ -4,6 +4,14 @@
 
 ---
 
+## 셰이더 디버그 정보
+
+![ShaderDebugInfo 폴더 구조](../images/ch08/1617944-20210802224608774-292269777.jpg)
+
+*ShaderDebugInfo 폴더 - 각 머티리얼별 셰이더 디버그 정보가 저장되며, 파라미터 바인딩 디버깅에 활용*
+
+---
+
 ## 파라미터 타입
 
 ### GPU 리소스 타입
@@ -489,3 +497,9 @@ private:
 | Sampler | 샘플링 상태 | - | 매우 낮음 |
 
 효율적인 파라미터 바인딩은 렌더링 성능의 핵심입니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../03-shader-types/" style="text-decoration: none;">← 이전: 03. 셰이더 타입</a>
+  <a href="../05-shader-optimization/" style="text-decoration: none;">다음: 05. 셰이더 최적화 →</a>
+</div>

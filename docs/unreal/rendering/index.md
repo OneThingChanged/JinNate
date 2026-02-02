@@ -18,8 +18,8 @@ Unreal Engine의 렌더링 아키텍처를 심층 분석하는 시리즈입니�
 | [Ch.06](06-ue5-features/index.md) | UE5 신기능 | 5개 | Nanite, Lumen, VSM, TSR |
 | [Ch.07](07-post-processing/index.md) | 포스트 프로세싱 | 5개 | 톤 매핑, 블룸, DOF, SSAO |
 | [Ch.08](08-shader-system/index.md) | 셰이더 시스템 | 5개 | 셰이더 아키텍처, 컴파일, 최적화 |
-| [Ch.09](09-rhi-system/index.md) | RHI 시스템 | 5개 | RHI 아키텍처, 리소스, PSO |
-| [Ch.10](10-material-system/index.md) | 머티리얼 시스템 | 5개 | 머티리얼 그래프, 컴파일, 인스턴스 |
+| [Ch.09](09-material-system/index.md) | 머티리얼 시스템 | 5개 | 머티리얼 그래프, 컴파일, 인스턴스 |
+| [Ch.10](10-rhi-system/index.md) | RHI 시스템 | 5개 | RHI 아키텍처, 리소스, PSO |
 | [Ch.11](11-rdg/index.md) | RDG | 5개 | Render Dependency Graph, 패스 관리 |
 | [Ch.12](12-mobile-rendering/index.md) | 모바일 렌더링 | 5개 | TBDR, Forward, Mobile Deferred |
 | [Ch.13](13-modern-graphics-api/index.md) | 현대 그래픽 API | 5개 | D3D12, Vulkan, Metal, PSO |
@@ -86,14 +86,14 @@ Unreal Engine의 렌더링 아키텍처를 심층 분석하는 시리즈입니�
 │         │                                                       │
 │         ▼                                                       │
 │  ┌──────────────┐                                               │
-│  │ Ch.09 RHI   │ ─── RHI 아키텍처, 리소스, PSO, 플랫폼          │
-│  │ 시스템       │                                               │
+│  │ Ch.09 머티   │ ─── 머티리얼 그래프, 컴파일, 인스턴스          │
+│  │ 리얼 시스템   │                                               │
 │  └──────┬───────┘                                               │
 │         │                                                       │
 │         ▼                                                       │
 │  ┌──────────────┐                                               │
-│  │ Ch.10 머티   │ ─── 머티리얼 그래프, 컴파일, 인스턴스          │
-│  │ 리얼 시스템   │                                               │
+│  │ Ch.10 RHI   │ ─── RHI 아키텍처, 리소스, PSO, 플랫폼          │
+│  │ 시스템       │                                               │
 │  └──────┬───────┘                                               │
 │         │                                                       │
 │         ▼                                                       │
@@ -164,8 +164,8 @@ Unreal Engine의 렌더링 아키텍처를 심층 분석하는 시리즈입니�
 - **Ch.06**: 5개 문서 (UE5 개요, Nanite, Lumen, VSM, 기타)
 - **Ch.07**: 5개 문서 (개요, 톤 매핑, 블룸, 템포럴, 스크린 스페이스)
 - **Ch.08**: 5개 문서 (아키텍처, 컴파일, 타입, 바인딩, 최적화)
-- **Ch.09**: 5개 문서 (RHI 개요, 리소스, 커맨드, PSO, 플랫폼)
-- **Ch.10**: 5개 문서 (개요, 그래프, 컴파일, 인스턴스, 최적화)
+- **Ch.09**: 5개 문서 (개요, 그래프, 컴파일, 인스턴스, 최적화)
+- **Ch.10**: 5개 문서 (RHI 개요, 리소스, 커맨드, PSO, 플랫폼)
 - **Ch.11**: 5개 문서 (RDG 개요, 기초, 메커니즘, 개발, 디버깅)
 - **Ch.12**: 5개 문서 (모바일 개요, 기능, Forward, Deferred, 최적화)
 - **Ch.13**: 5개 문서 (API 개요, Device, 파이프라인, 메커니즘, 통합)

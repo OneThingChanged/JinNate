@@ -19,7 +19,7 @@
 
 ## 1. 광원 타입 개요 {#1-광원-타입-개요}
 
-![광원 타입](./images/1617944-20210527124933083-399182186.jpg)
+![광원 타입](../images/ch05/1617944-20210527124933083-399182186.jpg)
 *UE의 다양한 광원 타입*
 
 ### FDeferredLightData 구조체
@@ -114,7 +114,7 @@ float3 GetDirectionalLightDirection(FDeferredLightData LightData)
 
 ## 3. Point Light {#3-point-light}
 
-![Point Light](./images/1617944-20210527125020040-880689474.jpg)
+![Point Light](../images/ch05/1617944-20210527125020040-880689474.jpg)
 *Point Light 예시*
 
 ### 특징
@@ -183,7 +183,7 @@ float GetPointLightAttenuation(FDeferredLightData LightData, float3 WorldPositio
 
 ## 4. Spot Light {#4-spot-light}
 
-![Spot Light](./images/1617944-20210527125053515-1208510005.jpg)
+![Spot Light](../images/ch05/1617944-20210527125053515-1208510005.jpg)
 *Spot Light 예시*
 
 ### 특징
@@ -375,7 +375,7 @@ float3 TubeAreaLight(
 
 ## 7. Light Function {#7-light-function}
 
-![Light Function](./images/1617944-20210527125132427-988340219.jpg)
+![Light Function](../images/ch05/1617944-20210527125132427-988340219.jpg)
 *Light Function 효과*
 
 ### 개념
@@ -425,7 +425,7 @@ float3 ApplyLightFunction(
 
 ## 8. IES 프로파일 {#8-ies-프로파일}
 
-![IES Profile](./images/1617944-20210527125954790-2014059921.jpg)
+![IES Profile](../images/ch05/1617944-20210527125954790-2014059921.jpg)
 *IES Light Profile*
 
 ### 개념
@@ -528,3 +528,9 @@ TILT=NONE
 - 원문: https://www.cnblogs.com/timlly/p/14817455.html
 - "Real-Time Area Lighting" - Karis, Epic Games
 - IES Standard: IESNA LM-63
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../02-basepass/" style="text-decoration: none;">← 이전: 02. BasePass</a>
+  <a href="../04-lightingpass/" style="text-decoration: none;">다음: 04. LightingPass →</a>
+</div>

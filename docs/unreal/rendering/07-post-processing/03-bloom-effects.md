@@ -4,6 +4,14 @@ Bloom, Lens Flare, Light Shafts 등 광원 기반 포스트 이펙트를 분석�
 
 ---
 
+## 광원 복잡도와 블룸
+
+![광원 복잡도 시각화](../images/ch07/1617944-20210505184743826-1788055643.jpg)
+
+*타일별 광원 수 시각화 - 블룸은 이러한 밝은 광원 영역에서 글로우 효과를 생성 (색상이 따뜻할수록 더 많은 광원)*
+
+---
+
 ## 블룸 (Bloom)
 
 ### 블룸 개념
@@ -571,3 +579,9 @@ void GetBloomQualitySettings(EBloomQuality Quality, FBloomSettings& Out)
 | Dirty Lens | 렌즈 오염 효과 | 낮음 |
 
 광원 효과는 영화적 분위기를 위한 핵심 포스트 프로세스입니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../02-tone-mapping-color/" style="text-decoration: none;">← 이전: 02. 톤 매핑과 컬러</a>
+  <a href="../04-temporal-effects/" style="text-decoration: none;">다음: 04. 템포럴 효과 →</a>
+</div>

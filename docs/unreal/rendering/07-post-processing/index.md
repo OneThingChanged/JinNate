@@ -8,6 +8,10 @@ UE의 포스트 프로세싱 파이프라인과 다양한 효과들을 분석합
 
 포스트 프로세싱은 씬 렌더링 후 최종 이미지에 적용되는 효과들입니다. 톤 매핑, 블룸, 모션 블러 등 영화적 품질을 위한 핵심 기술입니다.
 
+![디퍼드 렌더링에서 포스트 프로세싱](../images/ch07/1617944-20210505184316256-1193511203.png)
+
+*G-Buffer 기반 디퍼드 렌더링 파이프라인 - 포스트 프로세싱의 입력이 되는 씬 컬러가 생성되는 과정*
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    포스트 프로세싱 파이프라인                     │
@@ -417,7 +421,23 @@ profilegpu
 
 ---
 
+## 렌더링 품질 최적화
+
+포스트 프로세싱에서 적응형 셰이딩을 통해 성능을 최적화할 수 있습니다.
+
+![적응형 컴퓨트 셰이딩 비교](../images/ch07/1617944-20210505185000426-491469970.jpg)
+
+*Deferred Adaptive Compute Shading vs Checkerboard 비교 - 동일 시간 대비 21.5% 낮은 오차, 동일 품질 대비 4.22배 빠른 성능*
+
+---
+
 ## 참고 자료
 
 - [UE 포스트 프로세스 공식 문서](https://docs.unrealengine.com/5.0/en-US/post-process-effects-in-unreal-engine/)
 - [원문 시리즈 (중국어)](https://www.cnblogs.com/timlly/p/13512787.html)
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../06-ue5-features/05-other-features/" style="text-decoration: none;">← 이전: Ch.06 05. UE5 신기능</a>
+  <a href="01-post-process-overview/" style="text-decoration: none;">다음: 01. 포스트 프로세스 개요 →</a>
+</div>

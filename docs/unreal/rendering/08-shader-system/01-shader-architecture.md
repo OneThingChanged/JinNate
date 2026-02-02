@@ -4,6 +4,14 @@ UE 셰이더 시스템의 클래스 구조와 생명주기를 분석합니다.
 
 ---
 
+## Vertex Factory 아키텍처
+
+![Vertex Factory 구조](../images/ch08/1617944-20210802224228537-152577384.png)
+
+*Vertex Factory 시스템 - Game Thread의 Mesh Component가 Render Thread의 Scene Proxy를 거쳐 GPU의 Vertex Factory로 전달됨*
+
+---
+
 ## 셰이더 타입 시스템
 
 ### FShaderType
@@ -536,3 +544,9 @@ class FGPUSkinVertexFactory : public FVertexFactory
 | FVertexFactory | 버텍스 데이터 형식 |
 
 셰이더 아키텍처는 UE 렌더링의 핵심 기반입니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../" style="text-decoration: none;">← 이전: Ch.08 개요</a>
+  <a href="../02-shader-compilation/" style="text-decoration: none;">다음: 02. 셰이더 컴파일 →</a>
+</div>

@@ -122,3 +122,9 @@
 - [DirectX 12 Programming Guide](https://docs.microsoft.com/en-us/windows/win32/direct3d12/)
 - [Vulkan Specification](https://www.khronos.org/registry/vulkan/specs/)
 - [Apple Metal Documentation](https://developer.apple.com/metal/)
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../01-overview/07-object-hierarchy/" style="text-decoration: none;">← 이전: Ch.01 07. 개요 및 기초</a>
+  <a href="01-multithreading-basics/" style="text-decoration: none;">다음: 01. 멀티스레딩 기초 →</a>
+</div>

@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="720"
+   height="405"
+   id="svg3029"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="Dekstop computer bus bandwidths.svg">
+  <defs
+     id="defs3031">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path3952"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleInM"
+       style="overflow:visible">
+      <path
+         id="path3943"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(-0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3807"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.8072342"
+     inkscape:cx="555.87605"
+     inkscape:cy="135.90353"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3033" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata3034">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Shmuel Csaba Otto Traian Xerxes</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Shmuel Csaba Otto Traian Xerxes</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:date>2014-07-11</dc:date>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Boxes"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-647.36218)">
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect3026"
+       id="use3082"
+       transform="translate(0,-20.000001)"
+       width="720"
+       height="405" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2989"
+       id="use3051"
+       transform="translate(410,5.8239155e-5)"
+       width="744.09448"
+       height="1052.3622" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect2985"
+       id="use3043"
+       transform="translate(410,0)"
+       width="744.09448"
+       height="1052.3622" />
+    <rect
+       style="fill:#3465a4;fill-opacity:1;stroke:#204a87;stroke-width:1.99999893;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect2985"
+       width="178"
+       height="138"
+       x="66.000008"
+       y="913.36218" />
+    <rect
+       y="648.36212"
+       x="6.0000005"
+       height="68"
+       width="298"
+       id="rect2989"
+       style="fill:#73d216;fill-opacity:1;stroke:#4e9a06;stroke-width:1.99999964;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       style="fill:#ef2929;fill-opacity:1;fill-rule:nonzero;stroke:#a40000;stroke-width:2.99999976;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+       d="m 155,718.58472 -28.5,23.78125 15,0 0,104.71496 -15,0 28.5,23.78125 28.5,-23.78125 -15,0 0,-104.71496 15,0 z"
+       id="path3029"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccc" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3381"
+       d="m 473.79217,981.71958 -23.78125,-28.5 0,15 -180.02183,0 0,-15 -23.78125,28.5 23.78125,28.50002 0,-15.00002 180.02183,0 0,15.00002 z"
+       style="fill:#e9b96e;fill-opacity:1;fill-rule:nonzero;stroke:#8f5902;stroke-width:2.99999976;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <path
+       sodipodi:nodetypes="ccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3427"
+       d="m 565,718.58472 -28.5,23.78125 15,0 0,104.71496 -15,0 28.5,23.78125 28.5,-23.78125 -15,0 0,-104.71496 15,0 z"
+       style="fill:#ad7fa8;fill-opacity:1;fill-rule:nonzero;stroke:#5c3566;stroke-width:2.99999976;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="-0.09375"
+       y="642.1922"
+       id="text3045"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3047"
+         x="-0.09375"
+         y="642.1922"
+         style="font-size:12px">Author: Shmuel Csaba Otto Traian Xerxes License: CC-BY-SA 4.0 Creation date: 2014-06-25, update 2014-07-11</tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       id="rect3027"
+       width="30"
+       height="30"
+       x="271"
+       y="683.36218" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect3027"
+       id="use3029"
+       transform="translate(148,0)"
+       width="720"
+       height="405" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#TriangleInM);marker-end:url(#TriangleOutM)"
+       d="m 304,732.84313 c 35.13877,158.24997 75.21014,152.96895 112,6e-5"
+       id="path3031"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="361.83865"
+       y="869.53394"
+       id="text4621"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4623"
+         x="361.83865"
+         y="869.53394">copy entire</tspan><tspan
+         sodipodi:role="line"
+         x="361.83865"
+         y="894.53394"
+         id="tspan4625">data</tspan></text>
+    <rect
+       y="893.36218"
+       x="76"
+       height="18.000002"
+       width="158"
+       id="rect3026"
+       style="fill:#3465a4;fill-opacity:1;stroke:#204a87;stroke-width:1.99999905;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3409-5"
+       y="906.22449"
+       x="154.31982"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#122a4e;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="906.22449"
+         x="154.31982"
+         sodipodi:role="line"
+         style="font-size:14px;font-weight:normal;text-align:center;text-anchor:middle;fill:#122a4e;-inkscape-font-specification:Sans"
+         id="tspan3467-3">Memory controller</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#122a4e;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       x="154.30273"
+       y="887.45837"
+       id="text3838"
+       sodipodi:linespacing="125%"><tspan
+         id="tspan3840"
+         style="font-size:14px;font-weight:normal;text-align:center;text-anchor:middle;fill:#122a4e;-inkscape-font-specification:Sans"
+         sodipodi:role="line"
+         x="154.30273"
+         y="887.45837">DDR3 PHY</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="129.76224"
+       y="954.95837"
+       id="text3023"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3025"
+         x="129.76224"
+         y="954.95837">MMU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#eeeeec;fill-opacity:1;stroke:none;font-family:Sans"
+       x="528.7583"
+       y="955.07703"
+       id="text3027"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3029"
+         x="528.7583"
+         y="955.07703"
+         style="font-size:18px;font-weight:bold;fill:#eeeeec;-inkscape-font-specification:Sans Bold">IOMMU</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3842"
+       y="986.1698"
+       x="154.78125"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#122a4e;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="986.1698"
+         x="154.78125"
+         sodipodi:role="line"
+         style="font-size:14px;font-weight:bold;text-align:center;text-anchor:middle;fill:#122a4e;-inkscape-font-specification:Sans Bold"
+         id="tspan3844">Cache hierarchy</tspan></text>
+    <use
+       height="405"
+       width="720"
+       transform="translate(410.00002,3.913234e-6)"
+       id="use3084"
+       xlink:href="#rect3026"
+       y="0"
+       x="0" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect3026"
+       id="use3086"
+       transform="translate(410.00002,-19.999997)"
+       width="720"
+       height="405" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3088"
+       y="887.45837"
+       x="564.59668"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#122a4e;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="887.45837"
+         x="564.59668"
+         sodipodi:role="line"
+         style="font-size:14px;font-weight:normal;text-align:center;text-anchor:middle;fill:#122a4e;-inkscape-font-specification:Sans"
+         id="tspan3090">GDDR5 PHY</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text3409-5"
+       id="use3092"
+       transform="translate(410,3.9563257e-6)"
+       width="720"
+       height="405" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text3842"
+       id="use3102"
+       transform="translate(410.00001,0)"
+       width="720"
+       height="405" />
+    <path
+       style="opacity:0.32300888;fill:#eeeeec;stroke:none"
+       d="M 178.58548,294.47412 304.5,181.86127 l -298.9999995,0 125.9145795,113.11285 z"
+       id="path3850"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       transform="translate(0,647.36218)" />
+    <path
+       style="opacity:0.32300888;fill:#eeeeec;stroke:none"
+       d="m 415.5,181.86127 114.91064,112.73151 69.17872,0 L 714.5,181.86127 z"
+       id="path3848"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       transform="translate(0,647.36218)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text">
+    <use
+       x="0"
+       y="0"
+       xlink:href="#rect3044"
+       id="use3123"
+       transform="translate(410,2.9101561e-6)"
+       width="720"
+       height="405" />
+    <rect
+       style="opacity:0.5;fill:#eeeeec;fill-opacity:1;stroke:#888a85;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6, 6;stroke-dashoffset:0"
+       id="rect3044"
+       width="299"
+       height="69"
+       x="5.5000005"
+       y="112.86127" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:-7.92000008px;writing-mode:lr-tb;text-anchor:start;fill:#122a4e;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       x="119.21094"
+       y="384.87192"
+       id="text2995"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2997"
+         x="119.21094"
+         y="384.87192"
+         style="font-size:32px;font-weight:bold;fill:#122a4e;-inkscape-font-specification:Sans Bold">CPU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:-7.92000008px;writing-mode:lr-tb;text-anchor:start;fill:#122a4e;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       x="527.83594"
+       y="381.95981"
+       id="text2999"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3001"
+         x="527.83594"
+         y="381.95981"
+         style="font-size:32px;font-weight:bold;fill:#122a4e;-inkscape-font-specification:Sans Bold">GPU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4e9a06;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       x="46.742188"
+       y="40.83588"
+       id="text3003"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="46.742188"
+         y="40.83588"
+         id="tspan3007"
+         style="font-weight:bold;fill:#4e9a06;-inkscape-font-specification:Sans Bold">system memory</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3009"
+       y="41.527302"
+       x="447.14453"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#4e9a06;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         id="tspan3013"
+         y="41.527302"
+         x="447.14453"
+         sodipodi:role="line"
+         style="font-weight:bold;fill:#4e9a06;-inkscape-font-specification:Sans Bold">graphics memory</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#a40000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       x="4.3222661"
+       y="190.97845"
+       id="text3053"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="4.3222661"
+         y="190.97845"
+         id="tspan3443">128-bit DDR3-2133</tspan><tspan
+         sodipodi:role="line"
+         x="4.3222661"
+         y="205.97845"
+         id="tspan3457">= 34.13 GB/s</tspan><tspan
+         sodipodi:role="line"
+         x="4.3222661"
+         y="220.97845"
+         id="tspan3429">Latency: <tspan
+   style="font-size:12px;font-style:italic;fill:#a40000;-inkscape-font-specification:Sans Italic"
+   id="tspan3431">unknown</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3059"
+       y="190.97845"
+       x="716.41071"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#5c3566;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="190.97845"
+         x="716.41071"
+         sodipodi:role="line"
+         id="tspan3445">384-bit GDDR5-6000</tspan><tspan
+         y="205.97845"
+         x="716.41071"
+         sodipodi:role="line"
+         id="tspan3447">= 336.4 GB/s</tspan><tspan
+         y="220.97845"
+         x="716.41071"
+         sodipodi:role="line"
+         id="tspan3449">Latency: <tspan
+   style="font-size:12px;font-style:italic;text-align:end;text-anchor:end;fill:#5c3566;-inkscape-font-specification:Sans Italic"
+   id="tspan3451">unknown</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8f5902;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="251.84766"
+       y="297.298"
+       id="text3142"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3144"
+         x="251.84766"
+         y="297.298">PCI Express bus</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3065"
+       y="372.50391"
+       x="283.98682"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#8f5902;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans"
+       xml:space="preserve"><tspan
+         y="372.50391"
+         x="283.98682"
+         sodipodi:role="line"
+         id="tspan3154">PCIe 2.0 x16 = 8GB/s</tspan><tspan
+         y="387.50391"
+         x="283.98682"
+         sodipodi:role="line"
+         id="tspan3377">PCIe 3.0 x16 = 15.75 GB/s</tspan><tspan
+         y="402.50391"
+         x="283.98682"
+         sodipodi:role="line"
+         id="tspan3405">Latency: <tspan
+   style="font-size:12px;font-style:italic;fill:#8f5902;-inkscape-font-specification:Sans Italic"
+   id="tspan3407">unknown</tspan></tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3419"
+       y="84.917854"
+       x="154.76074"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#a40000;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="84.917854"
+         x="154.76074"
+         sodipodi:role="line"
+         id="tspan3096">System memory bus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#5c3566;fill-opacity:1;stroke:none;display:inline;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="564.98047"
+       y="84.917854"
+       id="text3423"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="564.98047"
+         y="84.917854"
+         id="tspan3100">Graphics memory bus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="41.367188"
+       y="152.80072"
+       id="text3828"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3830"
+         x="41.367188"
+         y="152.80072">Virtual CPU memory</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3832"
+       y="152.80072"
+       x="450.50781"
+       style="font-size:20px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#888a85;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       xml:space="preserve"><tspan
+         y="152.80072"
+         x="450.50781"
+         id="tspan3834"
+         sodipodi:role="line">Virtual GPU memory</tspan></text>
+  </g>
+</svg>

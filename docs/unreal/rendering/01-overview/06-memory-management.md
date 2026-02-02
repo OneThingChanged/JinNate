@@ -557,3 +557,9 @@ void ProcessArray(TArray<FData>&& Data)
 ## 다음 문서
 
 [07. 엔진 오브젝트 및 시작 파이프라인](07-object-hierarchy.md)에서 UObject 계층과 엔진 시작 과정을 살펴봅니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../05-coordinate-system/" style="text-decoration: none;">← 이전: 05. 좌표 공간 시스템</a>
+  <a href="../07-object-hierarchy/" style="text-decoration: none;">다음: 07. 엔진 오브젝트 및 시작 파이프라인 →</a>
+</div>

@@ -8,6 +8,10 @@ UE의 셰이더 아키텍처, 컴파일 시스템, 최적화 기법을 분석합
 
 셰이더는 GPU에서 실행되는 프로그램으로, 렌더링의 핵심입니다. UE는 복잡한 셰이더 시스템을 통해 크로스 플랫폼 지원과 고성능을 달성합니다.
 
+![UE 셰이더 컴파일 아키텍처](../images/ch08/1617944-20210802224354581-1202563787.jpg)
+
+*UE 4.25 셰이더 컴파일 파이프라인 - HLSL에서 각 플랫폼별 셰이더 언어로 변환 (OpenGL, Metal, GNM, Vulkan, DX11/12)*
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    UE 셰이더 시스템 개요                         │
@@ -322,7 +326,21 @@ class FBasePassPS : public FMeshMaterialShader
 
 ---
 
+## ShaderCompileWorker
+
+![ShaderCompileWorker 설정](../images/ch08/1617944-20210802224631477-1524681730.jpg)
+
+*Visual Studio Configuration Manager - ShaderCompileWorker 프로젝트의 다양한 플랫폼 빌드 구성*
+
+---
+
 ## 참고 자료
 
 - [UE 셰이더 개발 문서](https://docs.unrealengine.com/5.0/en-US/shader-development-in-unreal-engine/)
 - [원문 시리즈 (중국어)](https://www.cnblogs.com/timlly/p/13512787.html)
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../07-post-processing/05-screen-space-effects/" style="text-decoration: none;">← 이전: Ch.07 05. 포스트 프로세싱</a>
+  <a href="01-shader-architecture/" style="text-decoration: none;">다음: 01. 셰이더 아키텍처 →</a>
+</div>

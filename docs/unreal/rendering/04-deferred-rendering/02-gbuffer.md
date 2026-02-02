@@ -147,3 +147,9 @@ enum class EMaterialShadingModel : uint8
 ## 다음 문서
 
 [03. 렌더링 파이프라인](03-pipeline-stages.md)에서 단계별 렌더링 과정을 살펴봅니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../01-deferred-overview/" style="text-decoration: none;">← 이전: 01. 디퍼드 렌더링 개요</a>
+  <a href="../03-pipeline-stages/" style="text-decoration: none;">다음: 03. 렌더링 파이프라인 단계 →</a>
+</div>

@@ -248,3 +248,9 @@ public:
 ## 다음 챕터
 
 [Ch.04 디퍼드 렌더링](../04-deferred-rendering/index.md)에서 G-Buffer와 Lighting Pass를 살펴봅니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../04-mesh-batch-processor/" style="text-decoration: none;">← 이전: 04. FMeshBatch와 FMeshPas</a>
+  <a href="../../04-deferred-rendering/" style="text-decoration: none;">다음: Ch.04 디퍼드 렌더링 →</a>
+</div>

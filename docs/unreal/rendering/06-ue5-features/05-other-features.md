@@ -10,6 +10,9 @@ TSR, Substrate, World Partition 등 UE5의 추가 렌더링 기능들을 분석�
 
 TSR은 UE5의 **템포럴 업스케일링 기술**로, 낮은 해상도에서 렌더링하고 고해상도로 재구성합니다.
 
+![TSR 개요](../images/ch06/1617944-20210713163255217-708119414.jpg)
+*Temporal Super Resolution 개요*
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    TSR 파이프라인                                │
@@ -53,6 +56,9 @@ TSR은 UE5의 **템포럴 업스케일링 기술**로, 낮은 해상도에서 �
 ```
 
 ### 구현 세부사항
+
+![TSR 파이프라인](../images/ch06/1617944-20210713163303641-1393384948.jpg)
+*TSR 내부 파이프라인*
 
 ```cpp
 // TSR 메인 클래스
@@ -141,6 +147,9 @@ void TSRMainCS(uint2 DispatchThreadId : SV_DispatchThreadID)
 
 ### TSR vs TAA vs DLSS
 
+![업스케일링 비교](../images/ch06/1617944-20210713163310426-124526788.jpg)
+*업스케일링 기술 비교*
+
 | 기능 | TAA | TSR | DLSS |
 |------|-----|-----|------|
 | 업스케일링 | 제한적 | 지원 | 지원 |
@@ -156,6 +165,9 @@ void TSRMainCS(uint2 DispatchThreadId : SV_DispatchThreadID)
 ### 개요
 
 Substrate는 UE5의 **차세대 머티리얼 시스템**으로, 물리 기반 레이어드 머티리얼을 지원합니다.
+
+![Substrate 개요](../images/ch06/1617944-20210713163325989-771383200.jpg)
+*Substrate 머티리얼 시스템*
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -201,6 +213,9 @@ Substrate는 UE5의 **차세대 머티리얼 시스템**으로, 물리 기반 �
 ```
 
 ### Substrate BSDF
+
+![Substrate BSDF](../images/ch06/1617944-20210713163338048-1355395400.jpg)
+*Substrate BSDF 레이어 시스템*
 
 ```cpp
 // Substrate BSDF 노드
@@ -267,6 +282,9 @@ r.Substrate.BytesPerPixel=128
 
 World Partition은 UE5의 **대규모 월드 스트리밍 시스템**입니다.
 
+![World Partition](../images/ch06/1617944-20210713163345905-2052766174.jpg)
+*World Partition 시스템*
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    World Partition 구조                          │
@@ -310,6 +328,9 @@ World Partition은 UE5의 **대규모 월드 스트리밍 시스템**입니다.
 ```
 
 ### 핵심 컴포넌트
+
+![World Partition 컴포넌트](../images/ch06/1617944-20210713163354225-63147107.jpg)
+*World Partition 핵심 컴포넌트*
 
 ```cpp
 // World Partition 액터 배치
@@ -372,6 +393,9 @@ class UWorldPartitionStreamingSource
 
 ### HLOD (Hierarchical Level of Detail)
 
+![HLOD 시스템](../images/ch06/1617944-20210713163401400-802801248.jpg)
+*World Partition HLOD 시스템*
+
 ```cpp
 // World Partition HLOD
 class FWorldPartitionHLOD
@@ -432,58 +456,14 @@ class FWorldPartitionHLOD
 
 ---
 
-## Sparse Volume Textures
-
-### 개요
-
-Sparse Volume Textures는 **효율적인 3D 텍스처 스트리밍**을 위한 시스템입니다.
-
-```cpp
-// Sparse Volume Texture
-class FSparseVolumeTexture
-{
-    // 페이지 기반 볼륨 텍스처
-    struct FVolumePage
-    {
-        FIntVector PageCoord;
-        FRDGTexture* Data;
-        bool bResident;
-    };
-
-    // 페이지 테이블
-    FRDGTexture* PageTable;
-
-    // 물리 페이지 풀
-    TArray<FVolumePage> PhysicalPages;
-
-    // 스트리밍 업데이트
-    void UpdateStreaming(FSceneView& View)
-    {
-        // 가시 복셀 결정
-        TSet<FIntVector> RequiredPages;
-
-        for (FVolumetricPrimitive& Prim : VolumetricPrimitives)
-        {
-            if (Prim.IsVisible(View))
-            {
-                // 필요한 페이지 수집
-                CollectRequiredPages(Prim, View, RequiredPages);
-            }
-        }
-
-        // 페이지 로드/언로드
-        UpdateResidency(RequiredPages);
-    }
-};
-```
-
----
-
 ## Path Tracing
 
 ### 레퍼런스 렌더러
 
 UE5에는 **오프라인 품질의 패스 트레이싱** 렌더러가 포함되어 있습니다.
+
+![Path Tracing](../images/ch06/1617944-20210713163500946-49549867.jpg)
+*Path Tracing 레퍼런스 렌더러*
 
 ```cpp
 // Path Tracing 활성화
@@ -565,6 +545,9 @@ void PathTracingRayGen()
 
 ### 권장 프로젝트 설정
 
+![UE5 설정](../images/ch06/1617944-20210713163511064-1503895388.jpg)
+*UE5 권장 프로젝트 설정*
+
 ```ini
 ; DefaultEngine.ini - UE5 권장 설정
 
@@ -606,3 +589,9 @@ r.Shadow.Virtual.MaxPhysicalPages=4096
 | Path Tracing | 오프라인 품질 렌더링 | 안정 |
 
 이들 기능은 Nanite, Lumen, VSM과 함께 UE5의 렌더링 혁신을 완성합니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../04-virtual-shadow-maps/" style="text-decoration: none;">← 이전: 04. Virtual Shadow Maps</a>
+  <a href="../../07-post-processing/" style="text-decoration: none;">다음: Ch.07 포스트 프로세싱 →</a>
+</div>

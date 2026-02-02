@@ -8,7 +8,13 @@ Nanite의 핵심 기술과 구현을 심층 분석합니다.
 
 Nanite는 UE5의 **가상화 지오메트리 시스템**으로, 수십억 개의 폴리곤을 실시간으로 렌더링할 수 있게 합니다.
 
+![Nanite 데모](../images/ch06/1617944-20210624165507238-311931754.webp)
+*Nanite 가상화 지오메트리 데모*
+
 ### 핵심 아이디어
+
+![기존 방식 vs Nanite](../images/ch06/1617944-20210624165521471-365729195.webp)
+*기존 LOD 방식과 Nanite 방식 비교*
 
 ```
 기존 방식의 문제:
@@ -55,6 +61,9 @@ Nanite 방식:
 
 ### 클러스터 (Cluster)
 
+![Nanite 클러스터](../images/ch06/1617944-20210624165602659-125322444.webp)
+*Nanite 클러스터 구조*
+
 ```cpp
 // Nanite의 기본 렌더링 단위
 struct FCluster
@@ -85,6 +94,9 @@ struct FCluster
 
 ### 클러스터 그룹 (Cluster Group)
 
+![클러스터 그룹](../images/ch06/1617944-20210624165616094-340059821.webp)
+*LOD 전환을 위한 클러스터 그룹*
+
 ```cpp
 // LOD 전환을 위한 그룹 구조
 struct FClusterGroup
@@ -107,6 +119,9 @@ struct FClusterGroup
 ```
 
 ### DAG (Directed Acyclic Graph) 구조
+
+![DAG 구조](../images/ch06/1617944-20210624165625718-1265238583.webp)
+*Nanite DAG 계층 구조*
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -153,6 +168,9 @@ struct FClusterGroup
 ## GPU 컬링 파이프라인
 
 ### 2-Pass 컬링
+
+![GPU 컬링](../images/ch06/1617944-20210624165637595-1983727823.webp)
+*Nanite GPU 컬링 파이프라인*
 
 ```cpp
 // Pass 1: 인스턴스 컬링
@@ -224,6 +242,9 @@ void ClusterCullingCS(uint GroupID : SV_GroupID, uint ThreadID : SV_GroupThreadI
 
 ### Persistent Threads 패턴
 
+![Persistent Threads](../images/ch06/1617944-20210624165716199-451806928.webp)
+*워크 스틸링 기반 영구 스레드 패턴*
+
 ```cpp
 // 워크 스틸링 기반 영구 스레드
 [numthreads(64, 1, 1)]
@@ -258,6 +279,9 @@ void PersistentCullingCS(uint ThreadID : SV_GroupThreadID)
 ## 소프트웨어 래스터라이저
 
 ### 왜 소프트웨어인가?
+
+![HW vs SW 래스터라이저](../images/ch06/1617944-20210624165731198-1474490536.webp)
+*하드웨어 vs 소프트웨어 래스터라이저 비교*
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -307,6 +331,9 @@ void PersistentCullingCS(uint ThreadID : SV_GroupThreadID)
 ```
 
 ### 래스터라이저 구현
+
+![SW 래스터라이제이션](../images/ch06/1617944-20210624165739638-314682806.jpg)
+*소프트웨어 래스터라이제이션 과정*
 
 ```cpp
 // Nanite 소프트웨어 래스터라이저 (간략화)
@@ -394,6 +421,9 @@ void RasterizeSmallTriangle(float2 S0, float2 S1, float2 S2, int2 Min, int2 Max)
 
 ### Visibility Buffer
 
+![Visibility Buffer](../images/ch06/1617944-20210624165835965-212826063.webp)
+*Visibility Buffer 구조*
+
 ```cpp
 // Visibility Buffer 구조
 // 64비트 per pixel
@@ -421,6 +451,9 @@ void WritePixel(int2 Pixel, float Depth, uint InstanceID, uint TriID)
 ## 머티리얼 평가
 
 ### Deferred Material Pass
+
+![Deferred Material](../images/ch06/1617944-20210624165901458-1023650839.jpg)
+*Deferred Material 평가 과정*
 
 ```cpp
 // Visibility Buffer에서 G-Buffer 생성
@@ -470,6 +503,9 @@ void MaterialEvaluationCS(uint2 PixelCoord : SV_DispatchThreadID)
 
 ### 머티리얼 정렬
 
+![머티리얼 정렬](../images/ch06/1617944-20210624165917325-78919145.webp)
+*머티리얼별 픽셀 정렬*
+
 ```cpp
 // 효율적인 머티리얼 평가를 위한 정렬
 class FNaniteMaterialSort
@@ -514,6 +550,9 @@ class FNaniteMaterialSort
 ## 스트리밍 시스템
 
 ### 온디맨드 로딩
+
+![스트리밍 시스템](../images/ch06/1617944-20210624165926423-1177081392.webp)
+*Nanite 스트리밍 시스템*
 
 ```cpp
 // Nanite 스트리밍 관리자
@@ -572,6 +611,9 @@ class FNaniteStreamingManager
 ```
 
 ### 우선순위 결정
+
+![스트리밍 우선순위](../images/ch06/1617944-20210624165939188-1326094904.webp)
+*스트리밍 우선순위 계산*
 
 ```cpp
 // 스트리밍 우선순위 계산
@@ -636,6 +678,9 @@ class UNaniteSettings : public UObject
 
 ### 프로파일링 명령어
 
+![Nanite 시각화](../images/ch06/1617944-20210624165956466-394943752.webp)
+*Nanite 시각화 모드*
+
 ```cpp
 // Nanite 통계 확인
 stat Nanite
@@ -649,6 +694,9 @@ r.Nanite.Visualize.MaterialDepth 1   // 머티리얼 복잡도
 ```
 
 ### 최적화 팁
+
+![Nanite 최적화](../images/ch06/1617944-20210624170005121-156185517.jpg)
+*Nanite 최적화 가이드*
 
 ```cpp
 // 1. 적절한 메시 크기
@@ -683,3 +731,9 @@ r.Streaming.PoolSize=4000  // GPU 메모리 여유에 따라 조정
 | 스트리밍 | 온디맨드 페이지 로딩 |
 
 Nanite는 수십억 폴리곤의 실시간 렌더링을 가능하게 하며, 아티스트의 워크플로우를 단순화합니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../01-ue5-overview/" style="text-decoration: none;">← 이전: 01. UE5 렌더링 개요</a>
+  <a href="../03-lumen/" style="text-decoration: none;">다음: 03. Lumen 글로벌 일루미네이션 →</a>
+</div>

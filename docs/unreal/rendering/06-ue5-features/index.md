@@ -8,6 +8,9 @@ UE5의 혁신적인 렌더링 기술들을 심층 분석합니다.
 
 Unreal Engine 5는 2022년 정식 출시와 함께 게임 그래픽의 새로운 기준을 제시했습니다. 특히 **Nanite**와 **Lumen**은 실시간 렌더링의 패러다임을 바꾼 핵심 기술입니다.
 
+![UE5 기술 데모](../images/ch06/1617944-20210527130425016-374852199.png)
+*UE5 'Lumen in the Land of Nanite' 기술 데모*
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    UE5 렌더링 혁신                               │
@@ -59,6 +62,9 @@ Unreal Engine 5는 2022년 정식 출시와 함께 게임 그래픽의 새로운
 ## UE5 렌더링 아키텍처
 
 ### 핵심 변화
+
+![UE5 아키텍처 변화](../images/ch06/1617944-20210624165023196-262243967.jpg)
+*UE5의 렌더링 아키텍처 변화*
 
 ```cpp
 // UE4 vs UE5 렌더링 패러다임 비교
@@ -167,3 +173,9 @@ class FNaniteSceneProxy : public FPrimitiveSceneProxy
 - [Nanite 기술 프레젠테이션 (SIGGRAPH 2021)](https://advances.realtimerendering.com/s2021/)
 - [Lumen 기술 문서](https://docs.unrealengine.com/5.0/en-US/lumen-global-illumination-and-reflections-in-unreal-engine/)
 - [원문 시리즈 (중국어)](https://www.cnblogs.com/timlly/p/13512787.html)
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../05-light-and-shadow/05-shadows/" style="text-decoration: none;">← 이전: Ch.05 05. 광원과 그림자</a>
+  <a href="01-ue5-overview/" style="text-decoration: none;">다음: 01. UE5 렌더링 개요 →</a>
+</div>

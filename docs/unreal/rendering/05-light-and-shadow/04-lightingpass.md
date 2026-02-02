@@ -81,7 +81,7 @@ struct FDirectLighting
 
 ### 2.1 Tiled Light Culling
 
-![Tiled Culling](./images/1617944-20210527125540123-1236750462.jpg)
+![Tiled Culling](../images/ch05/1617944-20210527125540123-1236750462.jpg)
 *Tiled 기반 라이트 컬링*
 
 스크린을 타일(예: 16x16)로 분할하여 각 타일에 영향을 미치는 라이트만 처리합니다.
@@ -126,7 +126,7 @@ void TileLightCullingCS(
 
 ### 2.2 Clustered Light Culling
 
-![Clustered](./images/1617944-20210527125604394-1116075554.jpg)
+![Clustered](../images/ch05/1617944-20210527125604394-1116075554.jpg)
 *Clustered 라이트 컬링*
 
 Tiled + 뎁스 슬라이싱으로 3D 클러스터를 생성합니다.
@@ -237,7 +237,7 @@ float3 DiffuseBRDF_Burley(
 
 ### 3.3 BRDF 다이어그램
 
-![BRDF](./images/1617944-20210527125630692-2036345235.jpg)
+![BRDF](../images/ch05/1617944-20210527125630692-2036345235.jpg)
 *BRDF 컴포넌트*
 
 ```
@@ -411,7 +411,7 @@ void RenderDirectionalLight(FRHICommandList& RHICmdList, const FLightSceneInfo* 
 
 ### 5.2 라이트 렌더링 흐름
 
-![Lighting Pass](./images/1617944-20210527125816032-546720973.jpg)
+![Lighting Pass](../images/ch05/1617944-20210527125816032-546720973.jpg)
 *UE 라이팅 패스*
 
 ```
@@ -519,3 +519,9 @@ void GatherAndSortLights(TArray<FLightSceneInfo*>& Lights)
 - "Moving Frostbite to PBR" - Lagarde, de Rousiers
 - "Real Shading in Unreal Engine 4" - Karis, Epic Games
 - UE Source: `Engine/Shaders/Private/DeferredLightPixelShaders.usf`
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../03-light-sources/" style="text-decoration: none;">← 이전: 03. 광원 (Light Sources)</a>
+  <a href="../05-shadows/" style="text-decoration: none;">다음: 05. 그림자 시스템 →</a>
+</div>

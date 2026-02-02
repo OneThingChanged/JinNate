@@ -546,3 +546,9 @@ stat cpu             // CPU 사용률
 - [GDC: Parallelizing the Naughty Dog Engine Using Fibers](https://www.gdcvault.com/play/1022186/Parallelizing-the-Naughty-Dog-Engine)
 - [GDC: Destiny's Multithreaded Rendering Architecture](https://www.gdcvault.com/play/1021926/Destiny-s-Multithreaded-Rendering)
 - [Frostbite Frame Graph](https://www.gdcvault.com/play/1024612/FrameGraph-Extensible-Rendering-Architecture-in)
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../04-ue-rendering-threads/" style="text-decoration: none;">← 이전: 04. UE 렌더링 스레드 아키텍처</a>
+  <a href="../../03-rendering-mechanism/" style="text-decoration: none;">다음: Ch.03 렌더링 메커니즘 →</a>
+</div>

@@ -126,3 +126,9 @@ UE4.22+의 메시 드로잉 파이프라인과 FMeshDrawCommand 시스템을 분
 - [원문 시리즈 (중국어)](https://www.cnblogs.com/timlly/p/14588598.html)
 - [UE4 Source: Engine/Source/Runtime/Renderer/](https://github.com/EpicGames/UnrealEngine)
 - [Epic Games 기술 블로그](https://www.unrealengine.com/en-US/tech-blog)
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../02-multithreading/05-engine-patterns-sync/" style="text-decoration: none;">← 이전: Ch.02 05. 멀티스레드 렌더링</a>
+  <a href="01-core-classes/" style="text-decoration: none;">다음: 01. 핵심 클래스 →</a>
+</div>

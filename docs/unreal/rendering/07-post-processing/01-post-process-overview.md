@@ -8,6 +8,10 @@ UE의 포스트 프로세싱 시스템 아키텍처와 파이프라인을 분석
 
 포스트 프로세싱은 3D 씬 렌더링이 완료된 후 2D 이미지에 적용되는 효과들입니다. 화면 전체에 적용되는 풀스크린 패스로 구현됩니다.
 
+![G-Buffer 렌더링 파이프라인](../images/ch07/1617944-20210505184316256-1193511203.png)
+
+*디퍼드 렌더링에서 G-Buffer가 생성되고 라이팅이 합성되는 과정 - 이 결과물이 포스트 프로세싱의 입력이 됨*
+
 ```
 ┌─────────────────────────────────────────────────────────────────┐
 │                    렌더링 파이프라인에서의 위치                   │
@@ -546,6 +550,12 @@ float4 OutlineEffect(float2 UV)
 
 ### 접근 가능한 텍스처
 
+포스트 프로세싱에서 사용되는 G-Buffer 텍스처들입니다.
+
+![G-Buffer 구성 요소](../images/ch07/1617944-20210505184337183-1419009066.png)
+
+*G-Buffer의 주요 구성 요소: Position, Normals, Albedo, Specular - 이 데이터들이 포스트 프로세싱 효과의 입력으로 사용됨*
+
 ```cpp
 // 포스트 프로세스에서 사용 가능한 씬 텍스처
 struct FSceneTextures
@@ -662,6 +672,16 @@ class FPostProcessDownsample
 
 ---
 
+## 프로젝트 설정
+
+UE 프로젝트 설정에서 기본 포스트 프로세싱 옵션을 구성할 수 있습니다.
+
+![포스트 프로세싱 프로젝트 설정](../images/ch07/1617944-20210505185315935-1204060267.jpg)
+
+*Project Settings > Rendering > Default Settings에서 Bloom, Ambient Occlusion, Auto Exposure 등의 기본값 설정*
+
+---
+
 ## 요약
 
 | 구성 요소 | 역할 |
@@ -673,3 +693,9 @@ class FPostProcessDownsample
 | Scene Textures | PP에서 접근 가능한 버퍼들 |
 
 포스트 프로세싱은 최종 이미지 품질을 결정하는 핵심 시스템입니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../" style="text-decoration: none;">← 이전: Ch.07 개요</a>
+  <a href="../02-tone-mapping-color/" style="text-decoration: none;">다음: 02. 톤 매핑과 컬러 →</a>
+</div>

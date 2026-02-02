@@ -77,10 +77,24 @@ nav:
   - 홈: index.md
   - 게임개발:
     - game-dev/index.md
+  - AI:
+    - ai/index.md
+    - 음성 합성:
+      - ai/voice-synthesis/index.md
+      - Qwen3-TTS: ai/voice-synthesis/01-qwen-tts.md
+      - GPT-SoVITS: ai/voice-synthesis/02-gpt-sovits.md
   - 언리얼:
     - unreal/index.md
     - 툰스타일:
       - unreal/toon-style/index.md
+      - 후도 스타일:
+        - unreal/toon-style/01-impasto-style/index.md
+        - 피부 렌더링: unreal/toon-style/01-impasto-style/01-skin-rendering.md
+      - Ch.02 YKPhotoScope:
+        - unreal/toon-style/02-yk-photo-scope/index.md
+      - UE5 셀 셰이딩:
+        - unreal/toon-style/03-ue5-cell-shading/index.md
+        - 셀 셰이딩 입문: unreal/toon-style/03-ue5-cell-shading/01-basics.md
     - 렌더링 시스템 분석:
       - unreal/rendering/index.md
       - Ch.01 개요 및 기초:
@@ -141,20 +155,20 @@ nav:
         - 셰이더 타입: unreal/rendering/08-shader-system/03-shader-types.md
         - 파라미터 바인딩: unreal/rendering/08-shader-system/04-shader-binding.md
         - 셰이더 최적화: unreal/rendering/08-shader-system/05-shader-optimization.md
-      - Ch.09 RHI 시스템:
-        - unreal/rendering/09-rhi-system/index.md
-        - RHI 개요: unreal/rendering/09-rhi-system/01-rhi-overview.md
-        - RHI 리소스: unreal/rendering/09-rhi-system/02-rhi-resources.md
-        - 커맨드 리스트: unreal/rendering/09-rhi-system/03-command-list.md
-        - 파이프라인 스테이트: unreal/rendering/09-rhi-system/04-pipeline-state.md
-        - 플랫폼별 RHI: unreal/rendering/09-rhi-system/05-platform-rhi.md
-      - Ch.10 머티리얼 시스템:
-        - unreal/rendering/10-material-system/index.md
-        - 머티리얼 개요: unreal/rendering/10-material-system/01-material-overview.md
-        - 머티리얼 그래프: unreal/rendering/10-material-system/02-material-graph.md
-        - 머티리얼 컴파일: unreal/rendering/10-material-system/03-material-compilation.md
-        - 머티리얼 인스턴스: unreal/rendering/10-material-system/04-material-instance.md
-        - 머티리얼 최적화: unreal/rendering/10-material-system/05-material-optimization.md
+      - Ch.09 머티리얼 시스템:
+        - unreal/rendering/09-material-system/index.md
+        - 머티리얼 기초 (상): unreal/rendering/09-material-system/01-material-basics.md
+        - 머티리얼 기초 (하): unreal/rendering/09-material-system/02-material-classes.md
+        - 머티리얼 렌더링: unreal/rendering/09-material-system/03-material-rendering.md
+        - 머티리얼 컴파일: unreal/rendering/09-material-system/04-material-compilation.md
+        - 머티리얼 개발: unreal/rendering/09-material-system/05-material-development.md
+      - Ch.10 RHI 시스템:
+        - unreal/rendering/10-rhi-system/index.md
+        - RHI 개요: unreal/rendering/10-rhi-system/01-rhi-overview.md
+        - RHI 리소스: unreal/rendering/10-rhi-system/02-rhi-resources.md
+        - 커맨드 리스트: unreal/rendering/10-rhi-system/03-command-list.md
+        - 파이프라인 스테이트: unreal/rendering/10-rhi-system/04-pipeline-state.md
+        - 플랫폼별 RHI: unreal/rendering/10-rhi-system/05-platform-rhi.md
       - Ch.11 RDG:
         - unreal/rendering/11-rdg/index.md
         - RDG 개요: unreal/rendering/11-rdg/01-rdg-overview.md

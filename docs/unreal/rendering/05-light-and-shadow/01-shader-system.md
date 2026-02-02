@@ -17,6 +17,9 @@
 
 ## 1. 셰이더 파일 개요 {#1-셰이더-파일-개요}
 
+![셰이더 시스템 개요](../images/ch05/1617944-20210505185102458-372099872.png)
+*UE 셰이더 시스템 전체 구조*
+
 ### 파일 위치 및 수량
 
 UE의 셰이더 파일은 `Engine/Shaders/` 디렉토리에 위치하며, **600개 이상**의 파일로 구성됩니다.
@@ -46,6 +49,9 @@ Engine/Shaders/
 
 ## 2. 3-Tier 모듈 구조 {#2-3-tier-모듈-구조}
 
+![3-Tier 구조](../images/ch05/1617944-20190615151031685-603872598.png)
+*셰이더 모듈 3-Tier 계층 구조*
+
 UE 셰이더는 3단계 계층 구조로 조직화되어 있습니다:
 
 ```
@@ -70,6 +76,9 @@ UE 셰이더는 3단계 계층 구조로 조직화되어 있습니다:
 ---
 
 ## 3. Tier 1: 기초 모듈 {#3-tier-1-기초-모듈}
+
+![기초 모듈](../images/ch05/1617944-20210527125201662-1245458023.jpg)
+*Tier 1 기초 모듈 구성*
 
 ### 3.1 Platform.ush
 
@@ -107,6 +116,9 @@ UE 셰이더는 3단계 계층 구조로 조직화되어 있습니다:
 ### 3.2 Common.ush
 
 수백 개의 유틸리티 함수를 제공하는 핵심 모듈입니다.
+
+![Common.ush 함수](../images/ch05/1617944-20210527125406915-53652979.webp)
+*Common.ush의 주요 유틸리티 함수*
 
 ```hlsl
 // Common.ush - 핵심 유틸리티 함수
@@ -196,6 +208,9 @@ float ConvertFromDeviceZ(float DeviceZ)
 
 ### 3.4 ShadingCommon.ush
 
+![셰이딩 모델](../images/ch05/1617944-20210527125516707-1077778770.jpg)
+*UE의 12가지 셰이딩 모델*
+
 셰이딩 모델 정의와 반사율 계산 함수를 제공합니다.
 
 ```hlsl
@@ -240,6 +255,9 @@ float IORFromF0(float F0)
 ```
 
 ### 3.5 BRDF.ush
+
+![BRDF 함수](../images/ch05/1617944-20210527125647846-1373192437.jpg)
+*Cook-Torrance BRDF 구성 요소*
 
 Cook-Torrance BRDF의 모든 구성 요소를 구현합니다.
 
@@ -380,6 +398,9 @@ float3 SpecularGGX(float Roughness, float3 F0, BxDFContext Context)
 
 ### 3.6 DeferredShadingCommon.ush
 
+![G-Buffer 구조](../images/ch05/1617944-20210527125700281-1732940334.jpg)
+*G-Buffer 데이터 레이아웃*
+
 G-Buffer 인코딩/디코딩 함수를 제공합니다.
 
 ```hlsl
@@ -487,6 +508,9 @@ FGBufferData DecodeGBuffer(
 
 ## 4. Tier 2: 중간 모듈 {#4-tier-2-중간-모듈}
 
+![중간 모듈](../images/ch05/1617944-20210527125716483-612678730.jpg)
+*Tier 2 중간 모듈 구성*
+
 ### 4.1 ShadingModels.ush
 
 12가지 셰이딩 모델의 라이팅 계산을 구현합니다.
@@ -552,6 +576,9 @@ FDirectLighting IntegrateBxDF(
 
 ### 4.2 DeferredLightingCommon.ush
 
+![라이팅 공통](../images/ch05/1617944-20210527125733360-1579820233.png)
+*디퍼드 라이팅 공통 구조*
+
 디퍼드 라이팅의 공통 로직을 제공합니다.
 
 ```hlsl
@@ -611,6 +638,9 @@ float GetLocalLightAttenuation(
 ---
 
 ## 5. Tier 3: 구현 모듈 {#5-tier-3-구현-모듈}
+
+![구현 모듈](../images/ch05/1617944-20210527125757261-177285983.jpg)
+*Tier 3 최종 구현 셰이더*
 
 ### 5.1 BasePassPixelShader.usf
 
@@ -700,6 +730,9 @@ float4 DeferredLightPixelMain(
 
 ## 6. 모듈 의존성 다이어그램 {#6-모듈-의존성-다이어그램}
 
+![모듈 의존성](../images/ch05/1617944-20210527125853255-868399953.jpg)
+*셰이더 모듈 간 의존성 관계*
+
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
 │                      셰이더 모듈 의존성 그래프                        │
@@ -762,3 +795,9 @@ float4 DeferredLightPixelMain(
 - 원문: https://www.cnblogs.com/timlly/p/14817455.html
 - UE Source: `Engine/Shaders/Private/`
 - "Physically Based Rendering" - Pharr et al.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../" style="text-decoration: none;">← 이전: Ch.05 개요</a>
+  <a href="../02-basepass/" style="text-decoration: none;">다음: 02. BasePass →</a>
+</div>

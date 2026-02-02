@@ -146,3 +146,9 @@ float4 DeferredLightPixelMain(float2 ScreenUV) : SV_Target0
 ## 다음 문서
 
 [04. 디퍼드 변형](04-deferred-variants.md)에서 TBDR, Clustered 등 고급 기법을 살펴봅니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../02-gbuffer/" style="text-decoration: none;">← 이전: 02. G-Buffer 구조</a>
+  <a href="../04-deferred-variants/" style="text-decoration: none;">다음: 04. 디퍼드 렌더링 변형 →</a>
+</div>

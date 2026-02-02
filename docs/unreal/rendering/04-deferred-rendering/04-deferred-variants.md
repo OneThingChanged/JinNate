@@ -101,3 +101,9 @@ G-Buffer 대신 삼각형 ID + 인스턴스 ID만 저장 (4 bytes):
 ## 다음 문서
 
 [05. 프레임 분석](05-frame-analysis.md)에서 실제 프레임 캡처 분석을 살펴봅니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../03-pipeline-stages/" style="text-decoration: none;">← 이전: 03. 렌더링 파이프라인 단계</a>
+  <a href="../05-frame-analysis/" style="text-decoration: none;">다음: 05. UE 프레임 분석 →</a>
+</div>

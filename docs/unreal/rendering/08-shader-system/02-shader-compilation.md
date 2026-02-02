@@ -4,6 +4,14 @@ UE의 셰이더 컴파일 파이프라인, 순열 시스템, 캐싱을 분석합
 
 ---
 
+## GLSL 셰이더 파이프라인
+
+![GLSL 셰이더 파이프라인](../images/ch08/1617944-20210802224313983-501197597.jpg)
+
+*HLSLCC를 통한 GLSL 변환 - HLSL 파싱 → AST → Mesa IR → 최적화 → GLSL 출력 + Parameter Map*
+
+---
+
 ## 컴파일 파이프라인
 
 ### 전체 흐름
@@ -111,6 +119,14 @@ void SubmitShaderCompileJob(FShaderType* Type, int32 Permutation)
 ---
 
 ## 크로스 컴파일
+
+![HLSL 크로스 컴파일 흐름](../images/ch08/1617944-20210802224406321-493419453.png)
+
+*HLSL 크로스 컴파일 파이프라인 - D3DCompiler(DXBC/DXIL)와 SPIR-V 경로로 분기하여 각 플랫폼 지원*
+
+![SPIR-V 에코시스템](../images/ch08/1617944-20210802224300810-1196548340.jpg)
+
+*SPIR-V 기반 셰이더 에코시스템 - GLSL/HLSL에서 SPIR-V로 변환 후 SPIRV-Cross로 Metal/HLSL/GLSL 재생성*
 
 ### 플랫폼별 컴파일러
 
@@ -609,3 +625,9 @@ void InitializeWorkerPool()
 | 비동기 컴파일 | 워커 프로세스 병렬 처리 |
 
 셰이더 컴파일 시스템은 성능과 호환성의 균형을 맞춥니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../01-shader-architecture/" style="text-decoration: none;">← 이전: 01. 셰이더 아키텍처</a>
+  <a href="../03-shader-types/" style="text-decoration: none;">다음: 03. 셰이더 타입 →</a>
+</div>

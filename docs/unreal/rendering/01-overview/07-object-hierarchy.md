@@ -630,3 +630,9 @@ private:
 - [원문 시리즈 (중국어)](https://www.cnblogs.com/timlly/p/13877623.html)
 - [Unreal Engine 공식 문서](https://docs.unrealengine.com/)
 - [Epic Games GitHub](https://github.com/EpicGames/UnrealEngine)
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../06-memory-management/" style="text-decoration: none;">← 이전: 06. 메모리 관리 시스템</a>
+  <a href="../../02-multithreading/" style="text-decoration: none;">다음: Ch.02 멀티스레드 렌더링 →</a>
+</div>

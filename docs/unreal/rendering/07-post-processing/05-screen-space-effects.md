@@ -4,6 +4,14 @@ SSAO, SSR, SSS 등 화면 공간 기반 포스트 이펙트를 분석합니다.
 
 ---
 
+## 타일 기반 렌더링과 스크린 스페이스
+
+![타일 기반 라이팅](../images/ch07/1617944-20210505185030036-207727436.png)
+
+*Tiled Forward Shading과 Light Heatmap - 타일 기반 접근법은 SSAO, SSR 등 스크린 스페이스 효과의 최적화에도 적용됨*
+
+---
+
 ## 스크린 스페이스 기법 개요
 
 ```
@@ -385,6 +393,14 @@ float4 TraceSSRWithRoughness(float2 UV, float Roughness)
 }
 ```
 
+### Planar Reflection (대안)
+
+SSR의 한계를 보완하기 위해 Planar Reflection을 사용할 수 있습니다.
+
+![Planar Reflection 시각화](../images/ch07/1617944-20211105010750350-956510209.png)
+
+*Planar Reflection 파이프라인 - 반사 평면 기준으로 씬을 다시 렌더링하여 정확한 반사 생성*
+
 ### SSR과 다른 반사 블렌딩
 
 ```hlsl
@@ -643,3 +659,9 @@ class FTemporalDistribution
 | Contact Shadow | 근거리 레이마칭 | Depth | 낮음 |
 
 스크린 스페이스 기법은 동적 씬에서 효율적인 시각 효과를 제공합니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../04-temporal-effects/" style="text-decoration: none;">← 이전: 04. 템포럴 효과</a>
+  <a href="../../08-shader-system/" style="text-decoration: none;">다음: Ch.08 셰이더 시스템 →</a>
+</div>

@@ -8,7 +8,13 @@ UE5의 고해상도 동적 그림자 시스템 Virtual Shadow Maps을 분석합�
 
 Virtual Shadow Maps (VSM)은 UE5의 **가상 텍스처 기반 그림자 시스템**입니다. 최대 16K x 16K 가상 해상도로 매우 상세한 그림자를 제공합니다.
 
+![VSM 개요](../images/ch06/1617944-20210713162941455-1261451584.jpg)
+*Virtual Shadow Maps 개요*
+
 ### 기존 그림자 방식의 문제
+
+![CSM vs VSM](../images/ch06/1617944-20210713163002559-1163203004.jpg)
+*Cascaded Shadow Maps vs Virtual Shadow Maps*
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -63,6 +69,9 @@ Virtual Shadow Maps (VSM)은 UE5의 **가상 텍스처 기반 그림자 시스�
 
 ### 가상 텍스처 구조
 
+![VSM 구조](../images/ch06/1617944-20210713163024822-1630362874.jpg)
+*Virtual Shadow Map 가상 텍스처 구조*
+
 ```cpp
 // Virtual Shadow Map 구조
 class FVirtualShadowMap
@@ -99,6 +108,9 @@ class FVirtualShadowMap
 ```
 
 ### 광원 유형별 구조
+
+![광원별 VSM](../images/ch06/1617944-20210713163035274-1668312002.jpg)
+*광원 유형별 Virtual Shadow Map 구조*
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -156,6 +168,9 @@ class FVirtualShadowMap
 
 ### 필요 페이지 결정
 
+![페이지 관리](../images/ch06/1617944-20210713163056181-271166115.jpg)
+*페이지 요청 및 할당*
+
 ```cpp
 // 프레임별 페이지 요청 수집
 class FVirtualShadowMapPageManager
@@ -198,6 +213,9 @@ class FVirtualShadowMapPageManager
 ```
 
 ### 페이지 할당 및 캐싱
+
+![페이지 캐싱](../images/ch06/1617944-20210713163103985-1106105385.jpg)
+*페이지 할당 및 캐시 시스템*
 
 ```cpp
 // 페이지 할당 시스템
@@ -255,6 +273,9 @@ class FVirtualShadowMapPageAllocator
 
 ### GPU-Driven Shadow Rendering
 
+![Nanite 통합](../images/ch06/1617944-20210713163115587-2050937451.png)
+*Nanite와 VSM 통합*
+
 ```cpp
 // Nanite 클러스터로 VSM 렌더링
 class FVirtualShadowMapNaniteRenderer
@@ -300,6 +321,9 @@ class FVirtualShadowMapNaniteRenderer
 
 ### 정적 캐싱
 
+![정적 캐싱](../images/ch06/1617944-20210713163127721-686391919.jpg)
+*정적 지오메트리 그림자 캐싱*
+
 ```cpp
 // 정적 지오메트리 그림자 캐싱
 class FVirtualShadowMapCaching
@@ -344,6 +368,9 @@ class FVirtualShadowMapCaching
 
 ### 그림자 샘플링
 
+![그림자 샘플링](../images/ch06/1617944-20210713163137325-1187635329.png)
+*Virtual Shadow Map 샘플링*
+
 ```cpp
 // VSM 그림자 샘플링
 float SampleVirtualShadowMap(float3 WorldPos, FLightData Light)
@@ -385,6 +412,9 @@ float SampleVirtualShadowMap(float3 WorldPos, FLightData Light)
 
 ### PCF 필터링
 
+![PCF 필터링](../images/ch06/1617944-20210713163204032-1378629667.jpg)
+*Percentage Closer Filtering*
+
 ```cpp
 // Percentage Closer Filtering
 float SampleVSMWithPCF(float3 WorldPos, FLightData Light, int FilterSize)
@@ -423,6 +453,9 @@ float SampleVSMWithPCF(float3 WorldPos, FLightData Light, int FilterSize)
 ## 성능 최적화
 
 ### 페이지 예산 관리
+
+![예산 관리](../images/ch06/1617944-20210713163213410-1625310752.jpg)
+*메모리 예산 기반 페이지 관리*
 
 ```cpp
 // 메모리 예산 기반 페이지 관리
@@ -478,6 +511,9 @@ class FVSMBudgetManager
 
 ### 비동기 업데이트
 
+![비동기 업데이트](../images/ch06/1617944-20210713163222892-1106353828.jpg)
+*시간 분산 업데이트*
+
 ```cpp
 // 시간 분산 업데이트
 class FVSMAsyncUpdater
@@ -521,6 +557,9 @@ class FVSMAsyncUpdater
 
 ### 프로젝트 설정
 
+![VSM 설정](../images/ch06/1617944-20210713163234545-838524262.jpg)
+*Virtual Shadow Maps 프로젝트 설정*
+
 ```ini
 ; DefaultEngine.ini
 [/Script/Engine.RendererSettings]
@@ -539,6 +578,9 @@ r.Shadow.Virtual.ResolutionLodBiasLocal=0
 ```
 
 ### 디버그 시각화
+
+![VSM 시각화](../images/ch06/1617944-20210713163245091-675828692.jpg)
+*VSM 디버그 시각화*
 
 ```cpp
 // VSM 시각화 명령어
@@ -574,3 +616,9 @@ ShowFlag.VirtualShadowMapsVisualizations 1
 | PCF 필터링 | 부드러운 그림자 경계 |
 
 Virtual Shadow Maps는 Nanite와 함께 UE5의 고품질 그림자 시스템을 구성합니다.
+---
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 16px 0;">
+  <a href="../03-lumen/" style="text-decoration: none;">← 이전: 03. Lumen 글로벌 일루미네이션</a>
+  <a href="../05-other-features/" style="text-decoration: none;">다음: 05. 기타 UE5 렌더링 기능 →</a>
+</div>
